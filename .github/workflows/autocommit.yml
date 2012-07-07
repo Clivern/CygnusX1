@@ -6,7 +6,7 @@ on:
 
   push:
     branches:
-      - main
+      - master
 
 permissions:
    contents: write
@@ -35,7 +35,7 @@ jobs:
           git config --local user.name "Todd"
           git add -A
 
-          git commit -m "Add a new fact about our Universe"
+          git commit -m "🐺 Add a new fact about our Universe"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
