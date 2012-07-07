@@ -1,6 +1,6 @@
 # MIT License
 #
-# Copyright (c) 2023 Clivern
+# Copyright (c) 2022 Clivern
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -38,8 +38,8 @@ def explorer():
     pass
 
 
-# Delete host sub command
-@explorer.command(help="Delete a host")
+# Launch sub command
+@explorer.command(help="Launch sub Command")
 @click.argument("file")
 @click.option("-p", "--platform", "platform", type=click.STRING, default="nasa", help="the platform")
 def launch(file, platform):
