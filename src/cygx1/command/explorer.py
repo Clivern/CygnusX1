@@ -43,7 +43,18 @@ class Launch:
 
         if self.platform == "nasa":
             result = self.nasa.fetch(os.getenv('NASA_API_KEY'))
-            data = f"<p align='center'><img src='{result['url']}' width='50%' /><p align='center'>{result['explanation']}</p></p>"
+            data = f"""<p align='center'>
+  <img src='{result['url']}' width='60%' />
+    <h3 align="center">CygnusX1</h3>
+    <p align="center">The immensity of the universe is difficult to grasp.</p>
+</p>
+<br/>
+
+Explanation
+--
+{result['explanation']}
+"""
+            data = data.replace("   Explore Your Universe: Random APOD Generator", "")
             self.file_system.write_file(self.file, data)
 
         click.echo("Explorer finished successfully!")
