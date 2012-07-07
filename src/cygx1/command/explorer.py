@@ -59,7 +59,7 @@ Explanation
 {result['explanation']}
 
 
-Last updated at {formatted_date_time}
+*Last updated at {formatted_date_time}*
 """
             data = data.replace("   Explore Your Universe: Random APOD Generator", "")
             self.file_system.write_file(self.file, data)
