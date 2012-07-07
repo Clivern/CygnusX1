@@ -26,7 +26,7 @@ jobs:
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
-          pip3 install cgyx1
+          pip3 install cygx1
           cygx1 explorer launch README.md
 
       - name: Commit changes
