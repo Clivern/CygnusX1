@@ -22,7 +22,7 @@
 
 import logging
 import pytest
-from pallur.module.logger import Logger
+from cygx1.module.logger import Logger
 
 
 def test_logger():

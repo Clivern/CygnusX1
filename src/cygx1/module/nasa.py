@@ -20,50 +20,20 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-import json
-from re import sub
-from prettytable import PrettyTable
+import requests
 
 
-class Output:
-    """Output Class"""
+class Nasa:
+    """Nasa Class"""
 
-    JSON = "JSON"
-    DEFAULT = "DEFAULT"
+    URL = "https://api.nasa.gov/planetary/apod"
 
-    def _table(self, data):
-        """Output data as Table"""
-        headers = []
-        rows = []
+    def fetch(self, api_key):
+        """Fetch Nasa Data"""
 
-        for item in data:
-            headers = item.keys()
-            rows.append(item.values())
+        response = requests.get(
+            Nasa.URL,
+            headers={'X-API-KEY': api_key}
+        )
 
-        x = PrettyTable()
-        x.field_names = headers
-        x.add_rows(rows)
-
-        return x
-
-    def _json(self, data):
-        """Output data as JSON"""
-        new = []
-
-        for item in data:
-            new.append({self.camel_case(k): v for k, v in item.items()})
-
-        return json.dumps(new)
-
-    def render(self, data, typ):
-        """Render Data to the Console"""
-        if typ == Output.JSON:
-            return self._json(data)
-
-        return self._table(data)
-
-    def camel_case(self, value):
-        """Change string into camel case"""
-        value = sub(r"(_|-)+", " ", value).title().replace(" ", "")
-
-        return "".join([value[0].lower(), value[1:]])
+        return response.json()

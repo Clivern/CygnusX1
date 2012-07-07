@@ -20,58 +20,37 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+import os
+import click
 
-class Secret:
-    """Secret Model"""
+from cygx1.module.nasa import Nasa
+from cygx1.module.logger import Logger
+from cygx1.module.file_system import FileSystem
 
-    def __init__(
-        self,
-        id,
-        name,
-        value,
-        tags,
-        created_at,
-        updated_at,
-    ):
-        """Class Constructor"""
-        self._id = id
-        self._name = name
-        self._value = value
-        self._tags = tags
-        self._created_at = created_at
-        self._updated_at = updated_at
 
-    @property
-    def id(self):
-        """Secret ID"""
-        return self._id
+class Launch:
+    """Launch Class"""
 
-    @property
-    def name(self):
-        """Secret Name"""
-        return self._name
+    def __init__(self, file, platform):
+        self.file = file
+        self.platform = platform
+        self.nasa = Nasa()
+        self.file_system = FileSystem()
+        self.logger = Logger().get_logger(__name__)
 
-    @property
-    def value(self):
-        """Secret Value"""
-        return self._value
+    def run(self):
+        """Run explorer"""
 
-    @property
-    def tags(self):
-        """Secret Tags"""
-        return self._tags
+        if self.platform == "nasa":
+            result = self.nasa.fetch(os.getenv('NASA_API_KEY'))
 
-    @value.setter
-    def value(self, value):
-        """Set Value"""
-        self._value = value
+            data = f"""
+            <p align="center">
+                <img src="{result['url']}" width="100%" />
+                <p align="center">{result['explanation']}</p>
+            </p>
+            """
 
-    @property
-    def created_at(self):
-        """Secret Created At"""
-        return self._created_at
+            self.file_system.write_file(self.file, data)
 
-    @property
-    def updated_at(self):
-        """Secret Updated At"""
-        return self._updated_at
+        click.echo("Explorer finished successfully!")

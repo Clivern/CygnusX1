@@ -20,26 +20,35 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-import os
-import yaml
+import click
+
+from cygx1 import __version__
+from cygx1.command.explorer import Launch
 
 
-class Config:
-    """Config Class"""
+@click.group(help="🐺 The immensity of the universe is difficult to grasp.")
+@click.version_option(version=__version__, help="Show the current version")
+def main():
+    pass
 
-    FILE = ".pallur.yml"
 
-    def __init__(self):
-        self.configs = {}
-        self._home = os.getenv("HOME", "")
+# Explorer command
+@click.group(help="Explorer Commands")
+def explorer():
+    pass
 
-    def load(self):
-        """Load Configs"""
-        with open("{}/{}".format(self._home, Config.FILE)) as f:
-            self.configs = yaml.load(f, Loader=yaml.FullLoader)
 
-        return self.configs
+# Delete host sub command
+@explorer.command(help="Delete a host")
+@click.argument("file")
+@click.option("-p", "--platform", "platform", type=click.STRING, default="nasa", help="the platform")
+def launch(file, platform):
+    return Launch(file, platform).run()
 
-    def get_configs(self):
-        """Get Configs"""
-        return self.configs
+
+# Register Commands
+main.add_command(explorer)
+
+
+if __name__ == "__main__":
+    main()
