@@ -33,8 +33,8 @@ class Launch:
 
     def __init__(self, file, platform):
         self.file = file
-        self.platform = platform
         self.nasa = Nasa()
+        self.platform = platform
         self.file_system = FileSystem()
         self.logger = Logger().get_logger(__name__)
 
