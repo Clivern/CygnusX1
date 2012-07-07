@@ -22,6 +22,7 @@
 
 import os
 import click
+from datetime import datetime
 
 from cygx1.module.nasa import Nasa
 from cygx1.module.logger import Logger
@@ -41,6 +42,9 @@ class Launch:
     def run(self):
         """Run explorer"""
 
+        now = datetime.now()
+        formatted_date_time = now.strftime("%Y-%m-%d %H:%M:%S")
+
         if self.platform == "nasa":
             result = self.nasa.fetch(os.getenv('NASA_API_KEY'))
             data = f"""<p align='center'>
@@ -53,6 +57,9 @@ class Launch:
 Explanation
 --
 {result['explanation']}
+
+
+Last updated at {formatted_date_time}
 """
             data = data.replace("   Explore Your Universe: Random APOD Generator", "")
             self.file_system.write_file(self.file, data)
