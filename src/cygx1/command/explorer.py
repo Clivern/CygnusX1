@@ -43,7 +43,7 @@ class Launch:
 
         if self.platform == "nasa":
             result = self.nasa.fetch(os.getenv('NASA_API_KEY'))
-            data = f"<p align='center'><img src='{result['url']}' width='100%' /><p align='center'>{result['explanation']}</p></p>"
+            data = f"<p align='center'><img src='{result['url']}' width='50%' /><p align='center'>{result['explanation']}</p></p>"
             self.file_system.write_file(self.file, data)
 
         click.echo("Explorer finished successfully!")
