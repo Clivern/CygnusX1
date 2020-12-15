@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/assets/logo.png?v=0.1.1" width="170" />
+    <img src="/static/logo.png?v=0.1.1" width="170" />
     <h3 align="center">Kevent</h3>
     <p align="center">Watch Kubernetes Events</p>
     <p align="center">
@@ -10,7 +10,7 @@
             <img src="https://github.com/clivern/kevent/workflows/Release/badge.svg">
         </a>
         <a href="https://github.com/clivern/kevent/releases">
-            <img src="https://img.shields.io/badge/Version-0.1.1-pink.svg">
+            <img src="https://img.shields.io/badge/Version-0.1.1-red.svg">
         </a>
         <a href="https://goreportcard.com/report/github.com/clivern/kevent">
             <img src="https://goreportcard.com/badge/github.com/clivern/kevent?v=0.1.1">
