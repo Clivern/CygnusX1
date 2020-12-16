@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/static/logo.png?v=0.1.1" width="200" />
+    <img src="/static/logo.png?v=0.1.1" width="280" />
     <h3 align="center">Copper</h3>
     <p align="center">Watch Kubernetes Events</p>
     <p align="center">
