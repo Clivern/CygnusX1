@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="/static/logo.png?v=0.1.1" width="280" />
+    <img src="/static/logo.png?v=0.1.0" width="280" />
     <h3 align="center">Copper</h3>
-    <p align="center">Watch Kubernetes Events</p>
+    <p align="center">Kubernetes Monitoring and Observability Platform</p>
     <p align="center">
         <a href="https://github.com/clivern/copper/actions/workflows/build.yml">
             <img src="https://github.com/clivern/copper/actions/workflows/build.yml/badge.svg">
@@ -10,10 +10,10 @@
             <img src="https://github.com/clivern/copper/workflows/Release/badge.svg">
         </a>
         <a href="https://github.com/clivern/copper/releases">
-            <img src="https://img.shields.io/badge/Version-0.1.1-red.svg">
+            <img src="https://img.shields.io/badge/Version-0.1.0-red.svg">
         </a>
         <a href="https://goreportcard.com/report/github.com/clivern/copper">
-            <img src="https://goreportcard.com/badge/github.com/clivern/copper?v=0.1.1">
+            <img src="https://goreportcard.com/badge/github.com/clivern/copper?v=0.1.0">
         </a>
         <a href="https://godoc.org/github.com/clivern/copper">
             <img src="https://godoc.org/github.com/clivern/copper?status.svg">
