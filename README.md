@@ -3,8 +3,11 @@
     <h3 align="center">Copper</h3>
     <p align="center">Kubernetes Monitoring and Observability Platform</p>
     <p align="center">
-        <a href="https://github.com/clivern/copper/actions/workflows/build.yml">
-            <img src="https://github.com/clivern/copper/actions/workflows/build.yml/badge.svg">
+        <a href="https://github.com/clivern/copper/actions/workflows/api.yml">
+            <img src="https://github.com/clivern/copper/actions/workflows/api.yml/badge.svg">
+        </a>
+        <a href="https://github.com/clivern/copper/actions/workflows/ui.yml">
+            <img src="https://github.com/clivern/copper/actions/workflows/ui.yml/badge.svg">
         </a>
         <a href="https://github.com/clivern/copper/actions">
             <img src="https://github.com/clivern/copper/workflows/Release/badge.svg">

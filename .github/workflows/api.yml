@@ -1,4 +1,4 @@
-name: Build
+name: API
 
 on:
   push:
@@ -11,6 +11,7 @@ jobs:
       fail-fast: false
       matrix:
         go: ["1.17", "1.18", "1.19"]
+
     name: Go ${{ matrix.go }} run
     steps:
       - uses: actions/checkout@v3

@@ -1,6 +1,7 @@
 GO           ?= go
 GOFMT        ?= $(GO)fmt
 pkgs          = ./...
+NPM          ?= npm
 
 
 help: Makefile
@@ -15,7 +16,7 @@ help: Makefile
 .PHONY: install_revive
 install_revive:
 	@echo ">> ============= Install Revive ============= <<"
-	$(GO) get github.com/mgechev/revive
+	$(GO) install github.com/mgechev/revive@latest
 
 
 ## style: Check code style.
@@ -117,6 +118,13 @@ run:
 .PHONY: ci
 ci: style check_license test vet lint
 	@echo "\n==> All quality checks passed"
+
+
+## build_ui: Builds web dashboard for production
+.PHONY: build_ui
+build_ui:
+	@echo ">> ============= Build Vuejs App ============= <<"
+	cd web;$(NPM) install;$(NPM) run build
 
 
 .PHONY: help
