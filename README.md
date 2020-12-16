@@ -90,6 +90,24 @@ The run the `copper` with `systemd`
 $ copper server -c /path/to/config.yml
 ```
 
+
+### Run with Docker
+
+To build and push the image to docker hub registry.
+
+```zsh
+docker build -t clivern/copper:v0.1.2 .
+docker push clivern/copper:v0.1.2
+```
+
+To pull and run copper.
+
+```zsh
+$ docker pull clivern/copper:v0.1.2
+$ docker run -d -p 8000:8000 clivern/copper:v0.1.2
+```
+
+
 ## Versioning
 
 For transparency into our release cycle and in striving to maintain backward compatibility, Copper is maintained under the [Semantic Versioning guidelines](https://semver.org/) and release process is predictable and business-friendly.

@@ -1,6 +1,6 @@
 FROM ubuntu:22.04
 
-ARG APP_VERSION=1.0.0
+ARG APP_VERSION=0.1.2
 
 RUN mkdir -p /app/configs
 RUN mkdir -p /app/var/logs
