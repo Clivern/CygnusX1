@@ -9,8 +9,8 @@
         <a href="https://github.com/clivern/copper/actions/workflows/ui.yml">
             <img src="https://github.com/clivern/copper/actions/workflows/ui.yml/badge.svg">
         </a>
-        <a href="https://github.com/clivern/copper/actions">
-            <img src="https://github.com/clivern/copper/workflows/Release/badge.svg">
+        <a href="https://github.com/Clivern/Copper/actions/workflows/release.yml">
+            <img src="https://github.com/Clivern/Copper/actions/workflows/release.yml/badge.svg">
         </a>
         <a href="https://github.com/clivern/copper/releases">
             <img src="https://img.shields.io/badge/Version-0.1.2-red.svg">
