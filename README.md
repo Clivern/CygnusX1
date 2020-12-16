@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/static/logo.png?v=0.1.0" width="280" />
+    <img src="/static/logo.png?v=0.1.0" width="250" />
     <h3 align="center">Copper</h3>
     <p align="center">Kubernetes Monitoring and Observability Platform</p>
     <p align="center">
