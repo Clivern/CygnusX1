@@ -1,4 +1,4 @@
-module github.com/clivern/kevent
+module github.com/clivern/copper
 
 go 1.17
 

@@ -9,7 +9,7 @@ RUN apt-get install curl -y
 
 WORKDIR /app
 
-RUN curl -sL https://github.com/Clivern/kevent/releases/download/v${APP_VERSION}/kevent_${APP_VERSION}_Linux_x86_64.tar.gz | tar xz
+RUN curl -sL https://github.com/Clivern/copper/releases/download/v${APP_VERSION}/copper_${APP_VERSION}_Linux_x86_64.tar.gz | tar xz
 RUN rm LICENSE
 RUN rm README.md
 
@@ -20,6 +20,6 @@ EXPOSE 8000
 VOLUME /app/configs
 VOLUME /app/var
 
-RUN ./kevent version
+RUN ./copper version
 
-CMD ["./kevent", "server", "-c", "/app/configs/config.dist.yml"]
+CMD ["./copper", "server", "-c", "/app/configs/config.dist.yml"]

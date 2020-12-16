@@ -8,7 +8,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/clivern/kevent/core/service"
+	"github.com/clivern/copper/core/service"
 
 	"github.com/spf13/viper"
 	"k8s.io/apimachinery/pkg/runtime"

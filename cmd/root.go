@@ -14,11 +14,11 @@ import (
 var config string
 
 var rootCmd = &cobra.Command{
-	Use: "kevent",
+	Use: "copper",
 	Short: `🐺 Watch Kubernetes Events
 
 If you have any suggestions, bug reports, or annoyances please report
-them to our issue tracker at <https://github.com/Clivern/kevent/issues>`,
+them to our issue tracker at <https://github.com/Clivern/copper/issues>`,
 }
 
 // Execute runs cmd tool

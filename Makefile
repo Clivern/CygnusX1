@@ -5,7 +5,7 @@ pkgs          = ./...
 
 help: Makefile
 	@echo
-	@echo " Choose a command run in Kevent:"
+	@echo " Choose a command run in Copper:"
 	@echo
 	@sed -n 's/^##//p' $< | column -t -s ':' |  sed -e 's/^/ /'
 	@echo
@@ -110,7 +110,7 @@ coverage:
 .PHONY: run
 run:
 	@echo ">> ============= Run API Server ============= <<"
-	$(GO) run kevent.go server -c config.dist.yml
+	$(GO) run copper.go server -c config.dist.yml
 
 
 ## ci: Run all CI tests.
