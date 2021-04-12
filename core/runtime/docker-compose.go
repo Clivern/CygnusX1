@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/clivern/peacock/core/definition"
-	"github.com/clivern/peacock/core/service"
-	"github.com/clivern/peacock/core/util"
+	"github.com/clivern/cooper/core/definition"
+	"github.com/clivern/cooper/core/service"
+	"github.com/clivern/cooper/core/util"
 
 	log "github.com/sirupsen/logrus"
 )

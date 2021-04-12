@@ -1,4 +1,4 @@
-module github.com/clivern/peacock
+module github.com/clivern/cooper
 
 go 1.17
 

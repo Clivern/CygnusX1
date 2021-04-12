@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/clivern/peacock/core/module"
-	"github.com/clivern/peacock/core/service"
+	"github.com/clivern/cooper/core/module"
+	"github.com/clivern/cooper/core/service"
 
 	"github.com/spf13/cobra"
 )
@@ -18,7 +18,7 @@ import (
 // installCmd install kafka cluster command
 var installCmd = &cobra.Command{
 	Use:   "install",
-	Short: "Installs peacock command line locally.",
+	Short: "Installs cooper command line locally.",
 	Run: func(cmd *cobra.Command, args []string) {
 
 		if HOME == "" {
@@ -28,15 +28,15 @@ var installCmd = &cobra.Command{
 
 		fs := service.NewFileSystem()
 
-		spinner := module.NewCharmSpinner("Installing peacock!")
+		spinner := module.NewCharmSpinner("Installing cooper!")
 
 		go func() {
-			// Create $HOME/.peacock/cache
-			err := fs.EnsureDir(fmt.Sprintf("%s/.peacock/cache", HOME), 0755)
+			// Create $HOME/.cooper/cache
+			err := fs.EnsureDir(fmt.Sprintf("%s/.cooper/cache", HOME), 0755)
 
 			if err != nil {
 				fmt.Println(fmt.Sprintf(
-					"Error while creating ~/.peacock/cache: %s",
+					"Error while creating ~/.cooper/cache: %s",
 					err.Error(),
 				))
 			}

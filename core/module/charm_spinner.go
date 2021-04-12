@@ -16,7 +16,7 @@ import (
 //
 // ```
 // import (
-//	  "github.com/clivern/peacock/core/module"
+//	  "github.com/clivern/cooper/core/module"
 // )
 //
 //

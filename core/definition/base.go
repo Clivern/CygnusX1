@@ -7,7 +7,7 @@ package definition
 import (
 	"strings"
 
-	"github.com/clivern/peacock/core/service"
+	"github.com/clivern/cooper/core/service"
 
 	"gopkg.in/yaml.v2"
 )

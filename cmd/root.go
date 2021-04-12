@@ -15,11 +15,11 @@ var config string
 
 // rootCmd command line root command
 var rootCmd = &cobra.Command{
-	Use: "peacock",
+	Use: "cooper",
 	Short: `🐺 Modern Command Line Tool for Apache Kafka.
 
 If you have any suggestions, bug reports, or annoyances please report
-them to our issue tracker at <https://github.com/Clivern/peacock/issues>`,
+them to our issue tracker at <https://github.com/Clivern/cooper/issues>`,
 }
 
 // Execute runs cmd tool

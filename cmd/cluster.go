@@ -9,11 +9,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/clivern/peacock/core/definition"
-	"github.com/clivern/peacock/core/driver"
-	"github.com/clivern/peacock/core/model"
-	"github.com/clivern/peacock/core/module"
-	"github.com/clivern/peacock/core/runtime"
+	"github.com/clivern/cooper/core/definition"
+	"github.com/clivern/cooper/core/driver"
+	"github.com/clivern/cooper/core/model"
+	"github.com/clivern/cooper/core/module"
+	"github.com/clivern/cooper/core/runtime"
 
 	"github.com/spf13/cobra"
 )
@@ -37,7 +37,7 @@ var listCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 
 		db := driver.NewDatabase(fmt.Sprintf(
-			"%s/.peacock/peacock.db",
+			"%s/.cooper/cooper.db",
 			HOME,
 		))
 
@@ -78,7 +78,7 @@ var destroyCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 
 		db := driver.NewDatabase(fmt.Sprintf(
-			"%s/.peacock/peacock.db",
+			"%s/.cooper/cooper.db",
 			HOME,
 		))
 
@@ -102,7 +102,7 @@ var destroyCmd = &cobra.Command{
 		}
 
 		dc := runtime.NewDockerCompose(fmt.Sprintf(
-			"%s/.peacock/cache",
+			"%s/.cooper/cache",
 			HOME,
 		))
 
@@ -150,7 +150,7 @@ var runCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 
 		db := driver.NewDatabase(fmt.Sprintf(
-			"%s/.peacock/peacock.db",
+			"%s/.cooper/cooper.db",
 			HOME,
 		))
 
@@ -183,7 +183,7 @@ var runCmd = &cobra.Command{
 		id := definition.GetServiceID()
 
 		dc := runtime.NewDockerCompose(fmt.Sprintf(
-			"%s/.peacock/cache",
+			"%s/.cooper/cache",
 			HOME,
 		))
 

@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/clivern/peacock/cmd"
-	"github.com/clivern/peacock/core/driver"
+	"github.com/clivern/cooper/cmd"
+	"github.com/clivern/cooper/core/driver"
 
 	log "github.com/sirupsen/logrus"
 )
@@ -52,7 +52,7 @@ func main() {
 	log.SetFormatter(&log.JSONFormatter{})
 
 	db := driver.NewDatabase(fmt.Sprintf(
-		"%s/.peacock/peacock.db",
+		"%s/.cooper/cooper.db",
 		cmd.HOME,
 	))
 

@@ -40,15 +40,15 @@ snapshot:
   name_template: "{{ .Tag }}-next"
 
 brews:
-  - name: peacock
-    homepage: 'https://github.com/Clivern/Peacock'
+  - name: cooper
+    homepage: 'https://github.com/Clivern/Cooper'
     folder: formula
     tap:
       owner: Clivern
-      name: Peacock
+      name: Cooper
       token: "{{ .Env.TAP_GITHUB_TOKEN }}"
     commit_author:
       name: todd-the-bot
       email: support@clivern.com
 
-project_name: peacock
+project_name: cooper
