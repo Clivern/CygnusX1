@@ -17,7 +17,7 @@ import (
 //
 // ```
 // import (
-//	  "github.com/clivern/cooper/core/module"
+//	  "github.com/clivern/nitro/core/module"
 // )
 //
 //

@@ -8,8 +8,8 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/clivern/cooper/core/model"
-	"github.com/clivern/cooper/core/service"
+	"github.com/clivern/nitro/core/model"
+	"github.com/clivern/nitro/core/service"
 
 	_ "modernc.org/sqlite"
 )

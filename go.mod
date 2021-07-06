@@ -1,4 +1,4 @@
-module github.com/clivern/cooper
+module github.com/clivern/nitro
 
 go 1.17
 

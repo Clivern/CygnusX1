@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/clivern/cooper/cmd"
-	"github.com/clivern/cooper/core/driver"
+	"github.com/clivern/nitro/cmd"
+	"github.com/clivern/nitro/core/driver"
 
 	log "github.com/sirupsen/logrus"
 )
@@ -52,7 +52,7 @@ func main() {
 	log.SetFormatter(&log.JSONFormatter{})
 
 	db := driver.NewDatabase(fmt.Sprintf(
-		"%s/.cooper/cooper.db",
+		"%s/.nitro/nitro.db",
 		cmd.HOME,
 	))
 

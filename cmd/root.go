@@ -15,11 +15,11 @@ var config string
 
 // rootCmd command line root command
 var rootCmd = &cobra.Command{
-	Use: "cooper",
+	Use: "nitro",
 	Short: `🐺 Modern Command Line Tool for Apache Kafka.
 
 If you have any suggestions, bug reports, or annoyances please report
-them to our issue tracker at <https://github.com/Clivern/cooper/issues>`,
+them to our issue tracker at <https://github.com/Clivern/nitro/issues>`,
 }
 
 // Execute runs cmd tool

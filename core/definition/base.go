@@ -7,7 +7,7 @@ package definition
 import (
 	"strings"
 
-	"github.com/clivern/cooper/core/service"
+	"github.com/clivern/nitro/core/service"
 
 	"gopkg.in/yaml.v2"
 )

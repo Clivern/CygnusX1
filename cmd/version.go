@@ -30,7 +30,7 @@ var versionCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		fmt.Println(
 			fmt.Sprintf(
-				`Current Cooper Version %v Commit %v, Built @%v By %v.`,
+				`Current Nitro Version %v Commit %v, Built @%v By %v.`,
 				Version,
 				Commit,
 				Date,

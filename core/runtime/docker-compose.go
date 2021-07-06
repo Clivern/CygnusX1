@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/clivern/cooper/core/definition"
-	"github.com/clivern/cooper/core/service"
-	"github.com/clivern/cooper/core/util"
+	"github.com/clivern/nitro/core/definition"
+	"github.com/clivern/nitro/core/service"
+	"github.com/clivern/nitro/core/util"
 
 	log "github.com/sirupsen/logrus"
 )
