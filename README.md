@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/static/logo.svg?v=0.2.0" height="100" />
+    <img src="/static/logo.svg?v=0.2.0" height="180" />
     <h3 align="center">Nitro</h3>
     <p align="center">Modern Command Line Tool for Apache Kafka.</p>
     <p align="center">
