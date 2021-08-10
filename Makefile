@@ -106,11 +106,11 @@ coverage:
 	go tool cover -html=cover.out -o coverage.html
 
 
-## run: Run the API Server
+## run: Run the Server
 .PHONY: run
 run:
 	@echo ">> ============= Run API Server ============= <<"
-	$(GO) run kevent.go daemon -c config.dist.yml
+	$(GO) run kevent.go server -c config.dist.yml
 
 
 ## ci: Run all CI tests.

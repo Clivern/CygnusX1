@@ -8,22 +8,28 @@ import (
 	"bytes"
 	"fmt"
 	"io/ioutil"
+	"net/http"
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"time"
 
+	"github.com/clivern/kevent/core/controller"
 	"github.com/clivern/kevent/core/service"
 
 	"github.com/drone/envsubst"
+	"github.com/labstack/echo-contrib/prometheus"
+	"github.com/labstack/echo/v4"
+	"github.com/labstack/echo/v4/middleware"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
 
-var daemonCmd = &cobra.Command{
-	Use:   "daemon",
-	Short: "Start the daemon",
+var serverCmd = &cobra.Command{
+	Use:   "server",
+	Short: "Start the server",
 	Run: func(cmd *cobra.Command, args []string) {
 		configUnparsed, err := ioutil.ReadFile(config)
 
@@ -84,11 +90,15 @@ var daemonCmd = &cobra.Command{
 			}
 		}
 
+		defaultLogger := middleware.DefaultLoggerConfig
+
 		if viper.GetString("app.log.output") == "stdout" {
 			log.SetOutput(os.Stdout)
+			defaultLogger.Output = os.Stdout
 		} else {
 			f, _ := os.Create(viper.GetString("app.log.output"))
 			log.SetOutput(f)
+			defaultLogger.Output = f
 		}
 
 		lvl := strings.ToLower(viper.GetString("app.log.level"))
@@ -108,21 +118,57 @@ var daemonCmd = &cobra.Command{
 
 		viper.SetDefault("config", config)
 
-		for {
-			log.Info("..")
-			time.Sleep(1 * time.Second)
+		e := echo.New()
+
+		if viper.GetString("app.mode") == "dev" {
+			e.Debug = true
+		}
+
+		e.Use(middleware.LoggerWithConfig(defaultLogger))
+		e.Use(middleware.RequestID())
+		e.Use(middleware.BodyLimit("2M"))
+		e.Use(middleware.TimeoutWithConfig(middleware.TimeoutConfig{
+			Timeout: time.Duration(viper.GetInt("app.timeout")) * time.Second,
+		}))
+
+		p := prometheus.NewPrometheus(viper.GetString("app.name"), nil)
+		p.Use(e)
+
+		e.GET("/favicon.ico", func(c echo.Context) error {
+			return c.String(http.StatusNoContent, "")
+		})
+
+		e.GET("/", controller.Health)
+		e.GET("/_health", controller.Health)
+
+		var runerr error
+
+		if viper.GetBool("app.tls.status") {
+			runerr = e.StartTLS(
+				fmt.Sprintf(":%s", strconv.Itoa(viper.GetInt("app.port"))),
+				viper.GetString("app.tls.crt_path"),
+				viper.GetString("app.tls.key_path"),
+			)
+		} else {
+			runerr = e.Start(
+				fmt.Sprintf(":%s", strconv.Itoa(viper.GetInt("app.port"))),
+			)
+		}
+
+		if runerr != nil && runerr != http.ErrServerClosed {
+			panic(runerr.Error())
 		}
 	},
 }
 
 func init() {
-	daemonCmd.Flags().StringVarP(
+	serverCmd.Flags().StringVarP(
 		&config,
 		"config",
 		"c",
 		"config.prod.yml",
 		"Absolute path to config file (required)",
 	)
-	daemonCmd.MarkFlagRequired("config")
-	rootCmd.AddCommand(daemonCmd)
+	serverCmd.MarkFlagRequired("config")
+	rootCmd.AddCommand(serverCmd)
 }
