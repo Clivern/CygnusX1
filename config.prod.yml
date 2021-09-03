@@ -17,17 +17,6 @@ app:
   # Global timeout
   timeout: ${API_TIMEOUT:-50}
 
-  # Kubernetes Clusters
-  clusters:
-      -
-          name: ${KUBE_CLUSTER_01_NAME:-production}
-          inCluster: ${KUBE_CLUSTER_01_IN_CLUSTER:-false}
-          kubeconfig: ${KUBE_CLUSTER_01_CONFIG_FILE:-/app/configs/production-cluster-kubeconfig.yaml}
-      -
-          name: ${KUBE_CLUSTER_02_NAME:-staging}
-          inCluster: ${KUBE_CLUSTER_02_IN_CLUSTER:-false}
-          kubeconfig: ${KUBE_CLUSTER_02_CONFIG_FILE:-/app/configs/staging-cluster-kubeconfig.yaml}
-
   # Log configs
   log:
     # Log level, it can be debug, info, warn, error, panic, fatal

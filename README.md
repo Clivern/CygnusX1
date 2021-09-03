@@ -1,7 +1,7 @@
 <p align="center">
     <img src="/static/logo.png?v=0.1.2" width="250" />
     <h3 align="center">Copper</h3>
-    <p align="center">Kubernetes Monitoring and Observability Platform</p>
+    <p align="center">Fast, Reliable Metric Processing System. It is Capable of Ingesting, Alerting at a Massive Scale.</p>
     <p align="center">
         <a href="https://github.com/clivern/copper/actions/workflows/api.yml">
             <img src="https://github.com/clivern/copper/actions/workflows/api.yml/badge.svg">
@@ -62,17 +62,6 @@ app:
 
   # Global timeout
   timeout: ${API_TIMEOUT:-50}
-
-  # Kubernetes Clusters
-  clusters:
-      -
-          name: ${KUBE_CLUSTER_01_NAME:-production}
-          inCluster: ${KUBE_CLUSTER_01_IN_CLUSTER:-false}
-          kubeconfig: ${KUBE_CLUSTER_01_CONFIG_FILE:-/app/configs/production-cluster-kubeconfig.yaml}
-      -
-          name: ${KUBE_CLUSTER_02_NAME:-staging}
-          inCluster: ${KUBE_CLUSTER_02_IN_CLUSTER:-false}
-          kubeconfig: ${KUBE_CLUSTER_02_CONFIG_FILE:-/app/configs/staging-cluster-kubeconfig.yaml}
 
   # Log configs
   log:

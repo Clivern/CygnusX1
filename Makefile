@@ -1,7 +1,6 @@
 GO           ?= go
 GOFMT        ?= $(GO)fmt
 pkgs          = ./...
-NPM          ?= npm
 
 
 help: Makefile
@@ -118,27 +117,6 @@ run:
 .PHONY: ci
 ci: style check_license test vet lint
 	@echo "\n==> All quality checks passed"
-
-
-## build_ui: Builds web dashboard
-.PHONY: build_ui
-build_ui:
-	@echo ">> ============= Build Vuejs App ============= <<"
-	cd web;$(NPM) install;$(NPM) run build
-
-
-## run_ui: Run web dashboard
-.PHONY: run_ui
-run_ui:
-	@echo ">> ============= Run Vuejs App ============= <<"
-	cd web;$(NPM) install;$(NPM) run dev
-
-
-## lint_ui: Lint web dashboard code
-.PHONY: lint_ui
-lint_ui:
-	@echo ">> ============= Lint Vuejs App ============= <<"
-	cd web;$(NPM) install;$(NPM) run lint
 
 
 .PHONY: help
