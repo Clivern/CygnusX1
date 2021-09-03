@@ -6,9 +6,6 @@
         <a href="https://github.com/clivern/copper/actions/workflows/api.yml">
             <img src="https://github.com/clivern/copper/actions/workflows/api.yml/badge.svg">
         </a>
-        <a href="https://github.com/clivern/copper/actions/workflows/ui.yml">
-            <img src="https://github.com/clivern/copper/actions/workflows/ui.yml/badge.svg">
-        </a>
         <a href="https://github.com/Clivern/Copper/actions/workflows/release.yml">
             <img src="https://github.com/Clivern/Copper/actions/workflows/release.yml/badge.svg">
         </a>
