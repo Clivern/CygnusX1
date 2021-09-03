@@ -1,7 +1,7 @@
 <p align="center">
     <img src="/static/logo.png?v=0.1.2" width="250" />
     <h3 align="center">Copper</h3>
-    <p align="center">Fast, Reliable Metric Processing System. It is Capable of Ingesting, Alerting at a Massive Scale.</p>
+    <p align="center">Fast, Reliable Metric Processing System, Set up in Minutes.</p>
     <p align="center">
         <a href="https://github.com/clivern/copper/actions/workflows/api.yml">
             <img src="https://github.com/clivern/copper/actions/workflows/api.yml/badge.svg">
@@ -27,6 +27,8 @@
     </p>
 </p>
 <br/>
+
+Copper is a Fast, Reliable Metric Processing System. It is Capable of Ingesting, Alerting at a Massive Scale.
 
 
 ## Documentation
