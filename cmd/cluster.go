@@ -166,10 +166,10 @@ var runCmd = &cobra.Command{
 			os.Exit(1)
 		}
 
-		_, err := db.FindByKey(clusterName)
+		clust, _ := db.FindByKey(clusterName)
 
-		if err != nil {
-			fmt.Printf("Error raised: %s", err.Error())
+		if clust.Name != "" {
+			fmt.Printf("Cluster with name %s exists", clust.Name)
 			os.Exit(1)
 		}
 
