@@ -94,16 +94,7 @@ var destroyCmd = &cobra.Command{
 			os.Exit(1)
 		}
 
-		val, _ := db.FindByKey(clusterName)
-
-		if val == "" {
-			fmt.Println("Error! cluster not found!")
-			os.Exit(1)
-		}
-
-		cluster := &model.Cluster{}
-
-		err := cluster.LoadFromJSON([]byte(val))
+		cluster, err := db.FindByKey(clusterName)
 
 		if err != nil {
 			fmt.Printf("Error raised: %s", err.Error())
@@ -175,10 +166,10 @@ var runCmd = &cobra.Command{
 			os.Exit(1)
 		}
 
-		val, _ := db.FindByKey(clusterName)
+		_, err := db.FindByKey(clusterName)
 
-		if val != "" {
-			fmt.Println("Error! cluster name is already used!")
+		if err != nil {
+			fmt.Printf("Error raised: %s", err.Error())
 			os.Exit(1)
 		}
 

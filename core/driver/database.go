@@ -69,11 +69,13 @@ func (d *Database) Insert(key, value string) error {
 }
 
 // FindByKey gets the value by key
-func (d *Database) FindByKey(key string) (string, error) {
+func (d *Database) FindByKey(key string) (*model.Cluster, error) {
 	db, err := sql.Open("sqlite", d.Datafile)
 
+	cluster := &model.Cluster{}
+
 	if err != nil {
-		return "", err
+		return cluster, err
 	}
 
 	defer db.Close()
@@ -81,7 +83,7 @@ func (d *Database) FindByKey(key string) (string, error) {
 	rows, err := db.Query(fmt.Sprintf(`SELECT value FROM cluster WHERE key = '%s'`, key))
 
 	if err != nil {
-		return "", err
+		return cluster, err
 	}
 
 	defer rows.Close()
@@ -92,13 +94,19 @@ func (d *Database) FindByKey(key string) (string, error) {
 		err = rows.Scan(&value)
 
 		if err != nil {
-			return "", err
+			return cluster, err
 		}
 
-		return value, nil
+		err = cluster.LoadFromJSON([]byte(value))
+
+		if err != nil {
+			return cluster, err
+		}
+
+		return cluster, nil
 	}
 
-	return "", fmt.Errorf("Unable to find value with key %s", key)
+	return cluster, fmt.Errorf("Unable to find value with key %s", key)
 }
 
 // DeleteByKey deletes a record by a key
