@@ -141,6 +141,8 @@ var serverCmd = &cobra.Command{
 		e.GET("/", controller.Health)
 		e.GET("/_health", controller.Health)
 
+		go controller.Daemon()
+
 		var runerr error
 
 		if viper.GetBool("app.tls.status") {
