@@ -1,12 +1,11 @@
-FROM golang:1.16.6
+FROM ubuntu:20.04
 
 ARG APP_VERSION=1.0.0
-
-ENV GO111MODULE=on
 
 RUN mkdir -p /app/configs
 RUN mkdir -p /app/var/logs
 RUN apt-get update
+RUN apt-get install curl -y
 
 WORKDIR /app
 
