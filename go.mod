@@ -16,7 +16,7 @@ require (
 require (
 	github.com/clivern/beetle v1.0.2
 	k8s.io/apimachinery v0.23.4
-	k8s.io/client-go v0.23.4
+	k8s.io/client-go v1.5.2
 )
 
 require (
