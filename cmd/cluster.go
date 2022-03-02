@@ -62,8 +62,8 @@ var showCmd = &cobra.Command{
 	},
 }
 
-// showCmd list clusters sub-command
-var showCmd = &cobra.Command{
+// addCmd list clusters sub-command
+var addCmd = &cobra.Command{
 	Use:   "add [name]",
 	Short: "Add a new kafka cluster",
 	Run: func(cmd *cobra.Command, args []string) {
@@ -265,5 +265,6 @@ func init() {
 	clusterCmd.AddCommand(runCmd)
 	clusterCmd.AddCommand(destroyCmd)
 	clusterCmd.AddCommand(showCmd)
+	clusterCmd.AddCommand(addCmd)
 	rootCmd.AddCommand(clusterCmd)
 }
