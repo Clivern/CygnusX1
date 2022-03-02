@@ -37,7 +37,7 @@ Peacock is a Modern Command Line Tool for Apache Kafka. It is easy to install an
 
 ## Documentation
 
-#### Linux Installation
+### Linux Installation
 
 Download [the latest peacock binary](https://github.com/clivern/peacock/releases). Make it executable from everywhere.
 
@@ -47,7 +47,60 @@ $ export LATEST_VERSION=$(curl --silent "https://api.github.com/repos/clivern/pe
 $ curl -sL https://github.com/clivern/peacock/releases/download/v{$LATEST_VERSION}/peacock_{$LATEST_VERSION}_Linux_x86_64.tar.gz | tar xz
 ```
 
-#### Mac Installation
+### Mac Installation
+
+
+### Usage
+
+To run a local kafka cluster with `docker` & `docker-compose` for testing, you can use the following command:
+
+```zsh
+$ peacock cluster run [name] [port]
+
+$ peacock cluster run local_clus1 3000
+$ peacock cluster run local_clus2 3001
+```
+
+Please note that the above command requires both `docker` and `docker-compose`.
+
+To destroy local clusters
+
+```zsh
+$ peacock cluster destroy [name]
+
+$ peacock cluster destroy local_clus1
+$ peacock cluster destroy local_clus2
+```
+
+To list all configured clusters
+
+```zsh
+$ peacock cluster list
+```
+
+To show cluster info
+
+```zsh
+$ peacock cluster show [name]
+
+$ peacock cluster show local_clus1
+```
+
+To add a new remote cluster
+
+```zsh
+$ peacock cluster add [name]
+
+$ peacock cluster add remote_cluster
+```
+
+To remove a configured cluster
+
+```zsh
+$ peacock cluster show [name]
+
+$ peacock cluster remove remote_cluster
+```
 
 
 ## Versioning

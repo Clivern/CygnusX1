@@ -55,23 +55,18 @@ var listCmd = &cobra.Command{
 
 // showCmd list clusters sub-command
 var showCmd = &cobra.Command{
-	Use:   "show",
+	Use:   "show [name]",
 	Short: "Show kafka cluster configs",
 	Run: func(cmd *cobra.Command, args []string) {
+		fmt.Println("")
+	},
+}
 
-		db := driver.NewDatabase(fmt.Sprintf(
-			"%s/.peacock/peacock.db",
-			HOME,
-		))
-
-		records, err := db.FindAll()
-
-		if err != nil {
-			fmt.Printf("Error raised: %s", err.Error())
-			os.Exit(1)
-		}
-
-		fmt.Println(records)
+// showCmd list clusters sub-command
+var showCmd = &cobra.Command{
+	Use:   "add [name]",
+	Short: "Add a new kafka cluster",
+	Run: func(cmd *cobra.Command, args []string) {
 		fmt.Println("")
 	},
 }
