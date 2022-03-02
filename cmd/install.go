@@ -50,7 +50,7 @@ var installCmd = &cobra.Command{
 			os.Exit(1)
 		}
 
-		fmt.Println("\n")
+		fmt.Println("")
 	},
 }
 

@@ -10,6 +10,7 @@ import (
 	"strings"
 
 	"github.com/clivern/peacock/core/definition"
+	"github.com/clivern/peacock/core/driver"
 	"github.com/clivern/peacock/core/module"
 	"github.com/clivern/peacock/core/runtime"
 
@@ -31,6 +32,12 @@ var destroyCmd = &cobra.Command{
 	Use:   "destroy [name]",
 	Short: "Destroy local kafka cluster",
 	Run: func(cmd *cobra.Command, args []string) {
+
+		db := driver.NewDatabase(fmt.Sprintf(
+			"%s/.peacock/peacock.db",
+			HOME,
+		))
+
 		if len(args) == 0 {
 			fmt.Println("Error! cluster name is required!")
 			os.Exit(1)
@@ -40,6 +47,13 @@ var destroyCmd = &cobra.Command{
 
 		if clusterName == "" {
 			fmt.Println("Error! cluster name is required!")
+			os.Exit(1)
+		}
+
+		val, _ := db.FindByKey(clusterName)
+
+		if val == "" {
+			fmt.Println("Error! cluster name is missing!")
 			os.Exit(1)
 		}
 	},
@@ -50,6 +64,11 @@ var runCmd = &cobra.Command{
 	Short: "Run a kafka cluster locally for testing",
 	Run: func(cmd *cobra.Command, args []string) {
 
+		db := driver.NewDatabase(fmt.Sprintf(
+			"%s/.peacock/peacock.db",
+			HOME,
+		))
+
 		if len(args) == 0 {
 			fmt.Println("Error! cluster name is required!")
 			os.Exit(1)
@@ -59,6 +78,13 @@ var runCmd = &cobra.Command{
 
 		if clusterName == "" {
 			fmt.Println("Error! cluster name is required!")
+			os.Exit(1)
+		}
+
+		val, _ := db.FindByKey(clusterName)
+
+		if val != "" {
+			fmt.Println("Error! cluster name is already used!")
 			os.Exit(1)
 		}
 
@@ -101,7 +127,18 @@ var runCmd = &cobra.Command{
 			os.Exit(1)
 		}
 
-		fmt.Println("\n")
+		err = db.Insert(clusterName, fmt.Sprintf(
+			`{"id":"%s", "type": "local", "port": "%s"}`,
+			id,
+			port,
+		))
+
+		if err != nil {
+			fmt.Printf("Error raised: %s", err.Error())
+			os.Exit(1)
+		}
+
+		fmt.Println("")
 	},
 }
 

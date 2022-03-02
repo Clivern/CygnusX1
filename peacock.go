@@ -5,10 +5,12 @@
 package main
 
 import (
+	"fmt"
 	"os"
 	"strings"
 
 	"github.com/clivern/peacock/cmd"
+	"github.com/clivern/peacock/core/driver"
 
 	log "github.com/sirupsen/logrus"
 )
@@ -26,22 +28,40 @@ func main() {
 	cmd.Date = date
 	cmd.BuiltBy = builtBy
 	cmd.HOME = strings.TrimSpace(os.Getenv("HOME"))
+	level := strings.ToLower(os.Getenv("PC_LOG_LEVEL"))
 
 	log.SetOutput(os.Stdout)
 
-	if os.Getenv("PC_LOG_LEVEL") == "INFO" {
+	if level == "info" {
 		log.SetLevel(log.InfoLevel)
-	} else if os.Getenv("PC_LOG_LEVEL") == "WARN" {
+	} else if level == "warn" {
 		log.SetLevel(log.WarnLevel)
-	} else if os.Getenv("PC_LOG_LEVEL") == "DEBUG" {
+	} else if level == "debug" {
 		log.SetLevel(log.DebugLevel)
-	} else if os.Getenv("PC_LOG_LEVEL") == "TRACE" {
+	} else if level == "trace" {
 		log.SetLevel(log.TraceLevel)
 	} else {
 		log.SetLevel(log.ErrorLevel)
 	}
 
+	if cmd.HOME == "" {
+		fmt.Println("Error! `HOME` environment variable is not set")
+		os.Exit(1)
+	}
+
 	log.SetFormatter(&log.JSONFormatter{})
+
+	db := driver.NewDatabase(fmt.Sprintf(
+		"%s/.peacock/peacock.db",
+		cmd.HOME,
+	))
+
+	err := db.Migrate()
+
+	if err != nil {
+		fmt.Printf("Error while migrating database: %s", err.Error())
+		os.Exit(1)
+	}
 
 	cmd.Execute()
 }
