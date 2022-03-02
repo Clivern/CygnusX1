@@ -1,21 +1,21 @@
 #!/bin/bash
 
-function copper {
-    echo "Upgrade copper ..."
+function peacock {
+    echo "Upgrade peacock ..."
 
-    cd /etc/copper
+    cd /etc/peacock
     mv config.prod.yml config.back.yml
 
-    LATEST_VERSION=$(curl --silent "https://api.github.com/repos/Clivern/copper/releases/latest" | jq '.tag_name' | sed -E 's/.*"([^"]+)".*/\1/' | tr -d v)
+    LATEST_VERSION=$(curl --silent "https://api.github.com/repos/Clivern/peacock/releases/latest" | jq '.tag_name' | sed -E 's/.*"([^"]+)".*/\1/' | tr -d v)
 
-    curl -sL https://github.com/Clivern/copper/releases/download/v{$LATEST_VERSION}/copper_{$LATEST_VERSION}_Linux_x86_64.tar.gz | tar xz
+    curl -sL https://github.com/Clivern/peacock/releases/download/v{$LATEST_VERSION}/peacock_{$LATEST_VERSION}_Linux_x86_64.tar.gz | tar xz
 
     rm config.prod.yml
     mv config.back.yml config.prod.yml
 
-    systemctl restart copper
+    systemctl restart peacock
 
-    echo "copper upgrade done!"
+    echo "peacock upgrade done!"
 }
 
-copper
+peacock

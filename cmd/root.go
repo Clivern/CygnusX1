@@ -14,11 +14,11 @@ import (
 var config string
 
 var rootCmd = &cobra.Command{
-	Use: "copper",
+	Use: "peacock",
 	Short: `🐺 Modern Command Line Tool for Apache Kafka.
 
 If you have any suggestions, bug reports, or annoyances please report
-them to our issue tracker at <https://github.com/Clivern/copper/issues>`,
+them to our issue tracker at <https://github.com/Clivern/peacock/issues>`,
 }
 
 // Execute runs cmd tool

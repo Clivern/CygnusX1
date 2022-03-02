@@ -1,34 +1,34 @@
 #!/bin/bash
 
-function copper {
-    echo "Installing copper ..."
+function peacock {
+    echo "Installing peacock ..."
 
     apt-get install jq -y
 
-    cd /etc/copper
+    cd /etc/peacock
 
-    LATEST_VERSION=$(curl --silent "https://api.github.com/repos/Clivern/copper/releases/latest" | jq '.tag_name' | sed -E 's/.*"([^"]+)".*/\1/' | tr -d v)
+    LATEST_VERSION=$(curl --silent "https://api.github.com/repos/Clivern/peacock/releases/latest" | jq '.tag_name' | sed -E 's/.*"([^"]+)".*/\1/' | tr -d v)
 
-    curl -sL https://github.com/Clivern/copper/releases/download/v{$LATEST_VERSION}/copper_{$LATEST_VERSION}_Linux_x86_64.tar.gz | tar xz
+    curl -sL https://github.com/Clivern/peacock/releases/download/v{$LATEST_VERSION}/peacock_{$LATEST_VERSION}_Linux_x86_64.tar.gz | tar xz
 
 
     echo "[Unit]
-Description=Copper
-Documentation=https://github.com/Clivern/copper
+Description=Peacock
+Documentation=https://github.com/Clivern/peacock
 
 [Service]
-ExecStart=/etc/copper/copper server -c /etc/copper/config.prod.yml
+ExecStart=/etc/peacock/peacock server -c /etc/peacock/config.prod.yml
 Restart=on-failure
 RestartSec=2
 
 [Install]
-WantedBy=multi-user.target" > /etc/systemd/system/copper.service
+WantedBy=multi-user.target" > /etc/systemd/system/peacock.service
 
     systemctl daemon-reload
-    systemctl enable copper.service
-    systemctl start copper.service
+    systemctl enable peacock.service
+    systemctl start peacock.service
 
-    echo "copper installation done!"
+    echo "peacock installation done!"
 }
 
-copper
+peacock

@@ -1,4 +1,4 @@
-module github.com/clivern/copper
+module github.com/clivern/peacock
 
 go 1.17
 

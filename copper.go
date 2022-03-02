@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/clivern/copper/cmd"
+	"github.com/clivern/peacock/cmd"
 )
 
 var (
