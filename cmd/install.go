@@ -15,6 +15,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
+// installCmd install kafka cluster command
 var installCmd = &cobra.Command{
 	Use:   "install",
 	Short: "Installs peacock command line locally.",

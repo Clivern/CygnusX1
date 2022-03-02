@@ -10,6 +10,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
+// licenseCmd command line license command
 var licenseCmd = &cobra.Command{
 	Use:   "license",
 	Short: "Print the license",

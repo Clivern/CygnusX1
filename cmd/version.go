@@ -23,6 +23,7 @@ var (
 	HOME = ""
 )
 
+// versionCmd command line version command
 var versionCmd = &cobra.Command{
 	Use:   "version",
 	Short: "Print the version number",

@@ -13,6 +13,7 @@ import (
 
 var config string
 
+// rootCmd command line root command
 var rootCmd = &cobra.Command{
 	Use: "peacock",
 	Short: `🐺 Modern Command Line Tool for Apache Kafka.

@@ -8,6 +8,7 @@ import (
 	"database/sql"
 	"fmt"
 
+	"github.com/clivern/peacock/core/model"
 	"github.com/clivern/peacock/core/service"
 
 	_ "modernc.org/sqlite"
@@ -98,4 +99,70 @@ func (d *Database) FindByKey(key string) (string, error) {
 	}
 
 	return "", fmt.Errorf("Unable to find value with key %s", key)
+}
+
+// DeleteByKey deletes a record by a key
+func (d *Database) DeleteByKey(key string) error {
+	db, err := sql.Open("sqlite", d.Datafile)
+
+	if err != nil {
+		return err
+	}
+
+	defer db.Close()
+
+	_, err = db.Exec(fmt.Sprintf(`DELETE FROM cluster WHERE key = '%s'`, key))
+
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
+// FindAll get all records
+func (d *Database) FindAll() ([]model.Cluster, error) {
+
+	clusters := []model.Cluster{}
+
+	db, err := sql.Open("sqlite", d.Datafile)
+
+	if err != nil {
+		return clusters, err
+	}
+
+	defer db.Close()
+
+	rows, err := db.Query(`SELECT key, value FROM cluster`)
+
+	if err != nil {
+		return clusters, err
+	}
+
+	defer rows.Close()
+
+	for rows.Next() {
+		var key string
+		var value string
+
+		err = rows.Scan(&key, &value)
+
+		if err != nil {
+			return clusters, err
+		}
+
+		cluster := &model.Cluster{}
+
+		err := cluster.LoadFromJSON([]byte(value))
+
+		if err != nil {
+			continue
+		}
+
+		clusters = append(clusters, *cluster)
+
+		return clusters, nil
+	}
+
+	return clusters, nil
 }
