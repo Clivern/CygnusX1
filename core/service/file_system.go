@@ -6,6 +6,7 @@ package service
 
 import (
 	"os"
+	"path/filepath"
 )
 
 // FileSystem struct
@@ -59,4 +60,27 @@ func (fs *FileSystem) DeleteDir(dir string) error {
 	}
 
 	return nil
+}
+
+// StoreFile stores a file content
+func (fs *FileSystem) StoreFile(path, content string) error {
+	dir := filepath.Dir(path)
+
+	err := os.MkdirAll(dir, 0775)
+
+	if err != nil {
+		return err
+	}
+
+	f, err := os.Create(path)
+
+	if err != nil {
+		return err
+	}
+
+	defer f.Close()
+
+	_, err = f.WriteString(content)
+
+	return err
 }
