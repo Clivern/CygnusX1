@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/static/logo.png?v=0.2.0" width="250" />
+    <img src="/static/logo.svg?v=0.2.0" width="250" />
     <h3 align="center">Copper</h3>
     <p align="center">Modern Command Line Tool for Apache Kafka.</p>
     <p align="center">
