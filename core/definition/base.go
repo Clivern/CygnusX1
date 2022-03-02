@@ -7,6 +7,8 @@ package definition
 import (
 	"strings"
 
+	"github.com/clivern/peacock/core/service"
+
 	"gopkg.in/yaml.v2"
 )
 
@@ -41,4 +43,9 @@ func (d *DockerComposeConfig) ToString() (string, error) {
 	result := strings.Replace(string(o), `omitempty`, "", -1)
 
 	return result, nil
+}
+
+// GetServiceID returns a random service uuid
+func GetServiceID() string {
+	return service.NewCorrelation().UUIDv4()
 }
