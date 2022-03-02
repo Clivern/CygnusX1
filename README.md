@@ -10,7 +10,7 @@
             <img src="https://github.com/Clivern/Copper/actions/workflows/release.yml/badge.svg">
         </a>
         <a href="https://github.com/clivern/copper/releases">
-            <img src="https://img.shields.io/badge/Version-0.2.0-red.svg">
+            <img src="https://img.shields.io/badge/Version-0.2.0-blue.svg">
         </a>
         <a href="https://goreportcard.com/report/github.com/clivern/copper">
             <img src="https://goreportcard.com/badge/github.com/clivern/copper?v=0.2.0">
@@ -19,7 +19,7 @@
             <img src="https://godoc.org/github.com/clivern/copper?status.svg">
         </a>
         <a href="https://github.com/clivern/copper/blob/master/LICENSE">
-            <img src="https://img.shields.io/badge/LICENSE-MIT-orange.svg">
+            <img src="https://img.shields.io/badge/LICENSE-MIT-blue.svg">
         </a>
     </p>
 </p>
