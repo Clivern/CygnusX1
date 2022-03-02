@@ -25,10 +25,12 @@
 </p>
 <br/>
 
+Copper is a Modern Command Line Tool for Apache Kafka. It is easy to install and use. Here is some of the features:
+
 
 ## Documentation
 
-#### Linux Deployment
+#### Linux Installation
 
 Download [the latest copper binary](https://github.com/clivern/copper/releases). Make it executable from everywhere.
 
