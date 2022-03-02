@@ -5,6 +5,9 @@
 package main
 
 import (
+	"os"
+	"strings"
+
 	"github.com/clivern/peacock/cmd"
 )
 
@@ -20,6 +23,7 @@ func main() {
 	cmd.Commit = commit
 	cmd.Date = date
 	cmd.BuiltBy = builtBy
+	cmd.HOME = strings.TrimSpace(os.Getenv("HOME"))
 
 	cmd.Execute()
 }

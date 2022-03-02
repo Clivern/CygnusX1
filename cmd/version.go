@@ -19,6 +19,8 @@ var (
 	Date = "unknown"
 	// BuiltBy buildinfo item
 	BuiltBy = "unknown"
+	// HOME the home path
+	HOME = ""
 )
 
 var versionCmd = &cobra.Command{
