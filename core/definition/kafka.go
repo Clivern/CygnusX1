@@ -12,15 +12,6 @@ const (
 	// KafkaService const
 	KafkaService = "kafka"
 
-	// ZookeeperDockerImage const
-	ZookeeperDockerImage = "confluentinc/cp-zookeeper"
-
-	// ZookeeperDockerVersion const
-	ZookeeperDockerVersion = "latest"
-
-	// ZookeeperRestartPolicy const
-	ZookeeperRestartPolicy = "unless-stopped"
-
 	// KafkaPort const
 	KafkaPort = "9092"
 
@@ -32,6 +23,15 @@ const (
 
 	// KafkaRestartPolicy const
 	KafkaRestartPolicy = "unless-stopped"
+
+	// ZookeeperDockerImage const
+	ZookeeperDockerImage = "confluentinc/cp-zookeeper"
+
+	// ZookeeperDockerVersion const
+	ZookeeperDockerVersion = "latest"
+
+	// ZookeeperRestartPolicy const
+	ZookeeperRestartPolicy = "unless-stopped"
 )
 
 // GetKafkaConfig gets yaml definition object

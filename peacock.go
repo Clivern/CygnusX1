@@ -9,6 +9,8 @@ import (
 	"strings"
 
 	"github.com/clivern/peacock/cmd"
+
+	log "github.com/sirupsen/logrus"
 )
 
 var (
@@ -24,6 +26,22 @@ func main() {
 	cmd.Date = date
 	cmd.BuiltBy = builtBy
 	cmd.HOME = strings.TrimSpace(os.Getenv("HOME"))
+
+	log.SetOutput(os.Stdout)
+
+	if os.Getenv("PC_LOG_LEVEL") == "INFO" {
+		log.SetLevel(log.InfoLevel)
+	} else if os.Getenv("PC_LOG_LEVEL") == "WARN" {
+		log.SetLevel(log.WarnLevel)
+	} else if os.Getenv("PC_LOG_LEVEL") == "DEBUG" {
+		log.SetLevel(log.DebugLevel)
+	} else if os.Getenv("PC_LOG_LEVEL") == "TRACE" {
+		log.SetLevel(log.TraceLevel)
+	} else {
+		log.SetLevel(log.ErrorLevel)
+	}
+
+	log.SetFormatter(&log.JSONFormatter{})
 
 	cmd.Execute()
 }

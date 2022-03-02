@@ -47,6 +47,8 @@ $ export LATEST_VERSION=$(curl --silent "https://api.github.com/repos/clivern/pe
 $ curl -sL https://github.com/clivern/peacock/releases/download/v{$LATEST_VERSION}/peacock_{$LATEST_VERSION}_Linux_x86_64.tar.gz | tar xz
 ```
 
+#### Mac Installation
+
 
 ## Versioning
 
