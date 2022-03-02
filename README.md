@@ -27,6 +27,13 @@
 
 Copper is a Modern Command Line Tool for Apache Kafka. It is easy to install and use. Here is some of the features:
 
+- Consume messages on specific partitions between specific offsets.
+- Display topic information (e.g., with partition offset and leader info).
+- Modify consumer group offsets (e.g., resetting or manually setting offsets per topic and per partition).
+- JSON output for easy consumption with tools like kp or jq.
+- JSON input to facilitate automation via tools like jsonify.
+- Support for TLS authentication.
+- Cluster administration functions: Create & delete topics.
 
 ## Documentation
 
