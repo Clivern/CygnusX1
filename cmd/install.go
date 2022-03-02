@@ -7,7 +7,9 @@ package cmd
 import (
 	"fmt"
 	"os"
+	"time"
 
+	"github.com/clivern/peacock/core/module"
 	"github.com/clivern/peacock/core/service"
 
 	"github.com/spf13/cobra"
@@ -25,18 +27,28 @@ var installCmd = &cobra.Command{
 
 		fs := service.NewFileSystem()
 
-		// Create $HOME/.peacock/cache
-		err := fs.EnsureDir(fmt.Sprintf("%s/.peacock/cache", HOME), 0755)
+		spinner := module.NewCharmSpinner("Installing peacock!")
 
-		if err != nil {
-			fmt.Println(fmt.Sprintf(
-				"Error while creating ~/.peacock/cache: %s",
-				err.Error(),
-			))
+		go func() {
+			// Create $HOME/.peacock/cache
+			err := fs.EnsureDir(fmt.Sprintf("%s/.peacock/cache", HOME), 0755)
+
+			if err != nil {
+				fmt.Println(fmt.Sprintf(
+					"Error while creating ~/.peacock/cache: %s",
+					err.Error(),
+				))
+			}
+
+			time.Sleep(1 * time.Second)
+
+			spinner.Quit()
+		}()
+
+		if err := spinner.Start(); err != nil {
+			fmt.Println(err)
 			os.Exit(1)
 		}
-
-		fmt.Println("Peacock installed successfully!")
 	},
 }
 
