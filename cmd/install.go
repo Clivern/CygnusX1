@@ -8,6 +8,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/clivern/peacock/core/service"
+
 	"github.com/spf13/cobra"
 )
 
@@ -18,6 +20,19 @@ var installCmd = &cobra.Command{
 
 		if HOME == "" {
 			fmt.Println("Error! `HOME` environment variable is not set")
+			os.Exit(1)
+		}
+
+		fs := service.NewFileSystem()
+
+		// Create $HOME/.peacock/cache
+		err := fs.EnsureDir(fmt.Sprintf("%s/.peacock/cache", HOME), 0755)
+
+		if err != nil {
+			fmt.Println(fmt.Sprintf(
+				"Error while creating ~/.peacock/cache: %s",
+				err.Error(),
+			))
 			os.Exit(1)
 		}
 
