@@ -53,6 +53,29 @@ var listCmd = &cobra.Command{
 	},
 }
 
+// showCmd list clusters sub-command
+var showCmd = &cobra.Command{
+	Use:   "show",
+	Short: "Show kafka cluster configs",
+	Run: func(cmd *cobra.Command, args []string) {
+
+		db := driver.NewDatabase(fmt.Sprintf(
+			"%s/.peacock/peacock.db",
+			HOME,
+		))
+
+		records, err := db.FindAll()
+
+		if err != nil {
+			fmt.Printf("Error raised: %s", err.Error())
+			os.Exit(1)
+		}
+
+		fmt.Println(records)
+		fmt.Println("")
+	},
+}
+
 // destroyCmd destroy clutser sub-command
 var destroyCmd = &cobra.Command{
 	Use:   "destroy [name]",
@@ -100,6 +123,7 @@ var destroyCmd = &cobra.Command{
 		config := definition.GetKafkaConfig(
 			definition.ZookeeperDockerVersion,
 			definition.KafkaDockerVersion,
+			cluster.Port,
 		)
 
 		spinner := module.NewCharmSpinner("Deleting kafka cluster!")
@@ -135,7 +159,7 @@ var destroyCmd = &cobra.Command{
 
 // runCmd run kafka cluster locally sub-command
 var runCmd = &cobra.Command{
-	Use:   "run [name]",
+	Use:   "run [name] [port]",
 	Short: "Run a kafka cluster locally for testing",
 	Run: func(cmd *cobra.Command, args []string) {
 
@@ -163,6 +187,13 @@ var runCmd = &cobra.Command{
 			os.Exit(1)
 		}
 
+		if len(args) < 2 || strings.TrimSpace(args[1]) == "" {
+			fmt.Println("Error! a free port number is required!")
+			os.Exit(1)
+		}
+
+		freePort := args[1]
+
 		id := definition.GetServiceID()
 
 		dc := runtime.NewDockerCompose(fmt.Sprintf(
@@ -173,6 +204,7 @@ var runCmd = &cobra.Command{
 		config := definition.GetKafkaConfig(
 			definition.ZookeeperDockerVersion,
 			definition.KafkaDockerVersion,
+			freePort,
 		)
 
 		spinner := module.NewCharmSpinner("Setting up a new kafka cluster!")
@@ -198,7 +230,7 @@ var runCmd = &cobra.Command{
 		port, err := dc.FetchServicePort(
 			id,
 			definition.KafkaService,
-			definition.KafkaPort,
+			freePort,
 			config,
 		)
 
@@ -208,10 +240,11 @@ var runCmd = &cobra.Command{
 		}
 
 		cluster := &model.Cluster{
-			ID:   id,
-			Type: "local",
-			Port: port,
-			Name: clusterName,
+			ID:      id,
+			Type:    "local",
+			Port:    port,
+			Address: fmt.Sprintf("localhost:%s", port),
+			Name:    clusterName,
 		}
 
 		output, err := cluster.ConvertToJSON()
@@ -236,5 +269,6 @@ func init() {
 	clusterCmd.AddCommand(listCmd)
 	clusterCmd.AddCommand(runCmd)
 	clusterCmd.AddCommand(destroyCmd)
+	clusterCmd.AddCommand(showCmd)
 	rootCmd.AddCommand(clusterCmd)
 }

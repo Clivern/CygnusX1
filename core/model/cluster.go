@@ -10,10 +10,11 @@ import (
 
 // Cluster type
 type Cluster struct {
-	ID   string `json:"id"`
-	Name string `json:"name"`
-	Type string `json:"type"`
-	Port string `json:"port"`
+	ID      string `json:"id"`
+	Name    string `json:"name"`
+	Type    string `json:"type"`
+	Port    string `json:"port"`
+	Address string `json:"address"`
 }
 
 // LoadFromJSON update object from json

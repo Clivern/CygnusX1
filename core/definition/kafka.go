@@ -35,7 +35,7 @@ const (
 )
 
 // GetKafkaConfig gets yaml definition object
-func GetKafkaConfig(zookeeperVersion, kafkaVersion string) DockerComposeConfig {
+func GetKafkaConfig(zookeeperVersion, kafkaVersion, port string) DockerComposeConfig {
 	services := make(map[string]Service)
 
 	if zookeeperVersion == "" {
@@ -58,11 +58,11 @@ func GetKafkaConfig(zookeeperVersion, kafkaVersion string) DockerComposeConfig {
 	services["kafka"] = Service{
 		Image:   fmt.Sprintf("%s:%s", KafkaDockerImage, kafkaVersion),
 		Restart: KafkaRestartPolicy,
-		Ports:   []string{KafkaPort},
+		Ports:   []string{fmt.Sprintf("%s:%s", port, port)},
 		Environment: []string{
 			"KAFKA_BROKER_ID=1",
 			"KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181",
-			"KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092",
+			fmt.Sprintf("KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:%s", port),
 			"KAFKA_LISTENER_SECURITY_PROTOCOL_MAP=PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT",
 			"KAFKA_INTER_BROKER_LISTENER_NAME=PLAINTEXT",
 			"KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1",

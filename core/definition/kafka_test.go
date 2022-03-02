@@ -17,7 +17,7 @@ func TestUnitKafka(t *testing.T) {
 
 	g.Describe("#TestKafka", func() {
 		g.It("It should satisfy all provided test cases", func() {
-			kafka := GetKafkaConfig("latest", "latest")
+			kafka := GetKafkaConfig("latest", "latest", KafkaPort)
 			result, err := kafka.ToString()
 
 			g.Assert(strings.Contains(result, "restart: unless-stopped")).Equal(true)
