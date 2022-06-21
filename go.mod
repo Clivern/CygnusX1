@@ -9,7 +9,7 @@ require (
 	github.com/labstack/echo/v4 v4.7.2
 	github.com/satori/go.uuid v1.2.0
 	github.com/sirupsen/logrus v1.8.1
-	github.com/spf13/cobra v1.4.0
+	github.com/spf13/cobra v1.5.0
 	github.com/spf13/viper v1.11.0
 	k8s.io/apimachinery v0.24.1
 	k8s.io/client-go v0.24.1
