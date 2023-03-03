@@ -11,7 +11,7 @@
 Pallur
 =======
 
-A Modern Command Line Tool for Apache Kafka. It is easy to install and use.
+A Modern Command Line Tool for Apache Kafka.
 
 To use pallur, follow the following steps:
 
