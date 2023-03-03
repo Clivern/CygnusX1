@@ -11,7 +11,7 @@
 Jaglion
 =======
 
-Jaglion is a Modern Command Line Tool for Apache Kafka. It is easy to install and use.
+A Modern Command Line Tool for Apache Kafka. It is easy to install and use.
 
 To use jaglion, follow the following steps:
 
