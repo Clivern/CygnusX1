@@ -1,122 +1,61 @@
-GO           ?= go
-GOFMT        ?= $(GO)fmt
-pkgs          = ./...
+PYTHON ?= python
+PIP ?= $(PYTHON) -m pip
+TOX ?= tox
 
 
 help: Makefile
 	@echo
-	@echo " Choose a command run in Nitro:"
+	@echo " Choose a command run in Jaglion:"
 	@echo
 	@sed -n 's/^##//p' $< | column -t -s ':' |  sed -e 's/^/ /'
 	@echo
 
 
-## install_revive: Install revive for linting.
-.PHONY: install_revive
-install_revive:
-	@echo ">> ============= Install Revive ============= <<"
-	$(GO) install github.com/mgechev/revive@latest
+## config: Install needed dependencies.
+.PHONY: config
+config:
+	$(PIP) install --upgrade pip
+	$(PIP) install twine
+	$(PIP) install wheel
+	$(PIP) install tox
+	$(PIP) install setuptools-scm
 
 
-## style: Check code style.
-.PHONY: style
-style:
-	@echo ">> ============= Checking Code Style ============= <<"
-	@fmtRes=$$($(GOFMT) -d $$(find . -path ./vendor -prune -o -name '*.go' -print)); \
-	if [ -n "$${fmtRes}" ]; then \
-		echo "gofmt checking failed!"; echo "$${fmtRes}"; echo; \
-		echo "Please ensure you are using $$($(GO) version) for formatting code."; \
-		exit 1; \
-	fi
-
-
-## check_license: Check if license header on all files.
-.PHONY: check_license
-check_license:
-	@echo ">> ============= Checking License Header ============= <<"
-	@licRes=$$(for file in $$(find . -type f -iname '*.go' ! -path './vendor/*') ; do \
-			   awk 'NR<=3' $$file | grep -Eq "(Copyright|generated|GENERATED)" || echo $$file; \
-	   done); \
-	   if [ -n "$${licRes}" ]; then \
-			   echo "license header checking failed:"; echo "$${licRes}"; \
-			   exit 1; \
-	   fi
-
-
-## test_short: Run test cases with short flag.
-.PHONY: test_short
-test_short:
-	@echo ">> ============= Running Short Tests ============= <<"
-	$(GO) clean -testcache
-	$(GO) test -mod=readonly -short $(pkgs)
-
-
-## test: Run test cases.
+## test: Run test case.
 .PHONY: test
 test:
-	@echo ">> ============= Running All Tests ============= <<"
-	$(GO) clean -testcache
-	$(GO) test -mod=readonly -run=Unit -bench=. -benchmem -v -cover $(pkgs)
+	@echo "\n==> Run Test Cases:"
+	$(TOX)
 
 
-## integration: Run integration test cases (Requires etcd)
-.PHONY: integration
-integration:
-	@echo ">> ============= Running All Tests ============= <<"
-	$(GO) clean -testcache
-	$(GO) test -mod=readonly -run=Integration -bench=. -benchmem -v -cover $(pkgs)
-
-
-## lint: Lint the code.
-.PHONY: lint
-lint:
-	@echo ">> ============= Lint All Files ============= <<"
-	revive -config config.toml -exclude vendor/... -formatter friendly ./...
-
-
-## verify: Verify dependencies
-.PHONY: verify
-verify:
-	@echo ">> ============= List Dependencies ============= <<"
-	$(GO) list -m all
-	@echo ">> ============= Verify Dependencies ============= <<"
-	$(GO) mod verify
-
-
-## format: Format the code.
-.PHONY: format
-format:
-	@echo ">> ============= Formatting Code ============= <<"
-	$(GO) fmt $(pkgs)
-
-
-## vet: Examines source code and reports suspicious constructs.
-.PHONY: vet
-vet:
-	@echo ">> ============= Vetting Code ============= <<"
-	$(GO) vet $(pkgs)
-
-
-## coverage: Create HTML coverage report
-.PHONY: coverage
-coverage:
-	@echo ">> ============= Coverage ============= <<"
-	rm -f coverage.html cover.out
-	$(GO) test -mod=readonly -coverprofile=cover.out $(pkgs)
-	go tool cover -html=cover.out -o coverage.html
-
-
-## run: Run the Server
-.PHONY: run
-run:
-	@echo ">> ============= Run API Server ============= <<"
-	$(GO) run nitro.go server -c config.dist.yml
-
-
-## ci: Run all CI tests.
+## ci: Run all CI checks.
 .PHONY: ci
-ci: style check_license test vet lint
+ci: test
 	@echo "\n==> All quality checks passed"
 
 
-.PHONY: help
+## build: Build the package.
+.PHONY: build
+build:
+	$(TOX) -e clean
+	$(TOX) -e build
+
+
+## version: Get latest version
+.PHONY: version
+version:
+	$(PYTHON) setup.py --version
+
+
+## release: Release to PyPi
+release:
+	$(PYTHON) -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/* --verbose
+
+
+## install: Install the package locally
+.PHONY: install
+install:
+	$(PYTHON) setup.py install
+
+
+.PHONY: ci

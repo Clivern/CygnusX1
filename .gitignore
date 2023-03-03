@@ -1,19 +1,56 @@
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
+# Temporary and binary files
+*~
+*.py[cod]
 *.so
-*.dylib
+*.cfg
+!.isort.cfg
+!setup.cfg
+*.orig
+*.log
+*.pot
+__pycache__/*
+.cache/*
+.*.swp
+*/.ipynb_checkpoints/*
+.DS_Store
 
-# Test binary, build with `go test -c`
-*.test
+# Project files
+.ropeproject
+.project
+.pydevproject
+.settings
+.idea
+.vscode
+tags
 
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
+# Package files
+*.egg
+*.eggs/
+.installed.cfg
+*.egg-info
 
-sync
+# Unittest and coverage
+htmlcov/*
+.coverage
+.coverage.*
+.tox
+junit*.xml
+coverage.xml
+.pytest_cache/
 
-*.db
+# Build and docs folder/files
+build/*
+dist/*
+sdist/*
+docs/api/*
+docs/_rst/*
+docs/_build/*
+cover/*
+MANIFEST
 
-config.test.yml
-coverage.html
+# Per-project virtualenvs
+.venv*/
+.conda*/
+
+venv/
+build/

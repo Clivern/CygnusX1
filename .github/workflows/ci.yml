@@ -1,27 +1,24 @@
-name: Release
+name: CI Build
 
 on:
   push:
-    tags:
-      - '*'
+  pull_request:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
+      max-parallel: 4
       matrix:
-        python-version: ["3.11"]
+        python-version: ["3.7", "3.8", "3.9", "3.10", "3.11"]
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v4
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Run make release
+    - name: Run make ci
       run: |
         make config
-        make build
-        make release
-      env:
-        TWINE_USERNAME: ${{ secrets.TWINE_USERNAME }}
-        TWINE_PASSWORD: ${{ secrets.TWINE_PASSWORD }}
+        make ci
