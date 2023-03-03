@@ -1,19 +1,19 @@
-.. image:: https://img.shields.io/pypi/v/jaglion.svg
+.. image:: https://img.shields.io/pypi/v/pallur.svg
     :alt: PyPI-Server
-    :target: https://pypi.org/project/jaglion/
-.. image:: https://github.com/clivern/jaglion/actions/workflows/ci.yml/badge.svg
+    :target: https://pypi.org/project/pallur/
+.. image:: https://github.com/clivern/pallur/actions/workflows/ci.yml/badge.svg
     :alt: Build Status
-    :target: https://github.com/clivern/jaglion/actions/workflows/ci.yml
+    :target: https://github.com/clivern/pallur/actions/workflows/ci.yml
 
 |
 
 =======
-Jaglion
+Pallur
 =======
 
 A Modern Command Line Tool for Apache Kafka. It is easy to install and use.
 
-To use jaglion, follow the following steps:
+To use pallur, follow the following steps:
 
 1. Create a python virtual environment or use system wide environment
 
@@ -23,15 +23,15 @@ To use jaglion, follow the following steps:
     $ source venv/bin/activate
 
 
-2. Install jaglion package with pip.
+2. Install pallur package with pip.
 
 .. code-block::
 
-    $ pip install jaglion
+    $ pip install pallur
 
 
-3. Get jaglion command line help
+3. Get pallur command line help
 
 .. code-block::
 
-    $ jaglion --help
+    $ pallur --help

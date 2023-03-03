@@ -22,7 +22,7 @@
 
 import logging
 import pytest
-from jaglion.module.logger import Logger
+from pallur.module.logger import Logger
 
 
 def test_logger():

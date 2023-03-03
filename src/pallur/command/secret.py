@@ -22,12 +22,12 @@
 
 import click
 
-from jaglion.module.logger import Logger
-from jaglion.module.output import Output
-from jaglion.module.config import Config
-from jaglion.module.encrypt import Encrypt
-from jaglion.module.database import Database
-from jaglion.module.file_system import FileSystem
+from pallur.module.logger import Logger
+from pallur.module.output import Output
+from pallur.module.config import Config
+from pallur.module.encrypt import Encrypt
+from pallur.module.database import Database
+from pallur.module.file_system import FileSystem
 
 
 class Secrets:

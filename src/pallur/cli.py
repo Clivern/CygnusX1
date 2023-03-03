@@ -24,12 +24,12 @@ import uuid
 import click
 import logging, json, sys
 
-from jaglion import __version__
-from jaglion.model.host import Host
-from jaglion.model.secret import Secret
-from jaglion.command.hosts import Hosts
-from jaglion.command.secret import Secrets
-from jaglion.command.configs import Configs
+from pallur import __version__
+from pallur.model.host import Host
+from pallur.model.secret import Secret
+from pallur.command.hosts import Hosts
+from pallur.command.secret import Secrets
+from pallur.command.configs import Configs
 
 
 @click.group(help="🐺 Modern Command Line Tool for Apache Kafka")

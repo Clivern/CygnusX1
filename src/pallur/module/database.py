@@ -23,8 +23,8 @@
 import json
 import sqlite3
 
-from jaglion.model.host import Host
-from jaglion.model.secret import Secret
+from pallur.model.host import Host
+from pallur.model.secret import Secret
 
 
 class Database:

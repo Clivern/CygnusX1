@@ -5,7 +5,7 @@ TOX ?= tox
 
 help: Makefile
 	@echo
-	@echo " Choose a command run in Jaglion:"
+	@echo " Choose a command run in Pallur:"
 	@echo
 	@sed -n 's/^##//p' $< | column -t -s ':' |  sed -e 's/^/ /'
 	@echo

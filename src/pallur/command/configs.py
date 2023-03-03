@@ -24,17 +24,17 @@ import os
 import yaml
 import click
 
-from jaglion.module.logger import Logger
-from jaglion.module.output import Output
-from jaglion.module.database import Database
-from jaglion.module.file_system import FileSystem
-from jaglion.module.encrypt import Encrypt
+from pallur.module.logger import Logger
+from pallur.module.output import Output
+from pallur.module.database import Database
+from pallur.module.file_system import FileSystem
+from pallur.module.encrypt import Encrypt
 
 
 class Configs:
     """Configs Class"""
 
-    FILE = ".jaglion.yml"
+    FILE = ".pallur.yml"
 
     def __init__(self):
         self.database = Database()
@@ -54,13 +54,13 @@ class Configs:
         base = {
             "database": {
                 "type": "file",
-                "path": "{}/jaglion.db".format(self.home),
+                "path": "{}/pallur.db".format(self.home),
                 "token": self.encrypt.get_key(),
             },
             "cache": {"path": "/tmp"},
         }
 
-        self.database.connect("{}/jaglion.db".format(self.home))
+        self.database.connect("{}/pallur.db".format(self.home))
         self.database.migrate()
 
         self.file_system.write_file(

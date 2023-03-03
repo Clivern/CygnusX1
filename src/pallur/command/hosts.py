@@ -20,26 +20,36 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-import os
-import yaml
+import click
+
+from pallur.module.logger import Logger
+from pallur.module.output import Output
+from pallur.module.config import Config
+from pallur.module.encrypt import Encrypt
+from pallur.module.database import Database
+from pallur.module.file_system import FileSystem
 
 
-class Config:
-    """Config Class"""
-
-    FILE = ".jaglion.yml"
+class Hosts:
+    """Hosts Class"""
 
     def __init__(self):
-        self.configs = {}
-        self._home = os.getenv("HOME", "")
+        self.output = Output()
+        self.database = Database()
+        self.config = Config()
+        self.encrypt = Encrypt()
+        self.file_system = FileSystem()
+        self.logger = Logger().get_logger(__name__)
 
-    def load(self):
-        """Load Configs"""
-        with open("{}/{}".format(self._home, Config.FILE)) as f:
-            self.configs = yaml.load(f, Loader=yaml.FullLoader)
+    def init(self):
+        """Init database and configs"""
+        self.configs = self.config.load()
+        self.database.connect(self.configs["database"]["path"])
+        self.database.migrate()
+        return self
 
-        return self.configs
+    def delete(self, name):
+        """Delete a host"""
+        self.database.delete_host(name)
 
-    def get_configs(self):
-        """Get Configs"""
-        return self.configs
+        click.echo(f"Host with name {name} got deleted")
