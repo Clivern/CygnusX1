@@ -49,7 +49,7 @@ class Launch:
             result = self.nasa.fetch(os.getenv('NASA_API_KEY'))
             data = f"""<p align='center'>
   <img src='{result['url']}' width='60%' />
-    <h3 align="center">CygnusX1</h3>
+    <h3 align="center">Cygnus X-1</h3>
     <p align="center">The immensity of the universe is difficult to grasp.</p>
 </p>
 <br/>
