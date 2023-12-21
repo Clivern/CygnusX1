@@ -12,7 +12,7 @@ permissions:
    contents: write
 
 jobs:
-  auto_commit:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - name: DEBUG
