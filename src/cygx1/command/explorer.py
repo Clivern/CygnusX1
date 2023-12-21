@@ -24,6 +24,7 @@ import os
 import click
 from datetime import datetime
 
+from cygx1.module.facts import Facts
 from cygx1.module.nasa import Nasa
 from cygx1.module.logger import Logger
 from cygx1.module.checksum import Checksum
@@ -40,21 +41,23 @@ class Launch:
         self.platform = platform
         self.file_system = FileSystem()
         self.checksum = Checksum()
+        self.facts = Facts()
         self.archive = Archive("archive.json")
         self.logger = Logger().get_logger(__name__)
 
     def run(self):
         """Run explorer"""
-
         now = datetime.now()
         formatted_date_time = now.strftime("%Y-%m-%d %H:%M:%S")
+
+        fact = self.facts.random_line('facts.txt').strip()
 
         if self.platform == "nasa":
             result = self.nasa.fetch(os.getenv('NASA_API_KEY'))
             data = f"""<p align='center'>
   <img src='{result['url']}' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The immensity of the universe is difficult to grasp.</p>
+    <p align="center">{fact}</p>
 </p>
 <br/>
 
