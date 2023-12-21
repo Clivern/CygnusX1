@@ -26,6 +26,8 @@ from datetime import datetime
 
 from cygx1.module.nasa import Nasa
 from cygx1.module.logger import Logger
+from cygx1.module.checksum import Checksum
+from cygx1.module.archive import Archive
 from cygx1.module.file_system import FileSystem
 
 
@@ -37,6 +39,8 @@ class Launch:
         self.nasa = Nasa()
         self.platform = platform
         self.file_system = FileSystem()
+        self.checksum = Checksum()
+        self.archive = Archive("archive.json")
         self.logger = Logger().get_logger(__name__)
 
     def run(self):
@@ -49,7 +53,7 @@ class Launch:
             result = self.nasa.fetch(os.getenv('NASA_API_KEY'))
             data = f"""<p align='center'>
   <img src='{result['url']}' width='60%' />
-    <h3 align="center">Cygnus X-1</h3>
+    <h3 align="center">CygnusX1</h3>
     <p align="center">The immensity of the universe is difficult to grasp.</p>
 </p>
 <br/>
@@ -63,5 +67,7 @@ Explanation
 """
             data = data.replace("   Explore Your Universe: Random APOD Generator", "")
             self.file_system.write_file(self.file, data)
+            checksum = self.checksum.measure(result['explanation'])
+            self.archive.append(checksum, result['url'], result['explanation'])
 
         click.echo("Explorer finished successfully!")
