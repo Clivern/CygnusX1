@@ -1,4 +1,4 @@
-name: Auto commit
+name: Publish
 
 on:
   schedule:
