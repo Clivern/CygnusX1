@@ -1,13 +1,13 @@
 <p align='center'>
-  <img src='https://apod.nasa.gov/apod/image/2312/C2020_V2_ZTF_CHILESCOPE_DEBartlett1024.jpg' width='60%' />
+  <img src='https://apod.nasa.gov/apod/image/2312/solsticesolargraphy1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Milky Way galaxy has an estimated 100 billion stars</p>
+    <p align="center">Scientists detected a radio signal in space from 5 billion light-years away.</p>
 </p>
 <br/>
 
 Explanation
 --
-Distant galaxies abound in this one degree wide field of view toward the southern constellation Grus (The Crane). But the three spiral galaxies at the lower right are quite striking. In fact, all three galaxies are grouped about 70 million light years away and sometimes known as the Grus Triplet. They share the pretty telescopic frame, recorded on December 13, with the comet designated C/2020 V2 ZTF. Now outbound from the inner Solar System and swinging below the ecliptic plane in a hyperbolic orbit, the comet was about 29 light-minutes from our fair planet in this image. And though comet ZTF was brighter when it was closest to the Sun last May and closest to Earth in September of 2023, it still shines in telescopes pointed toward southern night skies, remaining almost as bright as the Grus Triplet galaxies.
+A single 183 day exposure with a pinhole camera and photographic paper resulted in this long-duration solargraph. Recorded from solstice to solstice, June 21 to December 21, in 2022, it follows the Sun's daily arcing path through planet Earth's skies from Mertola, Portugal. On June 21, the Sun's highest point and longest arc represents the longest day and the astronomical beginning of summer in the northern hemisphere. The solstice date with the fewest hours of daylight is at the beginning of winter in the north, corresponding to the Sun's shortest and lowest arc in the 2022 solargraph. For 2023, the northern winter solstice was on December 22 at 3:27 UTC. That's December 21 for North America time zones.
 
 
-*Last updated at 2023-12-22 04:01:08*
+*Last updated at 2023-12-22 08:01:09*
