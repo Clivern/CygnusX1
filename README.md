@@ -1,13 +1,13 @@
 <p align='center'>
-  <img src='https://apod.nasa.gov/apod/image/2312/solsticesolargraphy1024.jpg' width='60%' />
+  <img src='https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Jupiter has the most moons.</p>
+    <p align="center">The universe is expanding, causing galaxies to move away from each other.</p>
 </p>
 <br/>
 
 Explanation
 --
-A single 183 day exposure with a pinhole camera and photographic paper resulted in this long-duration solargraph. Recorded from solstice to solstice, June 21 to December 21, in 2022, it follows the Sun's daily arcing path through planet Earth's skies from Mertola, Portugal. On June 21, the Sun's highest point and longest arc represents the longest day and the astronomical beginning of summer in the northern hemisphere. The solstice date with the fewest hours of daylight is at the beginning of winter in the north, corresponding to the Sun's shortest and lowest arc in the 2022 solargraph. For 2023, the northern winter solstice was on December 22 at 3:27 UTC. That's December 21 for North America time zones.
+Colours of a serene evening sky are captured in this 8 minute exposure, made near this December's solstice from New Zealand, southern hemisphere, planet Earth. Looking south, star trails form the short concentric arcs around the rotating planet's south celestial pole positioned just off the top of the frame. At top and left of center are trails of the Southern Cross stars and a dark smudge from the Milky Way's Coalsack Nebula. Alpha and Beta Centauri make the brighter yellow and blue tinted trails, reflected below in the waters of Hoopers Inlet in the Pacific coast of the South Island's Otago Peninsula. On that short December summer night, aurora australis also gave luminous, green and reddish hues to the sky above the hills. An upper atmospheric glow distinct from the aurora excited by collisions with energetic particles, pale greenish bands of airglow caused by a cascade of chemical reactions excited by sunlight can be traced in diagonal bands near the top left.
 
 
-*Last updated at 2023-12-23 04:01:20*
+*Last updated at 2023-12-23 08:01:11*
