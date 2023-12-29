@@ -1,13 +1,13 @@
 <p align='center'>
-  <img src='https://apod.nasa.gov/apod/image/2312/G0030446_1100.jpg' width='60%' />
+  <img src='https://apod.nasa.gov/apod/image/2312/STScI-UranusJWSTcrop.png' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The universe is expanding, increasing by 0.007% in one million years.</p>
+    <p align="center">The observable universe is estimated to be about 93 billion light-years in diameter.</p>
 </p>
 <br/>
 
 Explanation
 --
-For a brief moment, this brilliant fireball meteor outshone Jupiter in planet Earth's night. The serendipitous image was captured while hunting meteors under cold Canadian skies with a camera in timelapse mode on December 14, near the peak of the Geminid meteor shower. The Geminid meteor shower, asteroid 3200 Phaethon's annual gift, always arrives in December. Dust shed along the orbit of the mysterious asteroid causes the meteor streaks, as the vaporizing grains plow through our fair planet's upper atmosphere at 22 kilometers per second. Of course Geminid shower meteors appear to radiate from a point in the constellation of the Twins. That's below and left of this frame. With bright Jupiter on the right, also in the December night skyview are the Pleiades and Hyades star clusters.
+In 1986, Voyager 2 became the only spacecraft to explore ice giant planet Uranus close up. Still, this newly released image from the NIRCam (Near-Infrared Camera) on the James Webb Space Telescope offers a detailed look at the distant world. The tilted outer planet rotates on its axis once in about 17 hours. Its north pole is presently pointed near our line of sight, offering direct views of its northern hemisphere and a faint but extensive system of rings. Of the giant planet's 27 known moons, 14 are annotated in the image. The brighter ones show hints of Webb's characteristic diffraction spikes. And though these worlds of the outer Solar System were unknown in Shakespearean times, all but two of the 27 Uranian moons are named for characters in the English Bard's plays.
 
 
-*Last updated at 2023-12-29 04:01:27*
+*Last updated at 2023-12-29 08:01:19*
