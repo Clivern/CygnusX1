@@ -1,13 +1,13 @@
 <p align='center'>
-  <img src='https://apod.nasa.gov/apod/image/2312/2023_12_27-fullmoon1024.jpg' width='60%' />
+  <img src='https://www.youtube.com/embed/QSivvdIyeG4?si=CNXSnbIN_HXYZG0e?rel=0' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Milky Way galaxy is about 100,000 light-years across</p>
+    <p align="center">White holes are theoretical objects, considered the opposite of black holes, where matter and light would escape but nothing could enter.</p>
 </p>
 <br/>
 
 Explanation
 --
-Known to some in the northern hemisphere as December's Cold Moon or the Long Night Moon, the last full moon of 2023 is rising in this surreal mountain and skyscape. The Daliesque scene was captured in a single exposure with a camera and long telephoto lens near Monte Grappa, Italy. The full moon is not melting, though. Its stretched and distorted appearance near the horizon is caused as refraction along the line of sight changes and creates shifting images or mirages of the bright lunar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Other effects of atmospheric refraction produced by the long sight-line to this full moon rising include the thin red rim seen faintly on the distorted lower edge of the Moon and a thin green rim along the top.
+How did we get here? Click play, sit back, and watch.  A computer simulation of the evolution of the universe provides insight into how galaxies formed and perspectives into humanity's place in the universe.  The Illustris project exhausted 20 million CPU hours in 2014 following 12 billion resolution elements spanning a cube 35 million light years on a side as it evolved over 13 billion years. The simulation tracks matter into the formation of a wide variety of galaxy types. As the virtual universe evolves, some of the matter expanding with the universe soon gravitationally condenses to form filaments, galaxies, and clusters of galaxies. The featured video takes the perspective of a virtual camera circling part of this changing universe, first showing the evolution of dark matter, then hydrogen gas coded by temperature (0:45), then heavy elements such as helium and carbon (1:30), and then back to dark matter (2:07). On the lower left the time since the Big Bang is listed, while on the lower right the type of matter being shown is listed.  Explosions (0:50) depict galaxy-center supermassive black holes expelling bubbles of hot gas. Interesting discrepancies between Illustris and the real universe have been studied, including why the simulation produced an overabundance of old stars.
 
 
-*Last updated at 2023-12-31 04:01:32*
+*Last updated at 2023-12-31 08:01:19*
