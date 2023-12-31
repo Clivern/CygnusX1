@@ -52,10 +52,17 @@ class Launch:
 
         fact = self.facts.random_line('facts.txt').strip()
 
+
         if self.platform == "nasa":
             result = self.nasa.fetch(os.getenv('NASA_API_KEY'))
+
+            if "youtube" in result['url']:
+                embed = f"""<a href='{result['url']}'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>"""
+            else:
+                embed = f"""<img src='{result['url']}' width='60%' />"""
+
             data = f"""<p align='center'>
-  <img src='{result['url']}' width='60%' />
+    {embed}
     <h3 align="center">Cygnus X-1</h3>
     <p align="center">{fact}</p>
 </p>
