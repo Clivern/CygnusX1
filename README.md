@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The sun takes over 1 Earth month to make a full rotation.</p>
+    <p align="center">Jupiter's moon Europa has a subsurface ocean beneath its icy crust, making it a potential location for extraterrestrial life.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Venus goes through phases.  Just like our Moon, Venus can appear as a full circular disk, a thin crescent, or anything in between.  Venus, frequently the brightest object in the post-sunset or pre-sunrise sky, appears so small, however, that it usually requires binoculars or a small telescope to clearly see its current phase.  The featured time-lapse sequence was taken over the course of six months in 2015 from Surgères, Charente-Maritime, France, and shows not only how Venus changes phase, but changes angular size as well. When Venus is on the far side of the Sun from the Earth, it appears angularly smallest and nearest to full phase, while when Venus and Earth are on the same side of the Sun, Venus appears larger, but as a crescent. This month Venus rises before dawn in waxing gibbous phases.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York
 
 
-*Last updated at 2024-01-08 20:02:08*
+*Last updated at 2024-01-09 00:02:48*
