@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2401/22halo_Zboran1115.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Red dwarf stars, the most common type in the universe, can burn for trillions of years.</p>
+    <p align="center">The observable universe contains an estimated 2 trillion galaxies.</p>
 </p>
 <br/>
 
 Explanation
 --
-rth's orbit around the Sun is not a circle, it's an ellipse. The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion. This year, perihelion was on January 2 at 01:00 UTC, with the Earth about 3 million miles closer to the Sun than it was at aphelion (last July 6), the farthest point in its elliptical orbit. Of course, distance from the Sun doesn't determine the seasons, and it doesn't the determine size of Sun halos. Easier to see with the Sun hidden behind a tall tree trunk, this beautiful ice halo forms a 22 degree-wide circle around the Sun, recorded while strolling through the countryside near Heroldstatt, Germany. The Sun halo's 22 degree angular diameter is determined by the six-sided geometry of water ice crystals drifting high in planet Earth's atmosphere.
+Have you ever seen a dragon in the sky? Although real flying dragons don't exist, a huge dragon-shaped aurora developed in the sky over Iceland in 2019.  The aurora was caused by a hole in the Sun's corona that expelled charged particles into a solar wind that followed a changing interplanetary magnetic field to Earth's magnetosphere.  As some of those particles then struck Earth's atmosphere, they excited atoms which subsequently emitted light: aurora. This iconic display was so enthralling that the photographer's mother ran out to see it and was captured in the foreground.  Our active Sun continues to show an unusually high number of prominences, filaments, sunspots, and large active regions as solar maximum approaches in 2025.
 
 
-*Last updated at 2024-01-14 04:01:20*
+*Last updated at 2024-01-14 08:01:22*
