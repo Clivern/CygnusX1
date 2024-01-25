@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2401/EarthMoon_Artemis1Saunders_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">White holes are theoretical objects, considered the opposite of black holes, where matter and light would escape but nothing could enter.</p>
+    <p align="center">One day on Venus takes 243 Earth days.</p>
 </p>
 <br/>
 
 Explanation
 --
-What do the Earth and Moon look like from beyond the Moon? Although frequently photographed together, the familiar duo was captured with this unusual perspective in late 2022 by the robotic Orion spacecraft of NASA's Artemis I mission as it looped around Earth's most massive satellite and looked back toward its home world. Since our Earth is about four times the diameter of the Moon, the satellite’s seemingly large size was caused by the capsule being closer to the smaller body. Artemis II, the next launch in NASA’s Artemis series, is currently scheduled to take people around the Moon in 2025, while Artemis III is planned to return humans to lunar surface in late 2026. Last week,  JAXA's robotic SLIM spacecraft, launched from Japan, landed on the Moon and released two hopping rovers.
+You might not immediately recognize this street map of a neighborhood in Jyväskylä, Finland, planet Earth. But that's probably because the map was projected into the night sky and captured with an allsky camera on January 16. The temperature recorded on that northern winter night was around minus 20 degrees Celsius. As ice crystals formed in the atmosphere overhead, street lights spilling illumination into the sky above produced visible light pillars, their ethereal appearance due to specular reflections from the fluttering crystals' flat surfaces. Of course, the projected light pillars trace a map of the brightly lit local streets, though reversed right to left in the upward looking camera's view. This light pillar street map was seen to hover for hours in the Jyväskylä night.
 
 
-*Last updated at 2024-01-25 04:01:26*
+*Last updated at 2024-01-25 08:01:26*
