@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2401/Pleiades_Stocks_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2401/Slim_jaxa_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Over a million Earths could fit inside the sun</p>
+    <p align="center">The Laniakea Supercluster is a massive galaxy supercluster that includes the Milky Way and many other galaxies.</p>
 </p>
 <br/>
 
 Explanation
 --
-The well-known Pleiades star cluster is slowly destroying part of a passing cloud of gas and dust. The Pleiades is the brightest open cluster of stars on Earth's sky and can be seen from almost any northerly location with the unaided eye.  Over the past 100,000 years, a field of gas and dust is moving by chance right through the Pleiades star cluster and is causing a strong reaction between the stars and dust. The passing cloud might be part of the Radcliffe wave, a newly discovered structure of gas and dust connecting several regions of star formation in the nearby part of our Milky Way galaxy.  Pressure from the stars' light significantly repels the dust in the surrounding blue reflection nebula, with smaller dust particles being repelled more strongly.  A short-term result is that parts of the dust cloud have become filamentary and stratified. The featured deep image incorporates nearly 9 hours of exposure and was captured from Utah Desert Remote Observatory in Utah, USA, last year.
+New landers are on the Moon. Nearly two weeks ago, Japan's Smart Lander for Investigating Moon (SLIM) released two rovers as it descended, before its main lander touched down itself. The larger of the two rovers can hop like a frog, while the smaller rover is about the size of a baseball and can move after pulling itself apart like a transformer. The main lander, nicknamed Moon Sniper, is seen in the featured image taken by the smaller rover. Inspection of the image shows that Moon Sniper's thrusters are facing up, meaning that the lander is upside down from its descent configuration and on its side from its intended landing configuration.  One result is that Moon Sniper's solar panels are not in the expected orientation, so that powering the lander had to be curtailed and adapted.  SLIM's lander has already succeeded as a technology demonstration, its main mission, but was not designed to withstand the lunar night -- which starts tomorrow.
 
 
-*Last updated at 2024-01-30 04:01:00*
+*Last updated at 2024-01-30 08:01:10*
