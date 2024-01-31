@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Red dwarf stars, the most common type in the universe, can burn for trillions of years.</p>
+    <p align="center">The universe is expanding, causing galaxies to move away from each other.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 What does Orion rising look like to a camera? During this time of the year, the famous constellation is visible to the southeast just after sunset. From most Earthly locations, Orion's familiar star pattern, highlighted by the three-stars-in-a-row belt stars, rises sideways. An entire section of the night sky that includes Orion was photographed rising above Śnieżka, a mountain on the border between Poland and the Czech Republic.  The long duration exposure sequence brings up many faint features including the Orion and Flame Nebulas, both encompassed by the curving Barnard's Loop. The featured wide-angle camera composite also captured night sky icons including the blue Pleiades star cluster at the image top and the red Rosette Nebula to the left of Orion. Famous stars in the frame include Sirius, Betelgeuse, Rigel and Aldebaran. Orion will appear successively higher in the sky at sunset during the coming months.
 
 
-*Last updated at 2024-01-31 16:01:15*
+*Last updated at 2024-01-31 20:01:03*
