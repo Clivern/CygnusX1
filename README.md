@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2402/sts98plume_nasa_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2402/Hfg1Abell6_CadenaCoulon_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
     <p align="center">The universe is thought to be around 13.7 billion years old.</p>
 </p>
@@ -7,7 +7,7 @@
 
 Explanation
 --
-Why would the shadow of a rocket's launch plume point toward the Moon?  In early 2001 during a launch of the space shuttle Atlantis, the Sun, Earth, Moon, and rocket were all properly aligned for this photogenic coincidence.  First, for the space shuttle's plume to cast a long shadow, the time of day must be either near sunrise or sunset.  Only then will the shadow be its longest and extend all the way to the horizon.  Finally, during a Full Moon, the Sun and Moon are on opposite sides of the sky.  Just after sunset, for example, the Sun is slightly below the horizon, and, in the other direction, the Moon is slightly above the horizon.  Therefore, as Atlantis blasted off, just after sunset, its shadow projected away from the Sun toward the opposite horizon, where the Full Moon happened to be.    Almost Hyperspace: Random APOD Generator
+Planetary nebulae like Heckathorn-Fesen-Gull 1 (HFG1) and Abell 6 in the constellation Cassiopeia are remnants from the last phase of a medium sized star like our Sun.  In spite of their shapes, planetary nebulae have nothing in common with actual planets.  Located in the bottom left part of the featured photo, HFG1 was created by the binary star system V664 Cas, which consists of a white dwarf star and a red giant star. Both stars orbit their center of mass over about half an Earth day.  Traveling with the entire nebula at a speed about 300 times faster than the fastest train on Earth, V664 Cas generates a bluish arc shaped shock wave. The wave interacts most strongly with the surrounding interstellar medium in the areas where the arc is brightest. After roughly 10,000 years, planetary nebulae become invisible due to a lack of ultraviolet light being emitted by the stars that create them.  Displaying beautiful shapes and structures, planetary nebulae are highly desired objects for astrophotographers.
 
 
-*Last updated at 2024-02-12 04:01:00*
+*Last updated at 2024-02-12 08:01:16*
