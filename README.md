@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There are more stars in the universe than there are grains of sand on all the beaches on Earth.</p>
+    <p align="center">The universe makes a noise like a low humming sound.</p>
 </p>
 <br/>
 
 Explanation
 --
-It's easy to get lost following the intricate, looping, and twisting filaments of supernova remnant Simeis 147.  Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula.  Seen toward the boundary of the constellations of the Bull (Taurus) and the Charioteer (Auriga), the impressive gas structure covers nearly 3 degrees on the sky, equivalent to 6 full moons. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years.  This composite image includes data taken through narrow-band filters isolating emission from hydrogen (red) and oxygen (blue) glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from this massive stellar explosion first reached the Earth when woolly mammoths roamed free.  Besides the expanding remnant, this cosmic catastrophe left behind a pulsar, a spinning neutron star that is the remnant of the original star's core.
+How does the sky turn dark at night? In stages, and with different characteristic colors rising from the horizon. The featured image shows, left to right, increasingly late twilight times after sunset in 20 different vertical bands. The picture was taken last month in Syracuse, Sicily, Italy, in the direction opposite the Sun. On the far left is the pre-sunset upper sky.  Toward the right, prominent bands include the Belt of Venus, the Blue Band, the Horizon Band, and the Red Band. As the dark shadow of the Earth rises, the colors in these bands are caused by direct sunlight reflecting from air and aerosols in the Earth's atmosphere, multiple reflections sometimes involving a reddened sunset, and refraction. In practice, these bands can be diffuse and hard to discern, and their colors can depend on colors near the setting Sun. Finally, the Sun completely sets and the sky becomes dark. Don't despair -- the whole thing will happen in reverse when the Sun rises again in the morning.
 
 
-*Last updated at 2024-02-28 04:01:13*
+*Last updated at 2024-02-28 08:01:23*
