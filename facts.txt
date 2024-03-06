@@ -146,3 +146,71 @@ Interferometry combines signals from multiple telescopes to achieve higher resol
 The missing baryon problem refers to the discrepancy between observed and predicted baryonic matter in the universe.
 String theory is a theoretical framework that posits that the fundamental building blocks of the universe are not particles but tiny, vibrating strings.
 Every atom in your body was forged in the heart of a star, emphasizing our cosmic connection and the unity of the universe.
+The observable universe spans 93 billion light-years in diameter.
+It contains an estimated 2 trillion galaxies.
+Each galaxy can have billions of stars.
+The universe is expanding at an accelerating rate.
+Light from distant galaxies takes billions of years to reach us.
+We see them as they were in the distant past.
+The cosmic microwave background radiation is a snapshot of the early universe.
+It shows the universe was once much hotter and denser.
+Dark matter makes up about 27% of the universe's mass-energy content.
+Dark energy, about 68%, drives the universe's expansion.
+Only about 5% of the universe is made up of ordinary matter.
+Black holes are some of the most mysterious objects in the universe.
+They can have masses millions or even billions of times that of our sun.
+Some black holes are so massive they can bend light around them.
+Neutron stars are incredibly dense remnants of massive stars.
+A teaspoon of neutron star material would weigh billions of tons on Earth.
+Supernovae are explosions that can outshine entire galaxies for a brief period.
+They create heavy elements like gold, silver, and uranium.
+The largest known star, UY Scuti, is over 1,700 times larger than our sun.
+The Pillars of Creation in the Eagle Nebula are vast columns of gas and dust.
+They are regions where new stars are being born.
+Quasars are some of the brightest objects in the universe.
+They are powered by supermassive black holes at their centers.
+The Great Attractor is a mysterious gravitational anomaly pulling galaxies towards it.
+The Boötes Void is one of the largest known cosmic voids, nearly devoid of galaxies.
+The Hercules-Corona Borealis Great Wall is one of the largest structures in the universe.
+It is a vast supercluster of galaxies stretching over 10 billion light-years across.
+The cosmic web is a network of filaments connecting galaxies across the universe.
+Some galaxies are cannibalistic, consuming smaller galaxies around them.
+The Andromeda Galaxy is on a collision course with our Milky Way galaxy in about 4 billion years.
+Gamma-ray bursts are some of the most energetic events in the universe.
+They can release more energy in seconds than our sun will in its entire lifetime.
+White dwarfs are remnants of low to medium mass stars like our sun.
+They will eventually cool down and fade away as black dwarfs over trillions of years.
+Red giants are massive stars in their final stages before becoming white dwarfs or supernovae.
+The Hubble Space Telescope has revolutionized our understanding of the cosmos.
+It has captured stunning images of distant galaxies and nebulae.
+Gravitational lensing can magnify and distort light from distant objects due to gravity's effect on spacetime.
+The Bullet Cluster provides evidence for dark matter's existence through gravitational lensing observations.
+Cosmic inflation theory suggests that the universe underwent rapid expansion shortly after the Big Bang.
+Multiverse theories propose the existence of parallel universes beyond our observable one.
+String theory posits that fundamental particles are actually tiny strings vibrating at different frequencies.
+Quantum entanglement allows particles to be connected regardless of distance instantaneously.
+The universe is home to countless exoplanets.
+Some exoplanets orbit multiple stars.
+Rogue planets drift through space without a star.
+The universe is filled with cosmic voids.
+Some voids are hundreds of millions of light-years wide.
+The universe's age is about 13.8 billion years.
+The first stars formed about 100 million years after the Big Bang.
+Supermassive black holes reside in the centers of galaxies.
+Some black holes spin at nearly the speed of light.
+Time dilation near black holes can warp perception of time.
+Wormholes are theoretical shortcuts through spacetime.
+The observable universe may be just a tiny part of a larger cosmos.
+Quantum fluctuations in empty space can create particles.
+The universe's expansion may continue indefinitely.
+The cosmic web structure connects galaxies across vast distances.
+Galaxies collide and merge over billions of years.
+Some galaxies have supermassive black holes at their cores.
+Gravitational waves are ripples in spacetime caused by massive events.
+Neutrinos are nearly massless particles that rarely interact with matter.
+The cosmic microwave background radiation is nearly uniform in all directions.
+Inflation theory explains the universe's smoothness and flatness.
+The observable universe contains an estimated 10^80 atoms.
+Quantum mechanics governs the behavior of particles on small scales.
+Entropy tends to increase over time in isolated systems.
+Quantum superposition allows particles to exist in multiple states simultaneously.
