@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2403/Crew-8image0_1024.jpeg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The universe is thought to be around 13.7 billion years old.</p>
+    <p align="center">The Voyager Golden Record carries sounds and images representing Earth and humanity, intended for any extraterrestrial life that might find it.</p>
 </p>
 <br/>
 
 Explanation
 --
-What kind of celestial object is this? A relatively normal galaxy -- but seen from its edge.  Many disk galaxies are actually just as thin as NGC 5866, the Spindle galaxy, pictured here, but are not seen edge-on from our vantage point.  A perhaps more familiar galaxy seen edge-on is our own Milky Way galaxy.  Also cataloged as M102, the Spindle galaxy has numerous and complex dust lanes appearing dark and red, while many of the bright stars in the disk give it a more blue underlying hue.  The blue disk of young stars can be seen in this Hubble image extending past the dust in the extremely thin galactic plane. There is evidence that the Spindle galaxy has cannibalized smaller galaxies over the past billion years or so, including multiple streams of faint stars, dark dust that extends away from the main galactic plane, and a surrounding group of galaxies (not shown).  In general, many disk galaxies become thin because the gas that forms them collides with itself as it rotates about the gravitational center. The Spindle galaxy lies about 50 million light years distant toward the constellation of the Dragon (Draco).
+Not the James Webb Space Telescope's latest view of a distant galactic nebula, this cloud of gas and dust dazzled spacecoast skygazers on March 3. The telephoto snapshot was taken minutes after the launch of a Falcon 9 rocket on the SpaceX Crew-8 mission, to the International Space Station. It captures plumes and exhaust from the separated first and second stage, a drifting Rorschach pattern in dark evening skies.  The bright spot near bottom center within the stunning terrestrial nebulosity is the second stage engine firing to carry 4 humans to space in the Crew Dragon spacecraft Endeavour. In sharp silhouette just above it is the Falcon 9 first stage booster orienting itself for return to a landing zone at Cape Canaveral, planet Earth. This reuseable first stage booster was making its first flight. But the Crew Dragon Endeavour capsule has flown humans to low Earth orbit and back again 4 times before. Endeavour, as a name for a spacecraft, has also seen reuse, christening retired Space Shuttle Endeavour and the Apollo 15 command module.
 
 
-*Last updated at 2024-03-07 04:01:04*
+*Last updated at 2024-03-07 08:01:30*
