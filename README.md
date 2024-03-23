@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2403/PIA19363_1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Quantum entanglement allows particles to be connected regardless of distance instantaneously.</p>
+    <p align="center">The observable universe contains an estimated 2 trillion galaxies.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the scifi novel The Martian by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site corresponding to the coordinates of this cropped HiRISE frame. For scale Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site.
 
 
-*Last updated at 2024-03-23 16:01:04*
+*Last updated at 2024-03-23 20:01:12*
