@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Black holes are the ultimate energy factories.</p>
+    <p align="center">Quasars are incredibly energetic and distant objects powered by supermassive black holes.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Almost every object in the featured photograph is a galaxy.  The Coma Cluster of Galaxies pictured here is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other.  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.
 
 
-*Last updated at 2024-03-27 12:01:38*
+*Last updated at 2024-03-27 16:01:17*
