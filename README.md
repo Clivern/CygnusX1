@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_1080.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Every galaxy has a supermassive black hole at its center.</p>
+    <p align="center">The majority of the universe is composed of hydrogen (75%) and helium (25%).</p>
 </p>
 <br/>
 
 Explanation
 --
-Comet Pons-Brooks has quite a tail to tell.  First discovered in 1385, this erupting dirty snowball loops back into our inner Solar System every 71 years and, this time, is starting to put on a show for deep camera exposures.  In the featured picture, the light blue stream is the ion tail which consists of charged molecules pushed away from the comet's nucleus by the solar wind.  The ion tail, shaped by the Sun's wind and the comet's core's rotation, always points away from the Sun.  Comet 12P/Pons–Brooks is now visible with binoculars in the early evening sky toward the northwest, moving perceptibly from night to night.  The frequently flaring comet is expected to continue to brighten, on the average, and may even become visible with the unaided eye --  during the day -- to those in the path of totality of the coming solar eclipse on April 8.
+Almost every object in the featured photograph is a galaxy.  The Coma Cluster of Galaxies pictured here is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other.  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.
 
 
-*Last updated at 2024-03-27 04:01:14*
+*Last updated at 2024-03-27 08:01:23*
