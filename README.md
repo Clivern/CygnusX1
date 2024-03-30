@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2403/PIA19048europa1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">It shows the universe was once much hotter and denser.</p>
+    <p align="center">A black hole could fit in your pocket</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. The Juno spacecraft currently in Jovian orbit has also made repeated flybys of the water world, returning images along with data exploring Europa's habitability. This October will see the launch of the NASA's Europa Clipper on a voyage of exploration. The spacecraft will make nearly 50 flybys, approaching to within 25 kilometers of Europa's icy surface.
 
 
-*Last updated at 2024-03-29 20:01:04*
+*Last updated at 2024-03-30 00:02:31*
