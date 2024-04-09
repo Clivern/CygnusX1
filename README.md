@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Black holes are the ultimate energy factories.</p>
+    <p align="center">Black holes are regions of space with gravitational forces so strong that nothing, not even light, can escape them.</p>
 </p>
 <br/>
 
 Explanation
 --
-How does a comet tail change? It depends on the comet.  The ion tail of Comet 12P/Pons–Brooks has been changing markedly, as detailed in the featured image sequenced over nine days from March 6 to 14 (top to bottom).  On some days, the comet's ion tail was relatively long and complex, but not every day.  Reasons for tail changes include the rate of ejection of material from the comet's nucleus, the strength and complexity of the passing solar wind, and the rotation rate of the comet.  Over the course of a week, apparent changes even include a change of perspective from the Earth. In general, a comet's ion tail will point away from the Sun, as gas expelled is pushed out by the Sun's wind. Today, Pons-Brooks may become a rare comet suddenly visible in the middle of the day for those able to see the Sun totally eclipsed by the Moon.   NASA Coverage: Today's Total Solar Eclipse  Total Eclipse Imagery: Notable Submissions to APOD
+Captured in this snapshot, the shadow of the Moon came to Lake Magog, Quebec, North America, planet Earth on April 8. For the lakeside eclipse chasers, the much anticipated total solar eclipse was a spectacle to behold in briefly dark, but clear skies. Of course Lake Magog was one of the last places to be visited by the Moon's shadow. The narrow path of totality for the 2024 total solar eclipse swept from Mexico's Pacific Coast north and eastward through the US and Canada. But a partial eclipse was visible across the entire North American continent.   Total Eclipse Imagery: Notable Submissions to APOD
 
 
-*Last updated at 2024-04-09 04:01:13*
+*Last updated at 2024-04-09 08:01:11*
