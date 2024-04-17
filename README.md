@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Every galaxy has a supermassive black hole at its center</p>
+    <p align="center">The largest known structure in the universe is the Sloan Great Wall, a vast cosmic structure stretching over a billion light-years.</p>
 </p>
 <br/>
 
 Explanation
 --
-The explosion is over, but the consequences continue.  About eleven thousand years ago, a star in the constellation of Vela could be seen to explode, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image captures some of that filamentary and gigantic shock in visible light. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Monday's Eclipse Imagery: Notable Submissions to APOD
+Not one, but two comets appeared near the Sun during last week's total solar eclipse. The expected comet was Comet 12P/Pons-Brooks, but it was disappointingly dimmer than many had hoped. However, relatively unknown Comet SOHO-5008 also appeared in long duration camera exposures. This comet was the 5008th comet identified on images taken by ESA & NASA's Sun-orbiting SOHO spacecraft.  Likely much smaller, Comet SOHO-5008 was a sungrazer which disintegrated within hours as it passed too near the Sun.  The featured image is not only unusual for capturing two comets during an eclipse, but one of the rare times that a sungrazing comet has been photographed from the Earth's surface. Also visible in the image is the sprawling corona of our Sun and the planets Mercury (left) and Venus (right).  Of these planets and comets, only Venus was easily visible to millions of people in the dark shadow of the Moon that crossed North America on April 8.    Solar Eclipse Imagery: Notable Submissions to APOD
 
 
-*Last updated at 2024-04-17 04:02:06*
+*Last updated at 2024-04-17 08:01:11*
