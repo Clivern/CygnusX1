@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2404/NGC1232_Eye_of_God_Galaxy_fullsize_2024-03-28_1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2404/NGC3372_ETA CARINA_LOPES1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There are likely millions of black holes in our galaxy.</p>
+    <p align="center">Gravitational lensing can magnify and distort light from distant objects due to gravity's effect on spacetime.</p>
 </p>
 <br/>
 
 Explanation
 --
-From our vantage point in the Milky Way Galaxy, we see NGC 1232 face-on. Nearly 200,000 light-years across, the big, beautiful spiral galaxy is located some 47 million light-years away in the flowing southern constellation of Eridanus. This sharp, multi-color, telescopic image of NGC 1232 includes remarkable details of the distant island universe. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the grand, sweeping spiral arms. NGC 1232's apparent, small, barred-spiral companion galaxy is cataloged as NGC 1232A. Distance estimates place it much farther though, around 300 million light-years away, and unlikely to be interacting with NGC 1232.  Of course, the prominent bright star with the spiky appearance is much closer than NGC 1232 and lies well within our own Milky Way.
+A jewel of the southern sky, the Great Carina Nebula is more modestly known as NGC 3372. One of our Galaxy's largest star forming regions, it spans over 300 light-years. Like the smaller, more northerly Great Orion Nebula, the Carina Nebula is easily visible to the unaided eye. But at a distance of 7,500 light-years it lies some 5 times farther away. This stunning telescopic view reveals remarkable details of the region's glowing filaments of interstellar gas and obscuring cosmic dust clouds. The Carina Nebula is home to young, extremely massive stars, including the still enigmatic variable Eta Carinae, a star with well over 100 times the mass of the Sun.  Eta Carinae is the bright star above the central dark notch in this field and left of the dusty Keyhole Nebula (NGC 3324).
 
 
-*Last updated at 2024-04-19 04:01:07*
+*Last updated at 2024-04-19 08:01:17*
