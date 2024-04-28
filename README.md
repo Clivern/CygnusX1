@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2404/tse20240408h14_1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Quasars are incredibly energetic and distant objects powered by supermassive black holes.</p>
+    <p align="center">Quantum entanglement allows particles to be connected regardless of distance instantaneously.</p>
 </p>
 <br/>
 
 Explanation
 --
-If the Sun is up but the sky is dark and the horizon is bright all around, you might be standing in the Moon's shadow during a total eclipse of the Sun. In fact, the all-sky Moon shadow shown in this composited panoramic view was captured from a farm near Shirley, Arkansas, planet Earth. The exposures were made under clear skies during the April 8 total solar eclipse. For that location near the center line of the Moon's shadow track, totality lasted over 4 minutes. Along with the solar corona surrounding the silhouette of the Moon planets and stars were visible during the total eclipse phase. Easiest to see here are bright planets Venus and Jupiter, to the lower right and upper left of the eclipsed Sun.
+The Ring Nebula (M57) is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula's central star. This composite image includes red light emitted by hydrogen as well as visible and infrared light. The Ring Nebula is an elongated planetary nebula, a type of nebula created when a Sun-like star evolves to throw off its outer atmosphere and become a white dwarf star.  The Ring Nebula is about 2,500 light-years away toward the musical constellation Lyra.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
 
-*Last updated at 2024-04-28 04:01:07*
+*Last updated at 2024-04-28 08:01:02*
