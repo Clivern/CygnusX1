@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2405/three_ats_beletsky.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Over a million Earths could fit inside the sun</p>
+    <p align="center">Pulsars are rotating neutron stars that emit beams of electromagnetic radiation, resembling lighthouse beams.</p>
 </p>
 <br/>
 
 Explanation
 --
-Despite their resemblance to R2D2, these three are not the droids you're looking for. Instead, the enclosures house 1.8 meter Auxiliary Telescopes (ATs) at Paranal Observatory in the Atacama Desert region of Chile. The ATs are designed to be used for interferometry, a technique for achieving extremely high resolution observations, in concert with the observatory's 8 meter Very Large Telescope units. A total of four ATs are operational, each fitted with a transporter that moves the telescope along a track allowing different arrays with the large unit telescopes. To work as an interferometer, the light from each telescope is brought to a common focal point by a system of mirrors in underground tunnels. Above these three ATs, the Large and Small Magellanic Clouds are the far, far away satellite galaxies of our own Milky Way. In the clear and otherwise dark southern skies, planet Earth's greenish atmospheric airglow stretches faintly along the horizon.
+What happens to a star that goes near a black hole? If the star directly impacts a massive black hole, then the star falls in completely -- and everything vanishes. More likely, though, the star goes close enough to have the black hole's gravity pull away its outer layers, or disrupt, the star. Then, most of the star's gas does not fall into the black hole.  These stellar tidal disruption events can be as bright as a supernova, and an increasing amount of them are being discovered by automated sky surveys. In the featured artist's illustration, a star has just passed a massive black hole and sheds gas that continues to orbit.  The inner edge of a disk of gas and dust surrounding the black hole is heated by the disruption event and may glow long after the star  is gone.    Hole New Worlds: It's Black Hole Week at NASA!
 
 
-*Last updated at 2024-05-05 04:01:07*
+*Last updated at 2024-05-05 08:01:13*
