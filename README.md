@@ -1,13 +1,13 @@
 <p align='center'>
-    <a href='https://www.youtube.com/embed/28gtfSziCgU?rel=0'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>
+    <img src='https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Extremophiles are organisms that thrive in extreme conditions on Earth, leading scientists to consider the possibility of life on other planets.</p>
+    <p align="center">Our galaxy probably contains 100 to 400 billion stars and is about 100,000 light-years across</p>
 </p>
 <br/>
 
 Explanation
 --
-This is how the Sun disappeared from the daytime sky last month. The featured time-lapse video was created from stills taken from Mountain View, Arkansas, USA on 2024 April 8. First, a small sliver of a normally spotted Sun went strangely dark. Within a few minutes, much of the background Sun was hidden behind the advancing foreground Moon. Within an hour, the only rays from the Sun passing the Moon appeared like a diamond ring. During totality, most of the surrounding sky went dark, making the bright pink prominences around the Sun's edge stand out, and making the amazing corona appear to spread into the surrounding sky.  The central view of the corona shows an accumulation of frames taken during complete totality. As the video ends, just a few minutes later, another diamond ring appeared -- this time on the other side of the Moon. Within the next hour, the sky returned to normal.   Celebrate the Voids: It's Black Hole Week at NASA!
+What happens when a black hole devours a star?  Many details remain unknown, but observations are providing new clues. In 2014, a powerful explosion was recorded by the ground-based robotic telescopes of the All Sky Automated Survey for SuperNovae (Project ASAS-SN), with followed-up observations by instruments including NASA's Earth-orbiting Swift satellite. Computer modeling of these emissions fit a star being ripped apart by a distant supermassive black hole.  The results of such a collision are portrayed in the featured artistic illustration. The black hole itself is a depicted as a tiny black dot in the center. As matter falls toward the hole, it collides with other matter and heats up. Surrounding the black hole is an accretion disk of hot matter that used to be the star, with a jet emanating from the black hole's spin axis.   Fall towards eternity: It's Black Hole Week at NASA!
 
 
-*Last updated at 2024-05-07 04:01:00*
+*Last updated at 2024-05-07 08:01:04*
