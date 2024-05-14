@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR_c1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The universe is filled with cosmic voids.</p>
+    <p align="center">The Milky Way galaxy is about 100,000 light-years across</p>
 </p>
 <br/>
 
 Explanation
 --
-It was larger than the Earth. It was so big you could actually see it on the Sun's surface without magnification. It contained powerful and tangled magnetic fields as well as numerous dark sunspots. Labelled AR 3664, it developed into one of the most energetic areas seen on the Sun in recent years, unleashing a series of explosions that led to a surge of energetic particles striking the Earth, which created beautiful auroras. And might continue.  Although active regions on the Sun like AR 3664 can be quite dangerous, this region's Coronal Mass Ejections have not done, as yet, much damage to Earth-orbiting satellites or Earth-surface electrical grids. Pictured, the enormous active region was captured on the setting Sun a few days ago from  Civitavecchia, Rome, Italy. The composite image includes a very short exposure taken of just the Sun's surface, but mimics what was actually visible.  Finally, AR 3664 is now rotating away from the Earth, although the region may survive long enough to come around again.    Gallery: Earth Aurora from Solar Active Region 3664
+For the mostly harmless denizens of planet Earth, the brighter stars of open cluster NGC 2169 seem to form a cosmic 37. Did you expect 42? From our perspective, the improbable numerical asterism appears solely by chance. It lies at an estimated distance of 3,300 light-years toward the constellation Orion. As far as galactic or open star clusters go, NGC 2169 is a small one, spanning about 7 light-years.  Formed at the same time from the same cloud of dust and gas, the stars of NGC 2169 are only about 11 million years old. Such clusters are expected to disperse over time as they encounter other stars, interstellar clouds, and experience gravitational tides while hitchhiking through the galaxy. Over four billion years ago, our own Sun was likely formed in a similar open cluster of stars.   Gallery: Earth Aurora from Solar Active Region 3664
 
 
-*Last updated at 2024-05-14 04:01:04*
+*Last updated at 2024-05-14 08:01:10*
