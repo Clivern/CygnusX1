@@ -1,13 +1,13 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Milky Way galaxy has an estimated 100 billion stars.</p>
+    <p align="center">Dark matter makes up about 27% of the universe's mass-energy content.</p>
 </p>
 <br/>
 
 Explanation
 --
-It was larger than the Earth. It was so big you could actually see it on the Sun's surface without magnification. It contained powerful and tangled magnetic fields as well as numerous dark sunspots. Labelled AR 3664, it developed into one of the most energetic areas seen on the Sun in recent years, unleashing a series of explosions that led to a surge of energetic particles striking the Earth, which created beautiful auroras. And might continue.  Although active regions on the Sun like AR 3664 can be quite dangerous, this region's Coronal Mass Ejections have not done, as yet, much damage to Earth-orbiting satellites or Earth-surface electrical grids. Pictured, the enormous active region was captured on the setting Sun a few days ago from  Civitavecchia, Rome, Italy. The composite image includes a very short exposure taken of just the Sun's surface, but mimics what was actually visible.  Finally, AR 3664 is now rotating away from the Earth, although the region may survive long enough to come around again.    Gallery: Earth Aurora from Solar Active Region 6443
+It was larger than the Earth. It was so big you could actually see it on the Sun's surface without magnification. It contained powerful and tangled magnetic fields as well as numerous dark sunspots. Labelled AR 3664, it developed into one of the most energetic areas seen on the Sun in recent years, unleashing a series of explosions that led to a surge of energetic particles striking the Earth, which created beautiful auroras. And might continue.  Although active regions on the Sun like AR 3664 can be quite dangerous, this region's Coronal Mass Ejections have not done, as yet, much damage to Earth-orbiting satellites or Earth-surface electrical grids. Pictured, the enormous active region was captured on the setting Sun a few days ago from  Civitavecchia, Rome, Italy. The composite image includes a very short exposure taken of just the Sun's surface, but mimics what was actually visible.  Finally, AR 3664 is now rotating away from the Earth, although the region may survive long enough to come around again.    Gallery: Earth Aurora from Solar Active Region 3664
 
 
-*Last updated at 2024-05-13 20:01:08*
+*Last updated at 2024-05-14 00:02:55*
