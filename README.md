@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2405/WrightDobbs_Georgia_Aurora_2_1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2405/DSC_6363Panorama-2_600.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">White dwarfs are remnants of low to medium mass stars like our sun.</p>
+    <p align="center">68% of the universe is dark energy, and 27% is dark matter.</p>
 </p>
 <br/>
 
 Explanation
 --
-A familiar sight from Georgia, USA, the Moon sets near the western horizon in this rural night skyscape. Captured on May 10 before local midnight, the image overexposes the Moon's bright waning crescent at left in the frame. A long irrigation rig stretches across farmland about 15 miles north of the city of Bainbridge. Shimmering curtains of aurora shine across the starry sky though, definitely an unfamiliar sight for southern Georgia nights. Last weekend, extreme geomagnetic storms triggered by the recent intense activity from solar active region AR 3664 brought epic displays of aurora, usually seen closer to the poles, to southern Georgia and even lower latitudes on planet Earth. As solar activity ramps up, more storms are possible.   AuroraSaurus: Report your aurora observations
+This well-composed composite panoramic view looks due south from Banks Peninsula near Christchurch on New Zealand's South Island. The base of a tower-like rocky sea stack is awash in the foreground, with stars of the Southern Cross at the top of the frame and planet Earth's south celestial pole near center. Still, captured on May 11, vibrant aurora australis dominate the starry southern sea and skyscape. The shimmering southern lights were part of extensive auroral displays that entertained skywatchers in northern and southern hemispheres around planet Earth, caused by intense geomagnetic storms. The extreme spaceweather was triggered by the impact of coronal mass ejections launched from powerful solar active region AR 3664.   AuroraSaurus: Report your aurora observations
 
 
-*Last updated at 2024-05-16 12:01:18*
+*Last updated at 2024-05-17 16:01:21*
