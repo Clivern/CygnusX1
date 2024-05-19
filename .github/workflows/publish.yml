@@ -2,7 +2,7 @@ name: Publish
 
 on:
   schedule:
-  - cron: "0 */4 * * *" # See https://crontab.guru/
+  - cron: "0 0 1 * *" # See https://crontab.guru/
 
   push:
     branches:
