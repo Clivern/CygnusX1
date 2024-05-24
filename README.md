@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2405/N3169N3166Final1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2405/M78_Euclid_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Stellar-mass black holes are formed from the collapse of massive stars.</p>
+    <p align="center">Neutrinos are nearly massless particles that rarely interact with matter.</p>
 </p>
 <br/>
 
 Explanation
 --
-Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.
+Star formation can be messy. To help find out just how messy, ESA's new Sun-orbiting Euclid telescope recently captured the most detailed image ever of the bright star forming region M78. Near the image center, M78 lies at a distance of only about 1,300 light-years away and has a main glowing core that spans about 5 light-years.  The featured image was taken in both visible and infrared light. The purple tint in M78's center is caused by dark dust preferentially reflecting the blue light of hot, young stars.  Complex dust lanes and filaments can be traced through this gorgeous and revealing skyscape. On the upper left is associated star forming region NGC 2071, while a third region of star formation is visible on the lower right.  These nebulas are all part of the vast Orion Molecular Cloud Complex which can be found with even a small telescope just north of Orion's belt.   More Euclid Sky Candy: Recent images released from Euclid
 
 
-*Last updated at 2024-05-24 04:01:15*
+*Last updated at 2024-05-24 08:01:09*
