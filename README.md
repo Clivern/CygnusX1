@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2405/EiffelCorona_Binotto_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_1024.png' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Earth weighs 81 times more than the moon.</p>
+    <p align="center">Black holes evaporate over time.</p>
 </p>
 <br/>
 
 Explanation
 --
-Why does a cloudy moon sometimes appear colorful? The effect, called a lunar corona, is created by the quantum mechanical diffraction of light around individual, similarly-sized water droplets in an intervening but mostly-transparent cloud. Since light of different colors has different wavelengths, each color diffracts differently. Lunar coronae are one of the few  quantum mechanical color effects that can be easily seen with the unaided eye.  Solar coronae are also sometimes evident. The featured image was taken last month from Paris, France.  The blue beacon emanating from the Eiffel Tower did not affect the colorful lunar corona.   Portal Universe: Random APOD Generator
+Made with narrowband filters, this cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the constellation Cygnus. It highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, brightest star near the center of the frame. Distance estimates put WR 134 about 6,000 light-years away, making the frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end this final phase of massive star evolution in a spectacular supernova explosion. The stellar winds and final supernova enrich the interstellar material with heavy elements to be incorporated in future generations of stars.
 
 
-*Last updated at 2024-05-31 04:01:17*
+*Last updated at 2024-05-31 08:01:09*
