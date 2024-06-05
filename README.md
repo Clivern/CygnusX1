@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Over a million Earths could fit inside the sun</p>
+    <p align="center">Neutron stars are incredibly dense, with a teaspoon of neutron star material weighing about 6 billion tons on Earth.</p>
 </p>
 <br/>
 
 Explanation
 --
-Why does Comet Pons-Brooks now have tails pointing in opposite directions?  The most spectacular tail is the blue-glowing ion tail that is visible flowing down the image.  The ion tail is pushed directly out from the Sun by the solar wind. On the upper right is the glowing central coma of Comet 12P/Pons–Brooks. Fanning out from the coma, mostly to the left, is the comet's dust tail. Pushed out and slowed down by the pressure of sunlight, the dust tail tends to trail the comet along its orbit and, from some viewing angles, can appear opposite to the ion tail.  The distant, bright star Alpha Leporis is seen at the bottom of the featured image captured last week from Namibia. Two days ago, the comet passed its closest to the Earth and is now best visible from southern skies as it dims and glides back to the outer Solar System.
+What if you saw your shadow on Mars and it wasn't human?  Then you might be the Perseverance rover exploring Mars.  Perseverance has been examining the Red Planet since 2021, finding evidence of its complex history of volcanism and ancient flowing water, and sending breathtaking images across the inner Solar System.  Pictured here in February of 2024, Perseverance looks opposite the Sun and across Neretva Vallis in Jezero Crater, with a local hill visible at the top of the frame.  The distinctively non-human shadow of the car-sized rover is visible below center, superposed on scattered rocks.  Perseverance, now working without its flying companion Ingenuity, continues to search Mars for signs of ancient life.
 
 
-*Last updated at 2024-06-05 04:01:01*
+*Last updated at 2024-06-05 08:01:05*
