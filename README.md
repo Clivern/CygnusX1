@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There could be life on Mars.</p>
+    <p align="center">The majority of the universe is composed of hydrogen (75%) and helium (25%).</p>
 </p>
 <br/>
 
 Explanation
 --
-Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the well-trained constellation Canis Major and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.
+This deep field mosaicked image presents a stunning view of galaxy cluster Abell 2744 recorded by the James Webb Space Telescope's NIRCam. Also dubbed Pandora's Cluster, Abell 2744 itself appears to be a ponderous merger of three different massive galaxy clusters. It lies some 3.5 billion light-years away, toward the constellation Sculptor. Dominated by dark matter, the mega-cluster warps and distorts the fabric of spacetime, gravitationally lensing even more distant objects. Redder than the Pandora cluster galaxies many of the lensed sources are very distant galaxies in the early Universe, their lensed images stretched and distorted into arcs. Of course distinctive diffraction spikes mark foreground Milky Way stars. At the Pandora Cluster's estimated distance this cosmic box spans about 6 million light-years. But don't panic. You can explore the tantalizing region in a 2 minute video tour.
 
 
-*Last updated at 2024-06-08 04:01:06*
+*Last updated at 2024-06-08 08:01:03*
