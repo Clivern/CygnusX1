@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Gamma-ray bursts are the most energetic events in the universe, often associated with the death of massive stars.</p>
+    <p align="center">Neutron stars are incredibly dense remnants of massive stars.</p>
 </p>
 <br/>
 
 Explanation
 --
-This deep field mosaicked image presents a stunning view of galaxy cluster Abell 2744 recorded by the James Webb Space Telescope's NIRCam. Also dubbed Pandora's Cluster, Abell 2744 itself appears to be a ponderous merger of three different massive galaxy clusters. It lies some 3.5 billion light-years away, toward the constellation Sculptor. Dominated by dark matter, the mega-cluster warps and distorts the fabric of spacetime, gravitationally lensing even more distant objects. Redder than the Pandora cluster galaxies many of the lensed sources are very distant galaxies in the early Universe, their lensed images stretched and distorted into arcs. Of course distinctive diffraction spikes mark foreground Milky Way stars. At the Pandora Cluster's estimated distance this cosmic box spans about 6 million light-years. But don't panic. You can explore the tantalizing region in a 2 minute video tour.
+What is that light in the sky? The answer to one of humanity's more common questions may emerge from a few quick observations.  For example -- is it moving or blinking? If so, and if you live near a city, the answer is typically an airplane, since planes are so numerous and so few stars and satellites are bright enough to be seen over the glare of artificial city lights. If not, and if you live far from a city, that bright light is likely a planet such as Venus or Mars -- the former of which is constrained to appear near the horizon just before dawn or after dusk.  Sometimes the low apparent motion of a distant airplane near the horizon makes it hard to tell from a bright planet, but even this can usually be discerned by the plane's motion over a few minutes. Still unsure?   The featured chart gives a sometimes-humorous but mostly-accurate assessment.  Dedicated sky enthusiasts will likely note -- and are encouraged to provide -- polite corrections.   Chart translations: Italian, German, Latvian, Persian, Polish, Spanish, and Turkish
 
 
-*Last updated at 2024-06-09 04:01:21*
+*Last updated at 2024-06-09 08:01:04*
