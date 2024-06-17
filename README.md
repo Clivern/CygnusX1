@@ -1,13 +1,13 @@
 <p align='center'>
-    <a href='https://www.youtube.com/embed/ubBzcSD8G8k?rel=0'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>
+    <img src='https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The observable universe may be just a tiny part of a larger cosmos.</p>
+    <p align="center">The universe is thought to be around 13.7 billion years old.</p>
 </p>
 <br/>
 
 Explanation
 --
-What happens if a star gets too close to a black hole? The black hole can rip it apart -- but how? It's not the high gravitational attraction itself that's the problem -- it's the difference in gravitational pull across the star that creates the destruction.  In the featured animated video illustrating this disintegration, you first see a star approaching the black hole.  Increasing in orbital speed, the star's outer atmosphere is ripped away during closest approach.  Much of the star's atmosphere disperses into deep space, but some continues to orbit the black hole and forms an accretion disk. The animation then takes you into the accretion disk while looking toward the black hole. Including the strange visual effects of gravitational lensing, you can even see the far side of the disk.  Finally, you look along one of the jets being expelled along the spin axis.  Theoretical models indicate that these jets not only expel energetic gas, but also create energetic neutrinos -- one of which may have been seen recently on Earth.    Almost Hyperspace: Random APOD Generator
+Squids on Earth aren't this big.  This mysterious squid-like cosmic cloud spans nearly three full moons on planet Earth's sky. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.
 
 
-*Last updated at 2024-06-17 04:01:26*
+*Last updated at 2024-06-17 08:01:17*
