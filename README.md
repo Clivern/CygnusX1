@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg' width='60%' />
+    <a href='https://www.youtube.com/embed/fisAZYNwDgk?rel=0'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Magnetospheric eternally collapsing objects (MECOs) are hypothetical astronomical objects that could explain some dark matter observations.</p>
+    <p align="center">The first black hole photographed is 3 million times the size of Earth.</p>
 </p>
 <br/>
 
 Explanation
 --
-What is that strange brown ribbon on the sky?  When observing the star cluster NGC 4372, observers frequently take note of an unusual dark streak nearby running about three degrees in length. The streak, actually a long molecular cloud, has become known as the Dark Doodad Nebula.  (Doodad is slang for a thingy or a whatchamacallit.)  Pictured here, the Dark Doodad Nebula sweeps across the center of a rich and colorful starfield.  Its dark color comes from a high concentration of interstellar dust that preferentially scatters visible light.  The globular star cluster NGC 4372 is visible as the fuzzy white spot on the far left, while the bright blue star gamma Muscae is seen to the cluster's upper right. The Dark Doodad Nebula can be found with strong binoculars toward the southern constellation of the Fly (Musca).
+What's happening in the sky this unusual night? Most striking in the featured 4.5-hour 360-degree panoramic video, perhaps, is the pink and purple aurora. That's because this night, encompassing May 11, was famous for its auroral skies around the world. As the night progresses, auroral bands shimmer, the central band of our Milky Way Galaxy rises, and stars shift as the Earth rotates beneath them.  Captured here simultaneously is a rare red band running above the aurora: a SAR arc, seen to change only slightly. The flashing below the horizon is caused by passing cars, while the moving spots in the sky are satellites and airplanes.  The featured video was captured from Xinjiang, China with four separate cameras.
 
 
-*Last updated at 2024-06-26 04:01:21*
+*Last updated at 2024-06-26 08:01:15*
