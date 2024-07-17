@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg' width='60%' />
+    <a href='https://www.youtube.com/embed/aX4ozspTPQY?rel=0'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There could be life on Mars.</p>
+    <p align="center">There are more than 200 moons in our solar system.</p>
 </p>
 <br/>
 
 Explanation
 --
-What are these unusual interstellar structures? Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Pupis and Vela. Composed of interstellar gas and dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars, whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (on the upper left) sports a small reddish glow near its head, a telltale sign of energetic jets from a star in the early stages of formation.
+When Vulcan, the Roman god of fire, swings his blacksmith's hammer, the sky is lit on fire. A recent eruption of Chile's Villarrica volcano shows the delicate interplay between this fire -- actually glowing steam and ash from melted rock -- and the light from distant stars in our Milky Way galaxy and the Magellanic Clouds galaxies. In the featured timelapse video, the Earth rotates under the stars as Villarrica erupts.  With about 1350 volcanoes, our planet Earth rivals Jupiter's moon Io as the most geologically active place in the Solar System. While both have magnificent beauty, the reasons for the existence of volcanoes on both worlds are different. Earth's volcanoes typically occur between slowly shifting outer shell plates, while Io's volcanoes are caused by gravitational flexing resulting from Jupiter's tidal gravitational pull.
 
 
-*Last updated at 2024-07-17 04:01:01*
+*Last updated at 2024-07-17 08:01:08*
