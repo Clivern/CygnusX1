@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The missing baryon problem refers to the discrepancy between observed and predicted baryonic matter in the universe.</p>
+    <p align="center">Dark matter makes up about 27% of the universe, and dark energy constitutes approximately 68%.</p>
 </p>
 <br/>
 
 Explanation
 --
-From our vantage point in the Milky Way Galaxy, we see NGC 6946 face-on. The big, beautiful spiral galaxy is located just 20 million light-years away, behind a veil of foreground dust and stars in the high and far-off constellation Cepheus. In this sharp telescopic portrait, from the core outward the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. NGC 6946 is also bright in infrared light and rich in gas and dust, exhibiting a high star birth and death rate. In fact, since the early 20th century ten confirmed supernovae, the death explosions of massive stars, were discovered in NGC 6946. Nearly 40,000 light-years across, NGC 6946 is also known as the Fireworks Galaxy.
+Saturn now rises before midnight in planet Earth's sky. On July 24, the naked-eye planet was in close conjunction, close on the sky, to a waning gibbous Moon. But from some locations on planet Earth the ringed gas giant was occulted, disappearing behind the Moon for about an hour from skies over parts of Asia and Africa. Because the Moon and bright planets wander through the sky near the ecliptic plane, such occultation events are not uncommon, but they can be dramatic. In this telescopic view from Nanjing, Jiangsu, China, Saturn is caught moments before its disappearance behind the lunar disk. The snapshot gives the illusion that Saturn hangs just above Glushko crater, a 43 kilometer diameter, young, ray crater near the Moon's western edge. Of course, the Moon is 400 thousand kilometers away, compared to Saturn's distance of 1.4 billion kilometers.
 
 
-*Last updated at 2024-07-27 04:01:10*
+*Last updated at 2024-07-27 08:01:06*
