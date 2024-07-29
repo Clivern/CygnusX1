@@ -1,13 +1,13 @@
 <p align='center'>
-    <a href='https://www.youtube.com/embed/hQFEHH5E69s?rel=0'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>
+    <img src='https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The universe is thought to be around 13.7 billion years old</p>
+    <p align="center">The Universe has the same temperature everywhere</p>
 </p>
 <br/>
 
 Explanation
 --
-Sometimes, the surface of our Sun seems to dance. In the middle of 2012, for example, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressive prominence that seemed to perform a running dive roll like an acrobatic dancer.  The dramatic explosion was captured in ultraviolet light in the featured time-lapse video covering about three hours. A looping magnetic field directed the flow of hot plasma on the Sun. The scale of the   dancing prominence is huge -- the entire Earth would easily fit under the flowing   arch of hot gas.  A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME), expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is still a topic of research.  Like in 2012, this year the Sun's surface is again quite active and features many filaments and prominences.
+What's happening above Uluru?  A United Nations World Heritage Site, Uluru  is an extraordinary 350-meter high mountain in central Australia that rises sharply from nearly flat surroundings. Composed of sandstone, Uluru has slowly formed over the past 300 million years as softer rock eroded away.  The Uluru region has been a home to humans for over 22,000 years. Recorded  last month, the starry sky above Uluru includes the central band of our Milky Way galaxy, complete with complex dark filaments of dust, bright red emission nebulas, and billions of stars.
 
 
-*Last updated at 2024-07-29 04:01:03*
+*Last updated at 2024-07-29 08:01:07*
