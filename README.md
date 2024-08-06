@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The largest known star is UY Scuti, with a diameter over 1,700 times that of the Sun.</p>
+    <p align="center">The Hubble Space Telescope has provided breathtaking images and crucial data, contributing significantly to our understanding of the cosmos.</p>
 </p>
 <br/>
 
 Explanation
 --
-That's no moon. On the ground, that's the Lars Homestead in Tunisia. And that's not just any galaxy. That's the central band of our own Milky Way galaxy. Last, that's not just any meteor. It is a bright fireball likely from last year's Perseids meteor shower. The featured image composite combines consecutive exposures taken by the same camera from the same location.  This year's Perseids peak during the coming weekend is expected to show the most meteors after the first quarter moon sets, near midnight.  To best experience a meteor shower, you should have clear and dark skies, a comfortable seat, and patience.
+What makes this storm cloud so colorful?  First, the cloud itself is composed of millions of tiny droplets of water and ice.  Its bottom is almost completely flat -- but this isn't unusual.  Bottom flatness in clouds is generally caused by air temperature dropping as you go up, and that above a specific height, water-saturated air condenses out water droplets.  The shape of the cloud middle is caused by a water-droplet-laden column of air being blown upward.  Most unusual, though, are the orange and yellow colors.  Both colors are caused by the cloud's water drops reflecting sunlight. The orange color in the cloud's middle and bottom sections are reflections of a nearly red sunset.  In contrast, the yellow color of the cloud's top results from reflection of light from a not-yet-setting Sun, where some -- but less -- blue light is being scattered away. Appearing to float above the plains in Texas, the featured impressive image of a dynamic cumulonimbus cloud was captured in 2021 while investigating a tornado.
 
 
-*Last updated at 2024-08-06 04:01:21*
+*Last updated at 2024-08-06 08:01:09*
