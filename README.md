@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The universe is expanding, increasing by 0.007% in one million years.</p>
+    <p align="center">The cosmic microwave background radiation is a snapshot of the early universe.</p>
 </p>
 <br/>
 
 Explanation
 --
-What's happening in the sky above Stonehenge? A meteor shower: specifically, the Perseid meteor shower. A few nights ago, after the sky darkened, many images of meteors from this year's Perseids were captured separately and merged into a single frame. Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera. The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertical through the image center. The featured image was taken from Wiltshire, England, being careful to include, at the bottom, the famous astronomical monument of Stonehenge. Although the Perseids peaked last night, some Perseid meteors should still be visible for a few more nights.
+What's that on the horizon? When circling the Earth on the International Space Station early last month, astronaut Matthew Dominick saw an unusual type of lightning just beyond the Earth's edge: a gigantic jet. The powerful jet appears on the left of the featured image in red and blue. Giant jet lightning has only been known about for the past 23 years. The atmospheric jets are associated with thunderstorms and extend upwards towards Earth's ionosphere.  The lower part of the frame shows the Earth at night, with Earth's thin atmosphere tinted green from airglow. City lights are visible, sometimes resolved, but usually creating diffuse white glows in intervening clouds.  The top of the frame reveals distant stars in the dark night sky. The nature of gigantic jets and their possible association with other types of Transient Luminous Events (TLEs) such as blue jets and red sprites remains an active topic of research.   Growing Gallery: Perseid Meteor Shower 2024 and Aurorae
 
 
-*Last updated at 2024-08-13 04:00:59*
+*Last updated at 2024-08-13 08:01:14*
