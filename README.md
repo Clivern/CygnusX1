@@ -1,13 +1,13 @@
 <p align='center'>
-    <a href='https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>
+    <img src='https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The universe is thought to be around 13.7 billion years old.</p>
+    <p align="center">String theory posits that fundamental particles are actually tiny strings vibrating at different frequencies.</p>
 </p>
 <br/>
 
 Explanation
 --
-Did you see it?  One of the more common questions during a meteor shower occurs because the time it takes for a meteor to flash is similar to the time it takes for a head to turn.  Possibly, though, the glory of seeing bright meteors shoot across the sky -- while knowing that they were once small pebbles on another world -- might make it all worthwhile, even if your observing partner(s) can't always share in your experience. The featured video is composed of short clips taken in Inner Mongolia, China during the 2023 Perseid Meteor Shower. Several bright meteors were captured while live-reaction audio was being recorded -- just as the meteors flashed.  This year's 2024 Perseids also produced many beautiful meteors. Another good meteor shower to watch for is the Geminids which peak yearly in mid-December, this year with relatively little competing glow from a nearly new Moon.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+What if Saturn disappeared?  Sometimes, it does.  It doesn't really go away, though, it just disappears from view when our Moon moves in front.  Such a Saturnian eclipse, more formally called an occultation, was visible along a long swath of Earth -- from Peru, across the Atlantic Ocean, to Italy -- only a few days ago.  The featured color image is a digital fusion of the clearest images captured during the event and rebalanced for color and relative brightness between the relatively dim Saturn and the comparatively bright Moon. Saturn and the comparative bright Moon.  The exposures were all taken from Breda, Catalonia, Spain, just before occultation. Eclipses of Saturn by our Moon will occur each month for the rest of this year. Each time, though, the fleeting event will be visible only to those with clear skies -- and the right location on Earth.   Gallery: Moon Eclipses Saturn in August 2024
 
 
-*Last updated at 2024-08-27 04:01:11*
+*Last updated at 2024-08-27 08:01:10*
