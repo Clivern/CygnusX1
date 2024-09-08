@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2409/PIA11826_c.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2409/M31_HstSubaruGendler_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The largest known star is UY Scuti, with a diameter over 1,700 times that of the Sun.</p>
+    <p align="center">Neutron stars are incredibly dense remnants of massive stars.</p>
 </p>
 <br/>
 
 Explanation
 --
-Mars has two tiny moons, Phobos and Deimos, named for the figures in Greek mythology Fear and Panic. Detailed surface views of smaller moon Deimos are shown in both these panels. The images were taken in 2009, by the HiRISE camera on board the Mars Reconnaissance Orbiter spacecraft, NASA's long-lived interplanetary internet satellite. The outermost of the two Martian moons, Deimos is one of the smallest known moons in the Solar System, measuring only about 15 kilometers across.  Both Martian moons were discovered in 1877 by Asaph Hall, an American astronomer working at the US Naval Observatory in Washington D.C. But their existence was postulated around 1610 by Johannes Kepler, the astronomer who derived the laws of planetary motion. In this case, Kepler's prediction was not based on scientific principles, but his writings and ideas were so influential that the two Martian moons are discussed in works of fiction such as Jonathan Swift's Gulliver's Travels, written in 1726, over 150 years before their discovery.
+The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy. Even at some two and a half million light-years distant, this immense spiral galaxy -- spanning over 200,000 light years -- is visible, although as a faint, nebulous cloud in the constellation Andromeda. A bright yellow nucleus, dark winding dust lanes, and expansive spiral arms dotted with blue star clusters and red nebulae, are recorded in this stunning telescopic image which combines data from orbiting Hubble with ground-based images from Subaru and Mayall. In only about 5 billion years, the Andromeda galaxy may be even easier to see -- as it will likely span the entire night sky -- just before it merges with, or passes right by, our Milky Way Galaxy.   Teachers & Students: Ideas for using APOD in the classroom
 
 
-*Last updated at 2024-09-08 00:41:01*
+*Last updated at 2024-09-08 04:09:17*
