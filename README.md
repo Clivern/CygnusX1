@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2409/M31_HstSubaruGendler_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2409/MarsPan_ExpressLuck_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Crab Nebula, a remnant of a supernova explosion, emits radiation across the entire electromagnetic spectrum.</p>
+    <p align="center">The Milky Way galaxy has an estimated 100 billion stars.</p>
 </p>
 <br/>
 
 Explanation
 --
-The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy. Even at some two and a half million light-years distant, this immense spiral galaxy -- spanning over 200,000 light years -- is visible, although as a faint, nebulous cloud in the constellation Andromeda. A bright yellow nucleus, dark winding dust lanes, and expansive spiral arms dotted with blue star clusters and red nebulae, are recorded in this stunning telescopic image which combines data from orbiting Hubble with ground-based images from Subaru and Mayall. In only about 5 billion years, the Andromeda galaxy may be even easier to see -- as it will likely span the entire night sky -- just before it merges with, or passes right by, our Milky Way Galaxy.   Teachers & Students: Ideas for using APOD in the classroom
+If you could fly over Mars, what might you see? The featured image shows exactly this in the form of a Mars Express vista captured over a particularly interesting region on Mars in July. The picture's most famous feature is Olympus Mons, the largest volcano in the Solar System, visible on the upper right.  Another large Martian volcano is visible on the right horizon: Pavonis Mons. Several circular impact craters can be seen on the surface of the aptly named red planet. Impressively, this image was timed to capture the dark and doomed Martian moon Phobos, visible just left of center.  The surface feature on the lower left, known as Orcus Patera, is unusual for its large size and oblong shape, and mysterious because the processes that created it still remain unknown.  ESA's robotic Mars Express spacecraft was launched in 2003 and, among many notable science discoveries, bolstered evidence that Mars was once home to large bodies of water.
 
 
-*Last updated at 2024-09-09 00:39:07*
+*Last updated at 2024-09-09 04:10:01*
