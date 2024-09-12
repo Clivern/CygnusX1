@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2409/NightTatra_Rosadzinski_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2409/NGC1333Webb1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Bullet Cluster provides evidence for dark matter's existence through gravitational lensing observations.</p>
+    <p align="center">White holes are theoretical objects, considered the opposite of black holes, where matter and light would escape but nothing could enter.</p>
 </p>
 <br/>
 
 Explanation
 --
-A natural border between Slovakia and Poland is the Tatra Mountains. A prominent destination for astrophotographers, the Tatras are the highest mountain range in the Carpathians. In the featured image taken in May, one can see the center of our Milky Way galaxy with two of its famous stellar nurseries, the Lagoon and Omega Nebula, just over the top of the Tatras. Stellar nurseries are full of ionized hydrogen, a fundamental component for the formation of Earth-abundant water. As a fundamental ingredient in all known forms of life, water is a crucial element in the Universe. Such water can be seen in the foreground in the form of the Bialka River.   Portal Universe: Random APOD Generator
+This spectacular mosaic of images from the James Webb Space Telescope peers into the heart of young star cluster NGC 1333. A mere 1,000 light-years distant toward the heroic constellation Perseus, the nearby star cluster lies at the edge of the large Perseus molecular cloud. Part of Webb's deep exploration of the region to identify low mass brown dwarf stars and free floating planets, the space telescope's combined field of view spans nearly 2 light-years across the dusty cluster's turbulent stellar nursery. In fact, NGC 1333 is known to harbor stars less than a million years old, though most are hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.
 
 
-*Last updated at 2024-09-12 00:37:43*
+*Last updated at 2024-09-12 04:10:10*
