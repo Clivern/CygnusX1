@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2410/AnnularEclipse_Trigo_1080.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2410/M106_Obaidly_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Gamma-ray bursts are the most energetic events in the universe, often associated with the death of massive stars.</p>
+    <p align="center">We see them as they were in the distant past.</p>
 </p>
 <br/>
 
 Explanation
 --
-Can you find the Sun? OK, but can you explain why there’s a big dark spot in the center? The spot is the Moon, and the impressive alignment shown, where the Moon lines up inside the Sun, is called an annular solar eclipse. Such an eclipse occurred just last week and was visible from a thin swath mostly in Earth's southern hemisphere. The featured image was captured from Patagonia, Chile. When the Moon is significantly closer to the Earth and it aligns with the Sun, a total solar eclipse is then visible from parts of the Earth. Annular eclipses are slightly more common than total eclipses, but as the Moon moves slowly away from the Earth, before a billion more years, the Moon's orbit will no longer bring it close enough for a total solar eclipse to be seen from anywhere on Earth.   Gallery: Annular Eclipse of October 2024
+What's happening at the center of spiral galaxy M106? A swirling disk of stars and gas, M106's appearance is dominated by blue spiral arms and red  dust lanes near the nucleus, as shown in the featured image taken from the Kuwaiti desert.  The core of M106 glows brightly in radio waves and X-rays where twin jets have been found running the length of the galaxy.  An unusual central glow makes M106 one of the closest examples of the Seyfert class of galaxies, where vast amounts of glowing gas are thought to be falling into a central massive black hole.  M106, also designated NGC 4258, is a relatively close 23.5 million light years away, spans 60 thousand light years across, and can be seen with a small telescope towards the constellation of the Hunting Dogs (Canes Venatici).
 
 
-*Last updated at 2024-10-09 04:01:08*
+*Last updated at 2024-10-09 08:01:10*
