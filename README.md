@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg' width='60%' />
+    <a href='https://www.youtube.com/embed/uCbpHh_rTgc?rel=0'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There are approximately 100,000,000,000,000,000,000,000 stars in the Universe.</p>
+    <p align="center">Galaxies collide and merge over billions of years.</p>
 </p>
 <br/>
 
 Explanation
 --
-A gravel country lane gently winds through this colorful rural night skyscape. Captured from Monroe County in southern West Virginia on the evening of October 10, the starry sky above is a familiar sight. Shimmering curtains of aurora borealis or northern lights definitely do not make regular appearances here, though. Surprisingly vivid auroral displays were present on that night at very low latitudes around the globe, far from their usual northern and southern high latitude realms. The extensive auroral activity was evidence of a severe geomagnetic storm triggered by the impact of a coronal mass ejection (CME), an immense magnetized cloud of energetic plasma. The CME was launched toward Earth from the active Sun following a powerful X-class solar flare.   Growing Gallery: Global aurora during October 10/11, 2024
+Did you see last night's aurora? This question was relevant around much of the world a few days ago because a powerful auroral storm became visible unusually far from the Earth's poles. The cause was a giant X-class solar flare on Tuesday that launched energetic electrons and protons into the Solar System, connecting to the Earth via our planet's magnetic field.  A red glow of these particles striking oxygen atoms high in  Earth's atmosphere pervades the frame, while vertical streaks dance. The featured video shows a one-hour timelapse as seen from Cortina d'Ampezzo over Alps Mountain peaks in northern Italy.  Stars from our Milky Way Galaxy dot the background while  streaks from airplanes and satellites punctuate the foreground. The high recent activity of our Sun is likely to continue to produce picturesque auroras over Earth during the next year or so.   Gallery: Global aurora during October 10/11, 2024
 
 
-*Last updated at 2024-10-13 04:01:20*
+*Last updated at 2024-10-13 08:01:13*
