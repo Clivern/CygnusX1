@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2410/Strega_apod_1024r.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Pulsars are rotating neutron stars that emit beams of electromagnetic radiation, resembling lighthouse beams.</p>
+    <p align="center">A light-year is the distance light travels in one year, approximately 5.88 trillion miles (9.46 trillion kilometers).</p>
 </p>
 <br/>
 
 Explanation
 --
-By starlight, this eerie visage shines in the dark with a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression that a witch has fixed her gaze on Orion's bright supergiant star Rigel. More formally known as IC 2118, the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting Rigel's starlight. The color of the Witch Head Nebula is caused not only by Rigel's intense blue light, but because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in Earth's atmosphere are molecules of nitrogen and oxygen. Rigel and this dusty cosmic crone are about 800 light-years away. You may still see a few witches in your neighborhood tonight though, so have a safe and Happy Halloween!
+Big, beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across, larger than our own Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo but appears as only a faint smudge in the eyepiece of a small telescope. We see the disk of the nearby island universe tilted towards our line of sight in this remarkably deep and detailed galaxy portrait, a telescopic image that spans an area about the angular size of a full moon. In it, the giant galaxy's elongated yellowish core is dominated by the light from old, cool stars. Beyond the core, grand spiral arms are filled with young blue star clusters and speckled with pinkish star forming regions. An extended arm sweeps past smaller satellite galaxy NGC 6744A at the upper left. NGC 6744's galactic companion is reminiscent of the Milky Way's satellite galaxy the Large Magellanic Cloud.
 
 
-*Last updated at 2024-11-01 04:01:07*
+*Last updated at 2024-11-01 08:01:16*
