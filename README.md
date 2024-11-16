@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2411/KF-ApAn48-7133-4_1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight1024c.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
     <p align="center">Saturn's moon Titan has lakes and rivers of liquid methane and ethane, creating a unique environment in our solar system.</p>
 </p>
@@ -7,7 +7,7 @@
 
 Explanation
 --
-Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph features Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landed at the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967. Visible on the horizon beyond the far crater wall, Apollo 12's Lunar Module Intrepid touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft. This stereo image was carefully created from two separate pictures (AS12-48-7133, AS12-48-7134) captured on the lunar surface. They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.
+The night side of Pluto spans this shadowy scene. In the stunning spacebased perspective the Sun is 4.9 billion kilometers (almost 4.5 light-hours) behind the dim and distant world. It was captured by far flung New Horizons in July of 2015 when the spacecraft was at a range of some 21,000 kilometers from Pluto, about 19 minutes after its closest approach. A denizen of the Kuiper Belt in dramatic silhouette, the image also reveals Pluto's tenuous, surprisingly complex layers of hazy atmosphere. Near the top of the frame the crescent twilight landscape includes southern areas of nitrogen ice plains now formally known as Sputnik Planitia and rugged mountains of water-ice in the Norgay Montes.
 
 
-*Last updated at 2024-11-16 04:01:15*
+*Last updated at 2024-11-16 08:01:18*
