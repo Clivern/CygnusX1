@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight1024c.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Great Attractor is a gravitational anomaly affecting the motion of galaxies in our local part of the universe.</p>
+    <p align="center">One day on Venus takes 243 Earth days.</p>
 </p>
 <br/>
 
 Explanation
 --
-The night side of Pluto spans this shadowy scene. In the stunning spacebased perspective the Sun is 4.9 billion kilometers (almost 4.5 light-hours) behind the dim and distant world. It was captured by far flung New Horizons in July of 2015 when the spacecraft was at a range of some 21,000 kilometers from Pluto, about 19 minutes after its closest approach. A denizen of the Kuiper Belt in dramatic silhouette, the image also reveals Pluto's tenuous, surprisingly complex layers of hazy atmosphere. Near the top of the frame the crescent twilight landscape includes southern areas of nitrogen ice plains now formally known as Sputnik Planitia and rugged mountains of water-ice in the Norgay Montes.
+What is the cause of this unusual parabolic structure?  This illuminated cavity, known as LDN 1471, was created by a newly forming star, seen as the bright source at the peak of the parabola.  This protostar is experiencing a stellar outflow which is then interacting with the surrounding material in the Perseus Molecular Cloud, causing it to brighten.  We see only one side of the cavity -- the other side is hidden by dark dust.  The parabolic shape is caused by the widening of the stellar-wind blown cavity over time. Two additional structures can also be seen either side of the protostar; these are known as Herbig-Haro objects, again caused by the interaction of the outflow with the surrounding material.  What causes the striations on the cavity walls, though, remains unknown.  The featured image was taken by NASA and ESA’s Hubble Space Telescope after an original detection by the Spitzer Space Telescope.
 
 
-*Last updated at 2024-11-17 04:01:04*
+*Last updated at 2024-11-17 08:01:07*
