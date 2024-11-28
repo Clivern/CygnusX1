@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2411/NGC206_APOD1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Gamma-ray bursts are the most energetic events in the universe, often associated with the death of massive stars.</p>
+    <p align="center">We appear to be alone</p>
 </p>
 <br/>
 
 Explanation
 --
-How different are these two streaks?  The streak on the upper right is Comet Tsuchinshan-Atlas showing an impressive dust tail. The comet is a large and dirty iceberg that entered the inner Solar System and is shedding gas and dust as it is warmed by the Sun's light. The streak on the lower left is a meteor showing an impressive evaporation trail.  The meteor is a small and cold rock that entered the Earth's atmosphere and is shedding gas and dust as it is warmed by molecular collisions.  The meteor was likely once part of a comet or asteroid -- perhaps later composing part of its tail.  The meteor was gone in a flash and was only caught by coincidence during a series of exposures documenting the comet's long tail. The featured image was captured just over a month ago from Sichuan Province in China.   Gallery: Comet Tsuchinshan-ATLAS in 2024
+The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.
 
 
-*Last updated at 2024-11-28 04:01:24*
+*Last updated at 2024-11-28 08:01:19*
