@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2412/Pleiades_Pelizzo_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">It is a vast supercluster of galaxies stretching over 10 billion light-years across.</p>
+    <p align="center">Red giants are massive stars in their final stages before becoming white dwarfs or supernovae.</p>
 </p>
 <br/>
 
 Explanation
 --
-Are Saturn's auroras like Earth's?  To help answer this question, the Hubble Space Telescope and the Cassini spacecraft monitored Saturn's North Pole simultaneously during Cassini's final orbits around the gas giant in September 2017.  During this time, Saturn's tilt caused its North Pole to be clearly visible from Earth. The featured image is a composite of ultraviolet images of auroras and optical images of Saturn's clouds and rings, all taken by Hubble.  Like on Earth, Saturn's northern auroras can make total or partial rings around the pole. Unlike on Earth, however, Saturn's auroras are frequently spirals -- and more likely to peak in brightness just before midnight and dawn.  In contrast to Jupiter's auroras, Saturn's auroras appear better related to connecting Saturn's internal magnetic field to the nearby, variable, solar wind.  Saturn's southern auroras were similarly imaged back in 2004 when the planet's South Pole was clearly visible to Earth.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as large and clear as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen with the unaided eye even from the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured 23-hour exposure, taken from Fagagna, Italy  covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six of the sister stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight.   New: Alternative multi-APOD front page
 
 
-*Last updated at 2024-12-09 04:01:14*
+*Last updated at 2024-12-09 08:01:16*
