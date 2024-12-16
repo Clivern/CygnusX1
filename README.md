@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2412/Geminids_Kurak_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2412/CometCliffs_Rosetta_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Universe has the same temperature everywhere</p>
+    <p align="center">The Milky Way galaxy has an estimated 100 billion stars</p>
 </p>
 <br/>
 
 Explanation
 --
-Meteors have been flowing out from the constellation Gemini.  This was expected, as mid-December is the time of the Geminid Meteor Shower.  Pictured here, over two dozen meteors were caught in successively added exposures taken over several hours early Saturday morning from a snowy forest in Poland. The fleeting streaks were bright enough to be seen over the din of the nearly full Moon on the upper right. These streaks can all be traced back to a point on the sky called the radiant toward the bright stars Pollux and Castor in the image center. The Geminid meteors started as sand sized bits expelled from asteroid 3200 Phaethon during its elliptical orbit through the inner Solar System.    Jigsaw Challenge: Astronomy Puzzle of the Day
+This kilometer high cliff occurs on the surface of a comet.  It was discovered on the dark nucleus of Comet Churyumov - Gerasimenko (CG) by Rosetta, a robotic spacecraft launched by ESA, which orbited the comet from 2014 to 2016.  The ragged cliff, as featured here, was imaged by Rosetta early in its mission. Although towering about one kilometer high, the low surface gravity of Comet CG would likely make a jump from the cliffs by a human survivable.  At the foot of the cliffs is relatively smooth terrain dotted with boulders as large as 20 meters across. Data from Rosetta indicates that the ice in Comet CG has a significantly different deuterium fraction -- and hence likely a different origin -- than the water in Earth's oceans.  The probe was named after the Rosetta Stone, a rock slab featuring the same text written in three different languages that helped humanity decipher ancient Egyptian writing.
 
 
-*Last updated at 2024-12-16 04:01:13*
+*Last updated at 2024-12-16 08:01:23*
