@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2412/IceHalos_Fous_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2412/Hubble_NGC5643_potw2450a1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Quasars are some of the brightest objects in the universe.</p>
+    <p align="center">Black holes are the ultimate energy factories.</p>
 </p>
 <br/>
 
 Explanation
 --
-Why is there a huge eye in the sky? Diamond dust. That is an informal term for small ice crystals that form in the air and flitter to the ground. Because these crystals are geometrically shaped, they can together reflect light from the Sun or Moon to your eyes in a systematic way, causing huge halos and unusual arcs to appear. And sometimes, together the result can seem like a giant eye looking right back at you. In the featured image taken in the Ore Mountains of the Czech Republic last week, a bright Moon rising through ice fog-filled air resulted in many of these magnificent sky illusions to be visible simultaneously.  Besides Moon dogs, tangent arcs, halos, and a paraselenic circle, light pillars above distant lights are visible on the far left, while Jupiter and Mars can be found just inside the bottom of the 22-degree halo.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+Viewed face-on, grand spiral galaxy NGC 5643 has a festive appearance in this colorful cosmic portrait. Some 55 million light-years distant, the galaxy extends for over 100,000 light-years, seen within the boundaries of the southern constellation Lupus. Its inner 40,000 light-years are shown in sharp detail in this composite of Hubble Space Telescope image data. The galaxy's magnificent spiral arms wind from a yellowish central region dominated by light from old stars, while the spiral arms themselves are traced by dust lanes, young blue stars and reddish star forming regions. The bright compact core of NGC 5643 is also known as a strong emitter of radio waves and X-rays. In fact, NGC 5643 is one of the closest examples of the Seyfert class of active galaxies, where vast amounts of dust and gas are thought to be falling into a central massive black hole.
 
 
-*Last updated at 2024-12-26 04:01:24*
+*Last updated at 2024-12-26 08:01:16*
