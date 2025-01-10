@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2501/Image171a.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2501/B209V773Tau_1024.png' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The missing baryon problem refers to the discrepancy between observed and predicted baryonic matter in the universe.</p>
+    <p align="center">The International Space Station (ISS) orbits the Earth at an average altitude of about 420 kilometers (261 miles).</p>
 </p>
 <br/>
 
 Explanation
 --
-The colorful, spiky stars are in the foreground of this image taken with a small telescope on planet Earth. They lie well within our own Milky Way Galaxy. But the two eye-catching galaxies in the frame lie far beyond the Milky Way, at a distance of over 300 million light-years. The galaxies' twisted and distorted appearance is due to mutual gravitational tides as the pair engage in close encounters. Cataloged as Arp 273 (also as UGC 1810), these galaxies do look peculiar, but interacting galaxies are now understood to be common in the universe. Closer to home, the large spiral Andromeda Galaxy is known to be some 2 million light-years away and inexorably approaching the Milky Way.  In fact the far away peculiar galaxies of Arp 273 may offer an analog of the far future encounter of Andromeda and Milky Way. Repeated galaxy encounters on a cosmic timescale ultimately result in a merger into a single galaxy of stars. From our perspective, the bright cores of the Arp 273 galaxies are separated by only a little over 100,000 light-years.
+An unassuming region in the constellation Taurus holds these dark and dusty nebulae. Scattered through the scene, stars in multiple star systems are forming within their natal Taurus molecular cloud complex some 450 light-years away. Millions of years young and still going through stellar adolescence, the stars are variable in brightness and in the late phases of their gravitational collapse. Known as T-Tauri class stars they tend to be faint and take on a yellowish hue in the image. One of the brightest T-Tauri stars in Taurus, V773 (aka HD283447) is near the center of the telescopic frame that spans over 1 degree. Toward the top is the dense, dark marking on the sky cataloged as Barnard 209.
 
 
-*Last updated at 2025-01-10 04:01:16*
+*Last updated at 2025-01-10 08:01:17*
