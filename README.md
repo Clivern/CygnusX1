@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2501/CometAtlas_Horalek_960_inset.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The sun contains over 99% of the mass in our solar system.</p>
+    <p align="center">If you fell into a stellar-size black hole, you could turn into human spaghetti</p>
 </p>
 <br/>
 
 Explanation
 --
-Comet ATLAS is really bright now, but also really close to the Sun. Outside the glow of the Sun, Comet C/2024 G3 (ATLAS) would be one of the more remarkable comet sights of recent years, reflecting about as much sunlight to Earth as Comet Tsuchinshan-ATLAS did in October, and now rivaling even planet Venus. But the giant snowball is now so close to the Sun that it can only be seen through the light of the early morning dawn or the early evening dusk. Today, Comet ATLAS is at perihelion -- its closest ever to the Sun.  Although the future brightness of comets is notoriously hard to predict, there is hope that Comet ATLAS will survive its close pass near the Sun and remain bright enough to be seen with the unaided eye over the next few days -- and possibly a good camera comet for weeks. The featured image was taken early yesterday morning near Tornaľa, Slovakia.   Tomorrow: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York
+Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the five-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame. The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Today: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York
 
 
-*Last updated at 2025-01-14 04:01:10*
+*Last updated at 2025-01-14 08:01:25*
