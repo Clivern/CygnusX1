@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2501/ngc1333_jeff_version_4_1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2501/AtlasParanal_Kurak_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Boötes Void is one of the largest known cosmic voids, nearly devoid of galaxies.</p>
+    <p align="center">Quantum superposition allows particles to exist in multiple states simultaneously.</p>
 </p>
 <br/>
 
 Explanation
 --
-Clouds of stardust drift through this deep skyscape, across the Perseus molecular cloud some 850 light-years away. Dusty nebulae reflecting light from embedded young stars stand out in the nearly 4 degree wide field of view. With a characteristic bluish color reflection nebula NGC 1333 is prominent near center. Hints of contrasting red emission from Herbig-Haro objects, the jets and shocked glowing gas emanating from recently formed stars, are scattered across the dusty expanse. While many stars are forming in the molecular cloud, most are obscured at visible wavelengths by the pervasive dust. The chaotic environment surrounding NGC 1333 may be similar to one in which our own Sun formed over 4.5 billion years ago. At the estimated distance of the Perseus molecular cloud, this cosmic scene would span about 80 light-years.   Growing Gallery: Comet ATLAS (G3)
+Why does this comet have so many tails? C/2024 G3 (ATLAS) has developed several long and intricate tails visible from Earth's southern hemisphere over the past two weeks. Many observers reported seeing the impressive comet without any optical aid above the western horizon just after sunset. At least six different tails appear in the featured image captured five days ago from the dark skies above Paranal Observatory in Chile.  One possible cause for the multiple tails is dust and gas being expelled from the comet's rotating nucleus. The outward push of the Sun's complex solar wind may also play a role. The huge iceberg-like nucleus of Comet ATLAS appears to have broken up near its closest approach to the Sun two weeks ago.  Unfortunately, Comet ATLAS and its tails are expected to fade significantly over the coming weeks.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
 
-*Last updated at 2025-01-26 04:01:15*
+*Last updated at 2025-01-26 08:01:10*
