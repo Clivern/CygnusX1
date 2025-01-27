@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2501/AtlasParanal_Kurak_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2501/HalfPleiades_Venkatraman_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Multiverse theories propose the existence of parallel universes beyond our observable one.</p>
+    <p align="center">Time travel is possible, but not the way most people would like.</p>
 </p>
 <br/>
 
 Explanation
 --
-Why does this comet have so many tails? C/2024 G3 (ATLAS) has developed several long and intricate tails visible from Earth's southern hemisphere over the past two weeks. Many observers reported seeing the impressive comet without any optical aid above the western horizon just after sunset. At least six different tails appear in the featured image captured five days ago from the dark skies above Paranal Observatory in Chile.  One possible cause for the multiple tails is dust and gas being expelled from the comet's rotating nucleus. The outward push of the Sun's complex solar wind may also play a role. The huge iceberg-like nucleus of Comet ATLAS appears to have broken up near its closest approach to the Sun two weeks ago.  Unfortunately, Comet ATLAS and its tails are expected to fade significantly over the coming weeks.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+Stars come in bunches.  The most famous bunch of stars on the sky is the Pleiades, a bright cluster that can be easily seen with the unaided eye.  The Pleiades lies only about 450 light years away, formed about 100 million years ago, and will likely last about another 250 million years. Our Sun was likely born in a star cluster, but now, being about 4.5 billion years old, its stellar birth companions have long since dispersed. The Pleiades star cluster is pictured over Half Dome, a famous rock structure in Yosemite National Park in California, USA. The featured image is a composite of 28 foreground exposures and 174 images of the stellar background, all taken from the same location and by the same camera on the same night in October 2019. After calculating the timing of a future juxtaposition of the Pleiades and Half Dome, the astrophotographer was unexpectedly rewarded by an electrical blackout, making the background sky unusually dark.    Astrophysicists: Browse 3,500+ codes in the Astrophysics Source Code Library
 
 
-*Last updated at 2025-01-27 04:01:19*
+*Last updated at 2025-01-27 08:01:14*
