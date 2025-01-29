@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2501/AtlasFields_Salazar_1080.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2501/Wr140Rings_Webb_960_2023.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Gravitational waves are ripples in spacetime caused by massive events.</p>
+    <p align="center">The Hubble Space Telescope has revolutionized our understanding of the cosmos.</p>
 </p>
 <br/>
 
 Explanation
 --
-Comets can be huge. When far from the Sun, a comet's size usually refers to its hard nucleus of ice and rock, which typically spans a few kilometers -- smaller than even a small moon. When nearing the Sun, however, this nucleus can eject dust and gas and leave a thin tail that can spread to an enormous length -- even greater than the distance between the Earth and the Sun. Pictured, C/2024 G3 (ATLAS) sports a tail of sunlight-reflecting dust and glowing gas that spans several times the apparent size of a full moon, appearing even larger on long duration camera images than to the unaided eye. The featured image shows impressive Comet ATLAS over trees and a grass field in Sierras de Mahoma, San Jose, Uruguay about a week ago.  After being prominent in the sunset skies of Earth's southern hemisphere, Comet G3 ATLAS is now fading as it moves away from the Sun, making its impressive tails increasingly hard to see.    Gallery: Comet ATLAS (G3)
+What are those strange rings? Rich in dust, the rings are likely 3D shells -- but how they were created remains a topic of research.  Where they were created is well known: in a binary star system that lies about 6,000 light years away toward the constellation of the Swan (Cygnus) -- a system dominated by the Wolf-Rayet star WR 140.  Wolf-Rayet stars are massive, bright, and known for their tumultuous winds. They are also known for creating and dispersing heavy elements such as carbon, which is a building block of interstellar dust. The other star in the binary is also bright and massive -- but not as active.  The two great stars joust in an oblong orbit as they approach each other about every eight years. When at closest approach, the X-ray emission from the system increases, as, apparently, does the dust expelled into space -- creating another shell.  The featured infrared image by the Webb Space Telescope resolves greater details and more dust shells than ever before. Images taken over consecutive years show the shells moving outward.
 
 
-*Last updated at 2025-01-29 04:01:12*
+*Last updated at 2025-01-29 08:01:21*
