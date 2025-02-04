@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2502/wr124_hubbleschmidt_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2502/RainbowFan_Eiguren_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Andromeda Galaxy is on a collision course with our Milky Way galaxy in about 4 billion years.</p>
+    <p align="center">The Sun is classified as a G-type main-sequence star, or G dwarf star.</p>
 </p>
 <br/>
 
 Explanation
 --
-Some stars explode in slow motion.  Rare, massive Wolf-Rayet stars are so tumultuous and hot that they are slowly disintegrating right before our telescopes.  Glowing gas globs each typically over 30 times more massive than the Earth are being expelled by violent stellar winds.  Wolf-Rayet star WR 124, visible near the featured image center, is thus creating the surrounding nebula known as M1-67, which spans six light years across. Details of why this star has been slowly blowing itself apart over the past 20,000 years remains a topic of research.  WR 124 lies 15,000 light-years away towards the constellation of the Arrow (Sagitta).  The fate of any given Wolf-Rayet star likely depends on how massive it is, but many are thought to end their lives with spectacular explosions such as supernovas or gamma-ray bursts.
+Yes, but can your rainbow do this? Late in the day, the Sun set as usual toward the west. However, on this day, the more interesting display was 180 degrees around -- toward the east. There, not only was a rainbow visible, but an impressive display of anticrepuscular rays from the rainbow's center. In the featured image from Lekeitio in northern Spain, the Sun is behind the camera. The rainbow resulted from sunlight reflecting back from falling rain. Anticrepuscular rays result from sunlight, blocked by some clouds, going all the way around the sky, overhead, and appearing to converge on the opposite horizon -- an optical illusion.  Rainbows by themselves can be exciting to see, and anticrepuscular rays a rare treat, but capturing them both together is even more unusual -- and can look both serene and surreal.   Jigsaw Challenge: Astronomy Puzzle of the Day
 
 
-*Last updated at 2025-02-04 04:01:06*
+*Last updated at 2025-02-04 08:01:12*
