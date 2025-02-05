@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2502/RainbowFan_Eiguren_1080.jpg' width='60%' />
+    <a href='https://www.youtube.com/embed/nt5j0NiVesQ'><img src='https://images.unsplash.com/photo-1610296669228-602fa827fc1f' width='60%' /></a>
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Our galaxy probably contains 100 to 400 billion stars and is about 100,000 light-years across</p>
+    <p align="center">Mars has extreme temperatures.</p>
 </p>
 <br/>
 
 Explanation
 --
-Yes, but can your rainbow do this? Late in the day, the Sun set as usual toward the west. However, on this day, the more interesting display was 180 degrees around -- toward the east. There, not only was a rainbow visible, but an impressive display of anticrepuscular rays from the rainbow's center. In the featured image from Lekeitio in northern Spain, the Sun is behind the camera. The rainbow resulted from sunlight reflecting back from falling rain. Anticrepuscular rays result from sunlight, blocked by some clouds, going all the way around the sky, overhead, and appearing to converge on the opposite horizon -- an optical illusion.  Rainbows by themselves can be exciting to see, and anticrepuscular rays a rare treat, but capturing them both together is even more unusual -- and can look both serene and surreal.   Jigsaw Challenge: Astronomy Puzzle of the Day
+Where is Comet ATLAS going? In the featured time-lapse video, the comet is not itself moving very much, but the Earth's rotation makes it appear to be setting over a hill. The Comet C/2024 G3 (ATLAS) sequence was captured with an ordinary camera on January 22 from the Araucanía Region in central Chile. Comet ATLAS has been an impressive site in the evening skies of Earth's Southern Hemisphere over the past few weeks, so bright and awe-inspiring that it may eventually become known as the Great Comet of 2025. Unfortunately, Comet G3 ATLAS is not going anywhere anymore because its central nucleus broke up during its close pass to the Sun last month. Some of the comet's scattered remains of rocks and ice will continue to orbit the Sun, some in nearly the same outward section of the orbit that the comet's nucleus would have taken.
 
 
-*Last updated at 2025-02-05 04:01:10*
+*Last updated at 2025-02-05 08:01:11*
