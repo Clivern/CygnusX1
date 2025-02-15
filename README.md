@@ -10,4 +10,4 @@ Explanation
 The Rosette Nebula, NGC 2237, is not the only cosmic cloud of gas and dust to evoke the imagery of flowers, but it is probably the most famous.  At the edge of a large molecular cloud in Monoceros some 5,000 light years away, the petals of this cosmic rose are actually a stellar nursery. The lovely, symmetric shape is sculpted by the winds and radiation from its central cluster of hot young, O-type stars. Stars in the energetic cluster, cataloged as NGC 2244, are only a few million years young, while the central cavity in the Rosette Nebula, is about 50 light-years in diameter. The nebula can be seen with a small telescope toward the constellation of Monoceros, the Unicorn. This natural appearing telescopic portrait of the Rosette Nebula was made using broadband color filters, but sometimes roses aren't red.
 
 
-*Last updated at 2025-02-14 20:01:01*
+*Last updated at 2025-02-15 00:03:16*
