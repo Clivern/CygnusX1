@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2502/SaturnIR_CassiniKakitsev_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2502/LightPillarVolcano_Calio_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The sun contains over 99% of the mass in our solar system.</p>
+    <p align="center">The Sun is really, really tiny.</p>
 </p>
 <br/>
 
 Explanation
 --
-Saturn looks slightly different in infrared light. Bands of clouds show great structure, including long stretching storms.  Also quite striking in infrared is the unusual hexagonal cloud pattern surrounding Saturn's North Pole.  Each side of the dark hexagon spans roughly the width of our Earth. The hexagon's existence was not predicted, and its origin and likely stability remain a topics of research.  Saturn's famous rings circle the planet and cast shadows below the equator. The featured image was taken by the robotic Cassini spacecraft in 2014 in several infrared colors.  In 2017 September, the Cassini mission was brought to a dramatic conclusion when the spacecraft was  directed to dive into the ringed giant.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+Can a lava flow extend into the sky? No, but light from the lava flow can. One effect is something quite unusual -- a volcanic light pillar. More typically, light pillars are caused by sunlight and so appear as a bright column that extends upward above a rising or setting Sun. Alternatively, other light pillars -- some quite colorful -- have been recorded above street and house lights. This light pillar, though, was illuminated by the red light emitted by the glowing magma of an erupting volcano. The volcano is Italy's Mount Etna, and the featured image was captured with a single shot during an early morning in mid-February. Freezing temperatures above the volcano's lava flow created ice-crystals either in the air above the volcano or in condensed water vapor expelled by Mount Etna. These ice crystals -- mostly flat toward the ground but fluttering -- then reflected away light from the volcano's caldera.
 
 
-*Last updated at 2025-02-24 04:01:09*
+*Last updated at 2025-02-24 08:01:26*
