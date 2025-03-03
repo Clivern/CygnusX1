@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/1803/AstroSoM/hudf.html' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The closest galaxy to the Milky Way is the Andromeda Galaxy, and it's on a collision course with our galaxy in about 4 billion years.</p>
+    <p align="center">Neutrinos are nearly massless particles that rarely interact with matter.</p>
 </p>
 <br/>
 
 Explanation
 --
-Have you heard about the Hubble Ultra-Deep Field?  Either way, you've likely not heard about it like this -- please run your cursor over the featured image and listen!  The Hubble Ultra-Deep Field (HUDF) was created in 2003-2004 with the Hubble Space Telescope staring for a long time toward near-empty space so that distant, faint galaxies would become visible.  One of the most famous images in astronomy, the HUDF is featured here in a vibrant way -- with sonified distances. Pointing to a galaxy will play a note that indicates its approximate redshift. Because redshifts shift light toward the red end of the spectrum of light, they are depicted here by a shift of tone toward the low end of the spectrum of sound.  The further the galaxy, the greater its cosmological redshift (even if it appears blue), and the lower the tone that will be played. The average galaxy in the HUDF is about 10.6 billion light years away and sounds like an F#. What's the most distant galaxy you can find?
+There's a new lander on the Moon. Yesterday Firefly Aerospace's Blue Ghost executed the first-ever successful commercial lunar landing. During its planned 60-day mission, Blue Ghost will deploy several NASA-commissioned scientific instruments, including PlanetVac which captures lunar dust after creating a small whirlwind of gas. Blue Ghost will also host the telescope LEXI that captures X-ray images of the Earth's magnetosphere. LEXI data should enable a better understanding of how Earth's magnetic field protects the Earth from the Sun's wind and flares.  Pictured, the shadow of the Blue Ghost lander is visible on the cratered lunar surface, while the glowing orb of the planet Earth hovers just over the horizon. Goals for future robotic Blue Ghost landers include supporting lunar astronauts in NASA's Artemis program, with Artemis III currently scheduled to land humans back on the Moon in 2027.
 
 
-*Last updated at 2025-03-03 04:01:16*
+*Last updated at 2025-03-03 08:01:19*
