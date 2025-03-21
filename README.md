@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio1024.JPG' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Dark matter makes up about 27% of the universe, and dark energy constitutes approximately 68%.</p>
+    <p align="center">Stars are formed from clouds of gas and dust in space, primarily hydrogen and helium.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 This popular group leaps into the early evening sky around the March equinox and the northern hemisphere spring.  Famous as the Leo Triplet, the three magnificent galaxies found in the prominent constellation Leo gather here in one astronomical field of view. Crowd pleasers when imaged with even modest telescopes, they can be introduced individually as NGC 3628 (bottom left), M66 (middle right), and M65 (top center). All three are large spiral galaxies but tend to look dissimilar, because their galactic disks are tilted at different angles to our line of sight. NGC 3628, also known as the Hamburger Galaxy, is temptingly seen edge-on, with obscuring dust lanes cutting across its puffy galactic plane. The disks of M66 and M65 are both inclined enough to show off their spiral structure.  Gravitational interactions between galaxies in the group have left telltale signs, including the tidal tails and warped, inflated disk of NGC 3628 and the drawn out spiral arms of M66. This gorgeous view of the region spans over 1 degree (two full moons) on the sky. Captured with a telescope from Sawda Natheel, Qatar, planet Earth, the frame covers over half a million light-years at the Leo Trio's estimated 30 million light-year distance.
 
 
-*Last updated at 2025-03-21 12:01:29*
+*Last updated at 2025-03-21 16:01:18*
