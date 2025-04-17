@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Milky Way galaxy has an estimated 100 billion stars</p>
+    <p align="center">Gamma-ray bursts are some of the most energetic events in the universe.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Galaxies of the Virgo Cluster are scattered across this nearly 4 degree wide telescopic field of view. About 50 million light-years distant, the Virgo Cluster is the closest large galaxy cluster to our own local galaxy group. Prominent here are Virgo's bright elliptical galaxies from the Messier catalog, M87 at bottom left, and M86 and M84 near center right. M86 and M84 are recognized as part of Markarian's Chain, the visually striking line-up of galaxies on the that runs through the upper portion of this frame. Near the middle of the chain lies an intriguing interacting pair of galaxies, NGC 4438 and NGC 4435, known to some as Markarian's Eyes. Still, giant elliptical galaxy M87 dominates the Virgo cluster. It's the home of a super massive black hole, the first black hole ever imaged by planet Earth's Event Horizon Telescope.
 
 
-*Last updated at 2025-04-17 16:01:08*
+*Last updated at 2025-04-17 20:01:03*
