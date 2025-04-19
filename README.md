@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">A day on Venus is longer than a year on Venus because it takes the planet about 243 Earth days to complete one rotation.</p>
+    <p align="center">Our galaxy probably contains 100 to 400 billion stars and is about 100,000 light-years across</p>
 </p>
 <br/>
 
 Explanation
 --
-In late March, the comet now designated C/2025 F2 SWAN was found independently by citizen scientists Vladimir Bezugly, Michael Mattiazzo, and Rob Matson while examining publicly available image data from the Solar Wind ANisotropies (SWAN) camera on the sun-staring SOHO spacecraft. Comet SWAN's coma, its greenish color a signature of diatomic carbon molecules fluorescing in sunlight, is at lower left in this telescopic image. SWAN's faint ion tail extends nearly two degrees toward the upper right across the field of view. The interplanetary scene was captured in clear but moonlit skies from June Lake, California on April 14. Seen against background of stars toward the constellation Andromeda, the comet was then some 10 light-minutes from our fair planet. Now a target for binoculars and small telescopes in northern hemisphere morning skies this comet SWAN is headed for a perihelion, its closest approach to the Sun, on May 1. That will bring this visitor from the distant Oort cloud almost as close to the Sun as the orbit of inner planet Mercury.
+In digital brush strokes, Jupiter's signature atmospheric bands and vortices were used to form this interplanetary post-impressionist work of art. The creative image from citizen scientist Rick Lundh uses data from the Juno spacecraft's JunoCam. To paint on the digital canvas, a JunoCam image with contrasting light and dark tones was chosen for processing and an oil-painting software filter applied. The image data was captured during perijove 10. That was Juno's December 16, 2017 close encounter with the solar system's ruling gas giant. At the time the spacecraft was cruising about 13,000 kilometers above northern Jovian cloud tops. Now in an extended mission, Juno has explored Jupiter and its moons since entering orbit around Jupiter in July of 2016.
 
 
-*Last updated at 2025-04-19 04:01:05*
+*Last updated at 2025-04-19 08:01:07*
