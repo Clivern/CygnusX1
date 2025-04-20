@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The majority of the universe is composed of hydrogen (75%) and helium (25%).</p>
+    <p align="center">The moon was once part of the earth.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 The Great Nebula in Orion is a colorful place.  Visible to the unaided eye, it appears as a small fuzzy patch in the constellation of Orion.  Long exposure, multi-wavelength images like this, however, show the Orion Nebula to be a busy neighborhood of young stars, hot gas, and dark dust.  This digital composite features not only three colors of visible light but four colors of infrared light taken by NASA's orbiting Spitzer Space Telescope as well.  The power behind much of the Orion Nebula (M42) is the Trapezium - four of the brightest stars in the nebula.  Many of the filamentary structures visible are actually shock waves - fronts where fast moving material encounters slow moving gas.  The Orion Nebula spans about 40 light years and is located about 1500 light years away in the same spiral arm of our Galaxy as the Sun.
 
 
-*Last updated at 2025-04-20 08:01:13*
+*Last updated at 2025-04-20 12:01:14*
