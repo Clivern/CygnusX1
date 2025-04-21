@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_1080.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Neutrinos are nearly massless particles that rarely interact with matter.</p>
+    <p align="center">The Hubble Space Telescope has provided breathtaking images and crucial data, contributing significantly to our understanding of the cosmos.</p>
 </p>
 <br/>
 
 Explanation
 --
-The Great Nebula in Orion is a colorful place.  Visible to the unaided eye, it appears as a small fuzzy patch in the constellation of Orion.  Long exposure, multi-wavelength images like this, however, show the Orion Nebula to be a busy neighborhood of young stars, hot gas, and dark dust.  This digital composite features not only three colors of visible light but four colors of infrared light taken by NASA's orbiting Spitzer Space Telescope as well.  The power behind much of the Orion Nebula (M42) is the Trapezium - four of the brightest stars in the nebula.  Many of the filamentary structures visible are actually shock waves - fronts where fast moving material encounters slow moving gas.  The Orion Nebula spans about 40 light years and is located about 1500 light years away in the same spiral arm of our Galaxy as the Sun.
+Is this one galaxy or two? Although it looks like one, the answer is two. One path to this happening is when a small galaxy collides with a larger galaxy and ends up in the center. But in the featured image, something more rare is going on. Here, the central light-colored elliptical galaxy is much closer than the blue and red-colored spiral galaxy that surrounds it. This can happen when near and far galaxies are exactly aligned, causing the gravity of the near galaxy to pull the light from the far galaxy around it in an effect called gravitational lensing. The featured galaxy double was taken by the Webb Space Telescope and shows a complete Einstein ring, with great detail visible for both galaxies.  Galaxy lenses like this can reveal new information about the mass distribution of the foreground lens and the light distribution of the background source.
 
 
-*Last updated at 2025-04-21 04:01:29*
+*Last updated at 2025-04-21 08:01:23*
