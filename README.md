@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Sun is really, really tiny.</p>
+    <p align="center">The universe is thought to be around 13.7 billion years old.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Beautiful emission nebula NGC 6164 was created by a rare, hot, luminous O-type star, some 40 times as massive as the Sun. Seen at the center of the cosmic cloud, the star is a mere 3 to 4 million years old. In another three to four million years the massive star will end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry. That makes it similar in appearance to more common and familiar planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in this deep image of the region. Expanding into the surrounding interstellar medium, the material in the halo is likely from an earlier active phase of the O star. This gorgeous telescopic view is a composite of extensive narrow-band image data, highlighting glowing atomic hydrogen gas in red and oxygen in greenish hues, with broad-band data for the surrounding starfield. Also known as the Dragon's Egg nebula, NGC 6164 is 4,200 light-years away in the right-angled southern constellation of Norma.
 
 
-*Last updated at 2025-04-24 12:01:31*
+*Last updated at 2025-04-24 16:01:27*
