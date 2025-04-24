@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2504/EverythingSky_Koen_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">It contains an estimated 2 trillion galaxies.</p>
+    <p align="center">Every galaxy has a supermassive black hole at its center</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 This surprising sky has almost everything.  First, slanting down from the upper left and far in the distance is the central band of our Milky Way Galaxy.  More modestly, slanting down from the upper right and high in Earth's atmosphere is a bright meteor. The dim band of light across the central diagonal is zodiacal light: sunlight reflected from dust in the inner Solar System. The green glow on the far right is aurora high in Earth's atmosphere.  The bright zigzagging bright line near the bottom is just a light that was held by the scene-planning astrophotographer. This "almost everything" sky was captured over rocks on Castle Hill, New Zealand late last month.  The featured finished frame is a combination of 10 exposures all taken with the same camera and from the same location.  But what about the astrophotographer himself?  He's pictured too -- can you find him?   Jigsaw Fun: Astronomy Puzzle of the Day
 
 
-*Last updated at 2025-04-23 20:01:02*
+*Last updated at 2025-04-24 00:03:16*
