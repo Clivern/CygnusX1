@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Supernovae are explosions that can outshine entire galaxies for a brief period.</p>
+    <p align="center">Stars are formed from clouds of gas and dust in space, primarily hydrogen and helium.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Where are Saturn's ears? Galileo is credited, in 1610, as the first person to see Saturn's rings. Testing out Lipperhey's recently co-invented telescope, Galileo did not know what they were and so called them "ears".  The mystery deepened in 1612, when Saturn's ears mysteriously disappeared. Today we know exactly what happened: from the perspective of the Earth, Saturn's rings had become too thin to see.  The same drama plays out every 15 years because Saturn, like Earth, undergoes tilt-driven seasons. This means that as Saturn goes around the Sun, its equator and rings can tilt noticeably toward the Sun and inner Solar System, making them easily visible, but from other orbital locations will appear almost not at all.  The featured picture from Brasilia, Brazil shows a modern version of this sequence: the top ring-dominated image was taken in 2020, while the bottom ring-obscure image taken earlier in 2025.   Make Saturn's Rings Musical: Play them like a harp!
 
 
-*Last updated at 2025-04-29 12:01:40*
+*Last updated at 2025-04-29 16:01:06*
