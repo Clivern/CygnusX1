@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2505/PIA19642Titan1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2505/blackholedisk_cfa_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Each galaxy can have billions of stars.</p>
+    <p align="center">The cosmic microwave background radiation is the afterglow of the Big Bang, still observable today.</p>
 </p>
 <br/>
 
 Explanation
 --
-Like Earth's moon, Saturn's largest moon Titan is locked in synchronous rotation with its planet. This mosaic of images recorded by the Cassini spacecraft in May of 2012 shows its anti-Saturn side, the side always facing away from the ringed gas giant. The only moon in the solar system with a dense atmosphere, Titan is the only solar system world besides Earth known to have standing bodies of liquid on its surface and an earthlike cycle of liquid rain and evaporation. Its high altitude layer of atmospheric haze is evident in the Cassini view of the 5,000 kilometer diameter moon over Saturn's rings and cloud tops. Near center is the dark dune-filled region known as Shangri-La. The Cassini-delivered Huygens probe rests below and left of center, after the most distant landing for a spacecraft from Earth.
+How fast can a black hole spin?  If any object made of regular matter spins too fast -- it breaks apart. But a black hole might not be able to break apart -- and its maximum spin rate is really unknown. Theorists usually model rapidly rotating black holes with the Kerr solution to Einstein's General Theory of Relativity, which predicts several amazing and unusual things.  Perhaps its most easily testable prediction, though, is that matter entering a maximally rotating black hole should be last seen orbiting at near the speed of light, as seen from far away. This prediction was tested by NASA's NuSTAR and ESA's XMM satellites by observing the supermassive black hole at the center of spiral galaxy NGC 1365. The near light-speed limit was confirmed by measuring the heating and spectral line broadening of nuclear emissions at the inner edge of the surrounding accretion disk. Pictured here is an artist's illustration depicting an accretion disk of normal matter swirling around a black hole, with a jet emanating from the top. Since matter randomly falling into the black hole should not spin up a black hole this much, the NuSTAR and XMM measurements also validate the existence of the  surrounding accretion disk.   Hole New Worlds: It's Black Hole Week at NASA!
 
 
-*Last updated at 2025-05-04 04:02:51*
+*Last updated at 2025-05-04 08:01:11*
