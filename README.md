@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Stars are formed from clouds of gas and dust in space, primarily hydrogen and helium.</p>
+    <p align="center">One moon orbits Neptune backwards.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 In the upper left corner, surrounded by blue arms and dotted with red nebulas, is spiral galaxy M81.  In the lower right corner, marked by a light central line and surrounded by red glowing gas, is irregular galaxy M82.  This stunning vista shows these two mammoth galaxies locked in gravitational combat, as they have been for the past billion years.   The gravity from each galaxy dramatically affects the other during each hundred-million-year pass.  Last go-round, M82's gravity likely raised density waves rippling around M81, resulting in the richness of M81's spiral arms.  But M81 left M82 with violent star forming regions and colliding gas clouds so energetic the galaxy glows in X-rays.  This big battle is seen from Earth through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy. In a few billion years, only one galaxy will remain.
 
 
-*Last updated at 2025-05-07 20:01:17*
+*Last updated at 2025-05-08 00:03:25*
