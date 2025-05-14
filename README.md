@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">It rains diamonds on Jupiter and Saturn.</p>
+    <p align="center">The largest known star is called UY Scuti.</p>
 </p>
 <br/>
 
 Explanation
 --
-What does our Milky Way Galaxy look like from the top? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has distinct spiral arms.  Our Sun and most of the bright stars we see at night are in just one arm: Orion. Gaia data bolsters previous indications that our Milky Way has more than two spiral arms. Our Galaxy's center sports a prominent bar.  The colors of our Galaxy's thin disk derive mostly from dark dust, bright blue stars, and red emission nebula. Although data analysis is ongoing, Gaia was deactivated in March after a successful mission.   Jigsaw Challenge: Astronomy Puzzle of the Day
+This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation of the Furnace (Fornax). Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning, though. Instead, it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The blue-green hue inside of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
 
 
-*Last updated at 2025-05-14 04:01:54*
+*Last updated at 2025-05-14 08:01:15*
