@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2505/Pluto-Mountains-Plains9-17-15_1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Milky Way galaxy has an estimated 100 billion stars</p>
+    <p align="center">The universe is expanding, increasing by 0.007% in one million years.</p>
 </p>
 <br/>
 
 Explanation
 --
-This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation of the Furnace (Fornax). Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning, though. Instead, it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The blue-green hue inside of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
+This shadowy landscape of majestic mountains and icy plains stretches toward the horizon on a small, distant world. It was captured from a range of about 18,000 kilometers when New Horizons looked back toward Pluto, 15 minutes after the spacecraft's closest approach on July 14, 2015. The dramatic, low-angle, near-twilight scene follows rugged mountains formally known as Norgay Montes from foreground left, and Hillary Montes along the horizon, giving way to smooth Sputnik Planum at right. Layers of Pluto's tenuous atmosphere are also revealed in the backlit view. With a strangely familiar appearance, the frigid terrain likely includes ices of nitrogen and carbon monoxide with water-ice mountains rising up to 3,500 meters (11,000 feet). That's comparable in height to the majestic mountains of planet Earth. The Plutonian landscape is 380 kilometers (230 miles) across.
 
 
-*Last updated at 2025-05-15 04:01:32*
+*Last updated at 2025-05-15 08:01:25*
