@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2505/M101_hst1280.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Some voids are hundreds of millions of light-years wide.</p>
+    <p align="center">Wormholes are hypothetical tunnels in spacetime that could create shortcuts for long journeys across the universe.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Big, beautiful spiral galaxy M101 is one of the last entries in Charles Messier's famous catalog, but definitely not one of the least. About 170,000 light-years across, this galaxy is enormous, almost twice the size of our own Milky Way. M101 was also one of the original spiral nebulae observed by Lord Rosse's large 19th century telescope, the Leviathan of Parsontown. Assembled from 51 exposures recorded by the Hubble Space Telescope in the 20th and 21st centuries, with additional data from ground based telescopes, this mosaic spans about 40,000 light-years across the central region of M101 in one of the highest definition spiral galaxy portraits ever released from Hubble. The sharp image shows stunning features of the galaxy's face-on disk of stars and dust along with background galaxies, some visible right through M101 itself. Also known as the Pinwheel Galaxy, M101 lies within the boundaries of the northern constellation Ursa Major, about 25 million light-years away.
 
 
-*Last updated at 2025-05-17 00:03:30*
+*Last updated at 2025-05-17 04:01:17*
