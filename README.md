@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2505/PIA19363_1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">White dwarfs are remnants of low to medium mass stars like our sun.</p>
+    <p align="center">We always see the same side of the moon.</p>
 </p>
 <br/>
 
 Explanation
 --
-This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the sci-fi novel, "The Martian," by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site, corresponding to the coordinates of this cropped HiRISE frame. For scale, Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site.
+Have you ever seen the band of our Milky Way Galaxy?  In a clear sky from a dark location at the right time, a faint band of light becomes visible across the sky.  Soon after your eyes become dark adapted, you might spot the band for the first time.  It may then become obvious.  Then spectacular.  One reason for your growing astonishment might be the realization that this fuzzy swath, the Milky Way, contains billions of stars.  Visible in the featured image, high above in the night sky, the band of the Milky Way Galaxy arcs.  Also visible are the colorful clouds of Rho Ophiuchi on the right, and the red and circular Zeta Ophiuchi nebula near the top center. Taken in late February from Maunakea, Hawaii, USA, the foreground telescope is the University of Hawaii's 2.2-Meter Telescope. Fortunately, you don’t need to be near the top of a Hawaiian volcano to see the Milky Way.    Put it All Together: Astronomy Puzzle of the Day
 
 
-*Last updated at 2025-05-18 04:04:31*
+*Last updated at 2025-05-20 08:01:28*
