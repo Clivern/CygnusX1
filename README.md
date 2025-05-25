@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2505/PIA26556_1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2505/BeneathJupiter_Juno_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Quantum mechanics governs the behavior of particles on small scales.</p>
+    <p align="center">The event horizon is the boundary around a black hole beyond which nothing can return.</p>
 </p>
 <br/>
 
 Explanation
 --
-Deimos takes 30 hours and 18 minutes to complete one orbit around the Red Planet. That's a little more than one Martian day or sol which is about 24 hours and 40 minutes long, so Deimos drifts westward across the Martian sky. About 15 kilometers across at its widest, the smallest of Mars' two moons is bright though. In fact Deimos is the brightest celestial object in this Martian skyscape captured before sunrise by Perseverance on March 1, the 1,433rd sol of the Mars rover's mission. The image is a composed of 16 exposures recorded by one of the rover's navigation cameras. The individual exposures were combined into a single image for an enhanced low light view. Regulus and Algeiba, bright stars in the constellation Leo, are also visible in the dark Martian predawn sky.
+Jupiter is stranger than we knew. NASA's Juno spacecraft has now completed over 70 swoops past Jupiter as it moves around its highly elliptical orbit. Pictured from 2017, Jupiter is seen from below where, surprisingly, the horizontal bands that cover most of the planet disappear into swirls and complex patterns.  A line of white oval clouds is visible nearer to the equator.  Impressive results from Juno show that Jupiter's weather phenomena can extend deep below its cloud tops, that Jupiter's center has a core that is unexpectedly large and soft, and that Jupiter's magnetic field varies greatly with location.  Although Juno is scheduled to keep orbiting Jupiter further into 2025, at some time the robotic spacecraft will be maneuvered to plunge into the giant planet.    Jigsaw Jumble: Astronomy Puzzle of the Day
 
 
-*Last updated at 2025-05-25 04:04:58*
+*Last updated at 2025-05-25 08:01:19*
