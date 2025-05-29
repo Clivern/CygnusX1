@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">It snows metal and rains acid on Venus.</p>
+    <p align="center">Gamma-ray bursts are some of the most energetic events in the universe.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Grand spiral galaxies often seem to get all the attention, flaunting young, bright, blue star clusters and pinkish star forming regions along graceful, symmetric spiral arms. But small galaxies form stars too, like irregular dwarf galaxy Sextans A. Its young star clusters and star forming regions are gathered into a gumdrop-shaped region a mere 5,000 light-years across. Seen toward the navigational constellation Sextans, the small galaxy lies some 4.5 million light-years distant. That puts it near the outskirts of the local group of galaxies, that includes the large, massive spirals Andromeda and our own Milky Way. Brighter Milky Way foreground stars appear spiky and yellowish in this colorful telescopic view of Sextans A.
 
 
-*Last updated at 2025-05-29 08:01:22*
+*Last updated at 2025-05-29 12:01:32*
