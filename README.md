@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Radio astronomy allows astronomers to study celestial objects using radio waves, revealing insights not observable with visible light telescopes.</p>
+    <p align="center">String theory is a theoretical framework that posits that the fundamental building blocks of the universe are not particles but tiny, vibrating strings.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 This might look like a double-bladed lightsaber, but these two cosmic jets actually beam outward from a newborn star in a galaxy near you. Constructed from Hubble Space Telescope image data, the stunning scene spans about half a light-year across Herbig-Haro 24 (HH 24), some 1,300 light-years or 400 parsecs away in the stellar nurseries of the Orion B molecular cloud complex. Hidden from direct view, HH 24's central protostar is surrounded by cold dust and gas flattened into a rotating accretion disk. As material from the disk falls toward the young stellar object, it heats up. Opposing jets are blasted out along the system's rotation axis. Cutting through the region's interstellar matter, the narrow, energetic jets produce a series of glowing shock fronts along their path.
 
 
-*Last updated at 2025-05-29 00:03:31*
+*Last updated at 2025-05-29 04:03:29*
