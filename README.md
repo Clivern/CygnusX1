@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2506/GravityWaves_Claro_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Mars has extreme temperatures.</p>
+    <p align="center">Gamma-ray bursts are some of the most energetic events in the universe.</p>
 </p>
 <br/>
 
 Explanation
 --
-Why would the sky glow like a giant repeating rainbow?  Airglow.  Now, air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth's atmosphere. These gravity waves are oscillations in air analogous to those created when a rock is thrown in calm water.  The long-duration exposure nearly along the vertical walls of airglow likely made the undulating structure particularly visible.  OK, but where do the colors originate?  The deep red glow likely originates from OH molecules about 87 kilometers high, excited by ultraviolet light from the Sun. The orange and green airglow is likely caused by sodium and oxygen atoms slightly higher up.  The featured image was captured during a climb up Mount Pico in the Azores of Portugal.  Ground lights originate from the island of Faial in the Atlantic Ocean.  A spectacular sky is visible through this banded airglow, with the central band of our Milky Way Galaxy running up the image center, and M31, the Andromeda Galaxy, visible near the top left.   APOD Turns 30!: Free Public Lecture in Anchorage on June 11
+Is the sky the same every night? No -- the night sky changes every night in many ways. To better explore how the night sky changes, the USA's NSF and DOE commissioned the Vera C. Rubin Observatory in Cerro Pachón, Chile. In final testing before routine operations, Rubin will begin to explore these nightly changes -- slight differences that can tell us much about our amazing universe and its surprising zoo of objects. With a mirror over 8 meters across, Rubin will continually reimage the entire visible sky every few nights to discover new supernovas, potentially dangerous asteroids, faint comets, and variable stars -- as well as mapping out the visible universe's large-scale structure.  Pictured, the distant central band of our Milky Way Galaxy appears to flow out from the newly operational observatory. Taken last month, the featured picture is a composite of 21 images across the night sky, capturing airglow on the horizon and the Small Magellanic Cloud galaxy on the lower left.    APOD Turns 30!: Free Public Lecture in Anchorage on June 11
 
 
-*Last updated at 2025-06-04 04:05:02*
+*Last updated at 2025-06-04 08:01:19*
