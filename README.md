@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Voyager 1 spacecraft, launched in 1977, is the farthest human-made object from Earth.</p>
+    <p align="center">Cosmic inflation theory suggests that the universe underwent rapid expansion shortly after the Big Bang.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Savudrija lighthouse shines along the coast near the northern end of the Istrian peninsula in this well-composed night skyscape. A navigational aid for sailors on the Adriatic Sea, the historic lighthouse was constructed in the early 19th century. But an even older aid to navigation shines in the sky above, Polaris, alpha star of the constellation Ursa Minor and also known as the North Star. In this scene Polaris forms the shortest bright arc near the North Celestial Pole, the extension of Earth's axis of rotation into space. Of course, the North Celestial Pole lies exactly at the center of all the concentric startrails. The composite image is a digital stack of 400 exposures, each 30 seconds long, taken with camera and tripod fixed to a rotating planet.
 
 
-*Last updated at 2025-06-05 12:01:32*
+*Last updated at 2025-06-05 16:01:10*
