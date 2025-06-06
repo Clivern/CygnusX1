@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII_1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Only 5% of the universe is visible from Earth</p>
+    <p align="center">It contains an estimated 2 trillion galaxies.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 The bright clusters and nebulae of planet Earth's night sky are often given the names of flowers or insects, and its whopping 3 light-year wingspan, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the central star of the planetary nebula is transforming into a white dwarf star, becoming exceptionally hot, and shining brightly in ultraviolet light. The central star is hidden from direct view by a torus of dust, but its energetic ultraviolet light ionizes atoms in the nebula. In this sharp, telescopic view composed with narrowband image data, the ionized hydrogen and doubly ionized oxygen atoms are shown in their characteristic red and blue-green hues to reveal a stunning complex of knots and filaments within the nebula's wing-like bipolar outflows. NGC 6302 lies about 4,000 light-years away in the arachnologically correct constellation of the Scorpion (Scorpius).
 
 
-*Last updated at 2025-06-06 12:01:34*
+*Last updated at 2025-06-06 16:01:20*
