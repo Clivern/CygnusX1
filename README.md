@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2506/NGC3521-1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The largest known star is UY Scuti, with a diameter over 1,700 times that of the Sun.</p>
+    <p align="center">The universe is thought to be around 13.7 billion years old.</p>
 </p>
 <br/>
 
 Explanation
 --
-What's that unusual spot on the Moon? It's the International Space Station. Using precise timing, the Earth-orbiting space platform was photographed in front of a partially lit gibbous Moon in 2019. The featured image was taken from Palo Alto, California, USA with an exposure time of only 1/667 of a second. In contrast, the duration of the transit of the ISS across the entire Moon was about half a second.  A close inspection of this unusually crisp ISS silhouette will reveal the outlines of numerous solar panels and trusses.  The bright crater Tycho is visible on the lower left, as well as comparatively rough, light colored terrain known as highlands and relatively smooth, dark colored areas known as maria.  Downloadable  apps can tell you when the International Space Station will be visible from your area.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24
+Gorgeous spiral galaxy NGC 3521 is a mere 35 million light-years away, toward the northern springtime constellation Leo. Relatively bright in planet Earth's sky, NGC 3521 is easily visible in small telescopes but often overlooked by amateur imagers in favor of other Leo spiral galaxies, like M66 and M65. It's hard to overlook in this colorful cosmic portrait though. Spanning some 50,000 light-years the galaxy sports characteristic patchy, irregular spiral arms laced with dust, pink star forming regions, and clusters of young, blue stars. The deep image also finds NGC 3521 embedded in fainter, gigantic, bubble-like shells. The shells are likely tidal debris, streams of stars torn from satellite galaxies that have undergone mergers with NGC 3521 in the distant past.
 
 
-*Last updated at 2025-06-19 00:03:41*
+*Last updated at 2025-06-19 04:05:59*
