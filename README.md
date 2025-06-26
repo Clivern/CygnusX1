@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The Milky Way galaxy has an estimated 100 billion stars.</p>
+    <p align="center">Quantum superposition allows particles to exist in multiple states simultaneously.</p>
 </p>
 <br/>
 
 Explanation
 --
-This interstellar skyscape spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way. A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on telescopic tours of the cosmos: Messier 8 and Messier 20. An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula. About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars. Their intense radiation and stellar winds energize and agitate this cosmic lagoon's turbulent depths. Messier 20's popular moniker is the Trifid. Divided into three parts by dark interstellar dust lanes, the Trifid Nebula's glowing hydrogen gas creates its dominant red color. But contrasting blue hues in the colorful Trifid are due to dust reflected starlight. The Rubin Observatory visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4). At full resolution, Rubin's magnificent Sagittarius skyscape is 84,000 pixels wide and 51,500 pixels tall.
+An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the Seagull Nebula. This broadband portrait of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367. The larger emission region, encompassing objects with other catalog designations, is Likely part of an extensive shell structure swept up by successive supernova explosions. The notable bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.
 
 
-*Last updated at 2025-06-26 00:03:35*
+*Last updated at 2025-06-26 04:06:11*
