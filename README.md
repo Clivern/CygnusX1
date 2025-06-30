@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2506/almosttrees_mro_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There are more potential iterations of a game of chess than there are atoms in the observable universe.</p>
+    <p align="center">Halley’s Comet won’t be seen again until 2061.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Are these trees growing on Mars? No.  Groups of dark brown streaks have been photographed by the Mars Reconnaissance Orbiter on melting pinkish sand dunes covered with light frost. The featured image was taken in 2008 April near the North Pole of Mars. At that time, dark sand on the interior of Martian sand dunes became more and more visible as the spring Sun melted the lighter carbon dioxide ice.  When occurring near the top of a dune, dark sand may cascade down the dune leaving dark surface streaks -- streaks that might appear at first to be trees standing in front of the lighter regions but cast no shadows. Objects about 25 centimeters across are resolved on this image spanning about one kilometer. Close ups of some parts of this image show billowing plumes indicating that the sand slides were occurring even while the image was being taken.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
 
 
-*Last updated at 2025-06-29 20:00:59*
+*Last updated at 2025-06-30 00:04:01*
