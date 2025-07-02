@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There is a supermassive black hole at the heart of every galaxy</p>
+    <p align="center">The observable universe is estimated to be about 93 billion light-years in diameter.</p>
 </p>
 <br/>
 
 Explanation
 --
-What do you see when you look into this sky? In the center, in the dark, do you see a night sky filled with stars? Do you see a sunset to the left? Clouds all around? Do you see the central band of our Milky Way Galaxy running down the middle? Do you see the ruins of an abandoned outpost on a hill? (The outpost is on Askold Island, Russia.)  Do you see a photographer with a headlamp contemplating surreal surroundings? (The featured image is a panorama of 38 images taken last month and compiled into a Little Planet projection.)  Do you see a rugged path lined with steps? Or do you see the eye of a dragon?
+Does the Milky Way always rise between these two rocks? No. Capturing this stunning alignment took careful planning: being in the right place at the right time. In the featured image taken in June 2024 from Otago, New Zealand, the bright central core of our Milky Way Galaxy, home to the many of our Galaxy's 400 billion stars, can be seen between two picturesque rocks spires.  For observers in Earth's Northern Hemisphere, the core is only visible throughout the summer. As Earth orbits the Sun, different parts of the Milky Way become visible at different angles at different times of the night. As Earth rotates, the orientation of the Milky Way in the sky also shifts -- sometimes standing vertically as seen in the featured image, and other times stretching parallel to the horizon, making it harder to see. In early June, observers can watch it emerge low on the horizon after sunset and gradually arc upward to reveal its full grandeur.
 
 
-*Last updated at 2025-07-02 00:03:36*
+*Last updated at 2025-07-02 04:07:08*
