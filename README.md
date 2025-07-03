@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2507/V462Lupi_Pon_960_annotated.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There are more potential iterations of a game of chess than there are atoms in the observable universe.</p>
+    <p align="center">The Drake Equation is a formula used to estimate the number of active, communicative extraterrestrial civilizations in our Milky Way galaxy.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 If you know where to look, you can see a thermonuclear explosion from a white dwarf star. Possibly two.  Such explosions are known as novas and the detonations are currently faintly visible with the unaided eye in Earth's southern hemisphere -- but are more easily seen with binoculars. Pictured, Nova Lupi 2025 (V462 Lupi) was captured toward the southern constellation of the Wolf (Lupus) last week near the central plane of our Milky Way galaxy.  Nova Lupi 2025 was originally discovered on June 12 and peaked in brightness about a week later. Similarly, Nova Velorum 2025, toward the southern constellation of the Ship Sails (Vela), was discovered on June 25 and peaked a few days later.  A nova somewhere in our Galaxy becomes briefly visible to the unaided eye only every year or two, so it is quite unusual to have two novas visible simultaneously.  Meanwhile, humanity awaits even a different nova: T Coronae Borealis, which should become visible in northern skies and is expected to become even brighter.
 
 
-*Last updated at 2025-07-03 12:01:44*
+*Last updated at 2025-07-03 16:01:15*
