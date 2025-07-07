@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2507/Interstellar3I_nasa_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Cosmic inflation theory suggests that the universe underwent rapid expansion shortly after the Big Bang.</p>
+    <p align="center">The concept of time dilation means that time passes more slowly in strong gravitational fields or at high speeds.</p>
 </p>
 <br/>
 
 Explanation
 --
-Why is there a spiral around the North Pole of Mars?  Each winter this pole develops a new outer layer about one meter thick composed of carbon dioxide frozen out of the thin Martian atmosphere.  This fresh layer is deposited on a water-ice layer that exists year round.  Strong winds blow down from above the cap's center and swirl due to the spin of the red planet -- contributing to Planum Boreum's spiral structure.  The featured image is a perspective mosaic generated in 2017 from numerous images taken by ESA's Mars Express and elevations extracted from the laser altimeter aboard NASA's Mars Global Surveyor mission.
+It came from outer space.  An object from outside our Solar System is now passing through at high speed. Classified as a comet because of its gaseous coma, 3I/ATLAS is only the third identified macroscopic object as being so alien. The comet's trajectory is shown in white on the featured map, where the orbits of Jupiter, Mars, and Earth are shown in gold, red, and blue. Currently Comet 3I/ATLAS is about the distance of Jupiter from the Sun -- but closing, with its closest approach to our Sun expected to be within the orbit of Mars in late October. Expected to pass near both Mars and Jupiter, 3I/ATLAS is not expected to pass close to the Earth.  The origin of Comet 3I/ATLAS remains unknown. Although initial activity indicates a relatively normal comet, future observations about 3I/ATLAS' composition and nature will surely continue.   Piece it All Together: Astronomy Puzzle of the Day
 
 
-*Last updated at 2025-07-07 00:03:57*
+*Last updated at 2025-07-07 04:10:05*
