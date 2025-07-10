@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2507/LDN1251gualco1024.JPG' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Time dilation near black holes can warp perception of time.</p>
+    <p align="center">White holes are theoretical objects, considered the opposite of black holes, where matter and light would escape but nothing could enter.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, LDN 1251 is also less appetizingly known as "The Rotten Fish Nebula." The dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk in the scene, almost buried behind the dusty expanse. This alluring telescopic frame spans almost three full moons on the sky. That corresponds to over 25 light-years at the estimated distance of LDN 1251.
 
 
-*Last updated at 2025-07-10 08:01:16*
+*Last updated at 2025-07-10 12:01:24*
