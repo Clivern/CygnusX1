@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The universe's age is about 13.8 billion years.</p>
+    <p align="center">Red giants are massive stars in their final stages before becoming white dwarfs or supernovae.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But, the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, in this deep telescopic view it almost covers the area of a full moon on planet Earth's sky.
 
 
-*Last updated at 2025-07-09 20:01:05*
+*Last updated at 2025-07-10 00:04:00*
