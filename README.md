@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2507/DoubleSN_ESO_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There are more stars in the universe than grains of sand on Earth.</p>
+    <p align="center">The Pillars of Creation in the Eagle Nebula are vast columns of gas and dust.</p>
 </p>
 <br/>
 
 Explanation
 --
-Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible toward the constellation of the Scorpion  (Scorpius).  At 5,700 light years distant, Cat's Paw is an emission nebula within a larger molecular cloud.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is a recently released image of the Cat's Paw taken in infrared light by the James Webb Space Telescope.  This newly detailed view into the nebula helps provide insight for how turbulent molecular clouds turn gas into stars. 
+Can some supernovas explode twice? Yes, when the first explosion acts like a detonator for the second. This is a leading hypothesis for the cause of supernova remnant (SNR) 0509-67.5.  In this two-star system, gravity causes the larger and fluffier star to give up mass to a smaller and denser white dwarf companion. Eventually the white dwarf's near-surface temperature goes so high that it explodes, creating a shock wave that goes both out and in -- and so triggers a full Type Ia supernova near the center. Recent images of the SNR 0509-67.5 system, like the featured image from the Very Large Telescope in Chile, show two shells with radii and compositions consistent with the double detonation hypothesis. This system, SNR 0509-67.5 is also famous for two standing mysteries: why its bright supernova wasn't noted 400 years ago, and why no visible companion star remains.
 
 
-*Last updated at 2025-07-22 00:04:00*
+*Last updated at 2025-07-22 04:13:27*
