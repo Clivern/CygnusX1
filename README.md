@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1024.png' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Stars are formed from clouds of gas and dust in space, primarily hydrogen and helium.</p>
+    <p align="center">The largest known star, UY Scuti, is over 1,700 times larger than our sun.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 very 15 years or so, Saturn's rings are tilted edge-on to our line of sight. As the bright, beautiful ring system grows narrower and fainter it becomes increasingly difficult to see for denizens of planet Earth. But it does provide the opportunity to watch transits of Saturn's moons and their dark shadows across the ringed gas giant's still bright disk. Of course Saturn's largest moon Titan is the easiest to spot in transit. In this telescopic snapshot from July 18, Titan itself is at the upper left, casting a round dark shadow on Saturn's banded cloudtops above the narrow rings. In fact Titan's transit season is in full swing now with shadow transits every 16 days corresponding to the moon's orbital period. Its final shadow transit will be on October 6, though Titan's pale disk will continue to cross in front of Saturn as seen from telescopes on planet Earth every 16 days through January 25, 2026.
 
 
-*Last updated at 2025-07-24 04:13:50*
+*Last updated at 2025-07-24 08:01:21*
