@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">A person who weighs 220 lbs on Earth would weigh 84 lbs on Mars.</p>
+    <p align="center">Quantum entanglement allows particles to be connected regardless of distance instantaneously.</p>
 </p>
 <br/>
 
 Explanation
 --
-Have you ever watched a lightning storm in awe?  You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges that are lightning soon result.  Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun.  The resulting shock wave starts supersonically and decays into the loud sound known as thunder.  On average, around the world, about 6,000 lightning bolts occur between clouds and the Earth every minute. Pictured in July 2019 in a two-image composite, lightning stems from communication antennas near the top of Volcán de Agua (Volcano of Water) in Guatemala.  Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+Is the Helix Nebula looking at you? No, not in any biological sense, but it does look quite like an eye. The Helix Nebula is so named because it also appears that you are looking down the axis of a helix. In actuality, it is now understood to have a surprisingly complex geometry, including radial filaments and extended outer loops.  The Helix Nebula (aka NGC 7293) is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The featured picture, taken in red, green, and blue but highlighted by light emitted primarily by hydrogen was created from 12 hours of exposure through a personal telescope located in Greece.  A close-up of the inner edge of the Helix Nebula shows complex gas knots the origin of which are  still being researched.    Portal Universe: Random APOD Generator
 
 
-*Last updated at 2025-07-28 00:04:05*
+*Last updated at 2025-07-29 04:17:48*
