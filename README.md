@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">There are 88 recognized constellations.</p>
+    <p align="center">Some voids are hundreds of millions of light-years wide.</p>
 </p>
 <br/>
 
 Explanation
 --
-Is the Helix Nebula looking at you? No, not in any biological sense, but it does look quite like an eye. The Helix Nebula is so named because it also appears that you are looking down the axis of a helix. In actuality, it is now understood to have a surprisingly complex geometry, including radial filaments and extended outer loops.  The Helix Nebula (aka NGC 7293) is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The featured picture, taken in red, green, and blue but highlighted by light emitted primarily by hydrogen was created from 12 hours of exposure through a personal telescope located in Greece.  A close-up of the inner edge of the Helix Nebula shows complex gas knots the origin of which are  still being researched.    Portal Universe: Random APOD Generator
+Our Sun frequently erupts in loops.  Hot solar plasma jumps off the Sun's surface into prominences, with the most common type of prominence being a simple loop.  The loop shape originates from the Sun's magnetic field, which is traced by spiraling electrons and protons.  Many loops into the Sun's lower corona are large enough to envelop the Earth and are stable enough to last days.  They commonly occur near active regions that also include dark sunspots.  The featured panel shows four loops, each of which was captured near the Sun's edge during 2024 and 2025. The images were taken by a personal telescope in Mantova, Italy and in a very specific color of light emitted primarily by hydrogen. Some solar prominences suddenly break open and eject particles into the Solar System, setting up a space weather sequence that can affect the skies and wires of Earth.    Jigsaw Universe: Astronomy Puzzle of the Day
 
 
-*Last updated at 2025-07-30 00:04:29*
+*Last updated at 2025-07-30 04:15:41*
