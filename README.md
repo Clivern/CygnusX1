@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">The majority of the universe is composed of hydrogen (75%) and helium (25%).</p>
+    <p align="center">They create heavy elements like gold, silver, and uranium.</p>
 </p>
 <br/>
 
@@ -10,4 +10,4 @@ Explanation
 One of the all-time historic skyscapes occured in July 1054, when the Crab Supernova blazed into the dawn sky. Chinese court astrologers first saw the Guest Star on the morning of 4 July 1054 next to the star Tianguan (now cataloged as Zeta Tauri). The supernova peaked in late July 1054 a bit brighter than Venus, and was visible in the daytime for 23 days. The Guest Star was so bright that every culture around the world inevitably discovered the supernova independently, although only nine reports survive, including those from China, Japan, and Constantinople. This iPhone picture is from Signal Hill near Tucson on the morning of 26 July 2025, faithfully re-creates the year 1054 Dawn of the Crab, showing the sky as seen by Hohokam peoples. The planet Venus, as a stand-in for the supernova, is close to the position of what is now the Crab Nebula supernova remnant. Step outside on a summer dawn with bright Venus, and ask yourself "What would you have thought in ancient times when suddenly seeing the Dawn of the Crab?"
 
 
-*Last updated at 2025-08-08 04:16:10*
+*Last updated at 2025-08-08 08:01:25*
