@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2508/3I_Hubble1024.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">Neutrinos are nearly massless particles that rarely interact with matter.</p>
+    <p align="center">The Laniakea Supercluster is a massive galaxy supercluster that includes the Milky Way and many other galaxies.</p>
 </p>
 <br/>
 
 Explanation
 --
-One of the all-time historic skyscapes occured in July 1054, when the Crab Supernova blazed into the dawn sky. Chinese court astrologers first saw the Guest Star on the morning of 4 July 1054 next to the star Tianguan (now cataloged as Zeta Tauri). The supernova peaked in late July 1054 a bit brighter than Venus, and was visible in the daytime for 23 days. The Guest Star was so bright that every culture around the world inevitably discovered the supernova independently, although only nine reports survive, including those from China, Japan, and Constantinople. This iPhone picture is from Signal Hill near Tucson on the morning of 26 July 2025, faithfully re-creates the year 1054 Dawn of the Crab, showing the sky as seen by Hohokam peoples. The planet Venus, as a stand-in for the supernova, is close to the position of what is now the Crab Nebula supernova remnant. Step outside on a summer dawn with bright Venus, and ask yourself "What would you have thought in ancient times when suddenly seeing the Dawn of the Crab?"
+Discovered on July 1 with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System. It follows 1I/ʻOumuamua in 2017 and the comet 2I/Borisov in 2019.  Also known as C/2025 N1, 3I/ATLAS is a comet. A teardrop-shaped cloud of dust, ejected from its icy nucleus warmed by increasing sunlight, is seen in this sharp image from the Hubble Space Telescope captured on July 21. Background stars are streaked in the exposure as Hubble tracked the fastest comet ever recorded on its journey toward the inner solar system. An analysis of the Hubble image indicates the solid nucleus, hidden from direct view, is likely less that 5.6 kilometers in diameter. This comet's interstellar origin is clear from its orbit, determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return 3I/ATLAS to interstellar space. Not a threat to planet Earth, the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just inside the orbital distance of Mars.
 
 
-*Last updated at 2025-08-09 00:03:24*
+*Last updated at 2025-08-09 04:06:55*
