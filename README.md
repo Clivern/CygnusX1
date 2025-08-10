@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2508/3I_Hubble1024.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
     <p align="center">Magnetars are neutron stars with extremely powerful magnetic fields, trillions of times stronger than Earth's.</p>
 </p>
@@ -7,7 +7,7 @@
 
 Explanation
 --
-Discovered on July 1 with the NASA-funded ATLAS (Asteroid Terrestrial-impact Last Alert System) survey telescope in Rio Hurtado, Chile, 3I/ATLAS is so designated as the third known interstellar object to pass through our Solar System. It follows 1I/ʻOumuamua in 2017 and the comet 2I/Borisov in 2019.  Also known as C/2025 N1, 3I/ATLAS is a comet. A teardrop-shaped cloud of dust, ejected from its icy nucleus warmed by increasing sunlight, is seen in this sharp image from the Hubble Space Telescope captured on July 21. Background stars are streaked in the exposure as Hubble tracked the fastest comet ever recorded on its journey toward the inner solar system. An analysis of the Hubble image indicates the solid nucleus, hidden from direct view, is likely less that 5.6 kilometers in diameter. This comet's interstellar origin is clear from its orbit, determined to be an eccentric, highly hyperbolic orbit that does not loop back around the Sun and will return 3I/ATLAS to interstellar space. Not a threat to planet Earth, the inbound interstellar interloper is now within the Jupiter's orbital distance of the Sun, while its closest approach to the Sun will bring it just inside the orbital distance of Mars.
+What's that strange light down the road? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently just after sunset -- or just before sunrise -- and is called zodiacal light.  Although the origin of this dust is still being researched, a leading hypothesis holds that zodiacal dust originates mostly from faint Jupiter-family comets and slowly spirals into the Sun. Recent analysis of dust emitted by Comet 67P, visited by ESA's robotic Rosetta spacecraft, bolsters this hypothesis.  Pictured when climbing a road up to Teide National Park in the Canary Islands of Spain, a bright triangle of zodiacal light appeared in the distance soon after sunset. Captured on June 21, 2019, the scene includes bright Regulus, the alpha star of the constellation Leo, standing above center toward the left. The Beehive Star Cluster (M44) can be spotted below center, closer to the horizon and also immersed in the zodiacal glow.
 
 
-*Last updated at 2025-08-10 00:04:20*
+*Last updated at 2025-08-10 04:15:04*
