@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">If you fell into a black hole, you would never escape</p>
+    <p align="center">There are more stars in the universe than there are grains of sand on all the beaches on Earth.</p>
 </p>
 <br/>
 
 Explanation
 --
-If you could stand on Titan -- what would you see? The featured color view from Titan gazes across an unfamiliar and distant landscape on Saturn's largest moon.  The scene was recorded by ESA's Huygens probe in 2005 after a 2.5-hour descent through a thick atmosphere of nitrogen laced with methane.  Bathed in an eerie orange light at ground level, rocks strewn about the scene could well be composed of water and hydrocarbons frozen solid at an inhospitable temperature of negative 179 degrees C.  The large light-toned rock below and left of center is only about 15 centimeters across and lies 85 centimeters away.  The saucer-shaped spacecraft is believed to have penetrated about 15 centimeters into a place on Titan's surface that had the consistency of wet sand or clay.  Huygen's batteries enabled the probe to take and transmit data for more than 90 minutes after landing.  Titan's bizarre chemical environment may bear similarities to planet Earth's before life evolved.
+Yesterday the Sun reached its southernmost point in planet Earth's sky.  Called a solstice, many cultures mark yesterday's date as a change of seasons -- from autumn to winter in Earth's Northern Hemisphere and from spring to summer in Earth's Southern Hemisphere.  The featured image was taken just before the longest night of the 2025 northern year at Stonehenge in United Kingdom. There, through stones precisely placed 4,500 years ago, a 4.5 billion year old large glowing orb is seen setting. Even given the precession of the Earth's rotational axis over the millennia, the Sun continues to set over Stonehenge in an astronomically significant way.
 
 
-*Last updated at 2025-12-01 00:07:36*
+*Last updated at 2025-12-22 16:04:35*
