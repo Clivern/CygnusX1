@@ -1,13 +1,13 @@
 <p align='center'>
-    <img src='https://apod.nasa.gov/apod/image/2603/Titania_Voyager2_960.jpg' width='60%' />
+    <img src='https://apod.nasa.gov/apod/image/2604/waves.mp4' width='60%' />
     <h3 align="center">Cygnus X-1</h3>
-    <p align="center">68% of the universe is dark energy, and 27% is dark matter</p>
+    <p align="center">Galactic cannibalism occurs when one galaxy absorbs another, incorporating its stars.</p>
 </p>
 <br/>
 
 Explanation
 --
-Titania's tortured terrain is a mix of canyons, cliffs, and craters.  NASA's interplanetary robot spacecraft Voyager 2 passed the largest moon of Uranus in 1986 and took the feature picture. That the trenches of Titania resemble those on another moon of Uranus, Ariel, indicate that Titania underwent some violent surface event possibly related to water freezing and expanding in its distant past.  Although Titania is Uranus's largest moon, it is only about half the radius of Triton - the largest moon of Uranus's sister planet Neptune, which itself is slightly smaller than Earth's Moon.  Titania, discovered by William Herschel in 1787, is essentially a large dirty iceball that is composed of about half water-ice and half rock.  There is recent speculation that radioactive heating melts some underground ice into oceans.
+Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of Saturn to date, and the only object in the solar system (besides Earth) known to have liquid lakes and seas on its surface.  The featured video shows a simulation of waves on Earth (right) and on Titan (left), under the same conditions (the scale marker is in meters). A light breeze would create taller, slower-moving waves on Titan than on Earth, because the lakes there are filled with light liquid hydrocarbons, and because of Titan's low gravity and higher atmospheric pressure. In a couple of years, NASA expects to launch the Dragonfly mission, which will travel for 6 years and send a rotorcraft to explore Titan and study its microbial habitability.
 
 
-*Last updated at 2026-04-01 00:13:03*
+*Last updated at 2026-05-01 00:21:52*
